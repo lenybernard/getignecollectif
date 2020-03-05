@@ -15,22 +15,18 @@
     }
   },
   "footer": {
-    "logo_img": "images/logo_alt.png",
-    "tagline": "SaaS theme by Stackbit",
+    "logo_img": "/images/logo-inverse.png",
+    "tagline": "L'alternative citoyenne",
     "has_nav": true,
-    "nav_title": "Company",
+    "nav_title": "La liste",
     "has_social": true,
-    "social_title": "Community",
+    "social_title": "Suivez-nous",
     "has_subscribe": true,
-    "subscribe_title": "Subscribe",
-    "subscribe_content": "Stay up to date with our latest developments.",
-    "content": "&copy; Stackbit. All rights reserved.",
+    "subscribe_title": "S'abonner",
+    "subscribe_content": "Recevez les informations liées au collectif.",
+    "content": "",
     "links": [
-      {
-        "text": "Made with Stackbit",
-        "url": "https://www.stackbit.com",
-        "new_window": true
-      }
+
     ]
   }
 }
