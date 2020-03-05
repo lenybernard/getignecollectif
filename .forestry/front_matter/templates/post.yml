@@ -38,3 +38,4 @@ fields:
     required: true
 pages:
 - src/pages/posts/appel-à-engagement.md
+- src/pages/posts/ciné-débat-imaginer-ensemble-gétigné.md
