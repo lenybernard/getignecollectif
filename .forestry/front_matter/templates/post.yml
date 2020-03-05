@@ -37,5 +37,6 @@ fields:
   config:
     required: true
 pages:
+- src/pages/posts/Presse/une-autre-liste-veut-sortir-du-bois.md
 - src/pages/posts/appel-à-engagement.md
 - src/pages/posts/ciné-débat-imaginer-ensemble-gétigné.md
