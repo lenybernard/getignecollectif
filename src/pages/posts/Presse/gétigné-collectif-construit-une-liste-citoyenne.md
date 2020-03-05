@@ -4,7 +4,7 @@ title: Gétigné collectif construit une liste citoyenne
 subtitle: Article Ouest-France - Samedi 22 Février
 date: 2020-02-21T23:00:00Z
 thumb_img_path: "/images/preview-ouest-france.jpg"
-img_path: ''
+img_path: "/images/20200222_163028(1)(1).jpg"
 excerpt: "« Aujourd’hui et demain, nous discuterons de notre engagement au 19, rue
   des Changes, à Gétigné »"
 
