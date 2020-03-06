@@ -96,7 +96,7 @@ sections:
 - type: section_posts
   template: section_posts
   section_id: recent-posts
-  title: Latest Posts
+  title: Derniers articles
   bg: gray
   subtitle: ''
 menus:
