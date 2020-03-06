@@ -15,4 +15,4 @@ Dans cet appel, 3 dates étaient proposées en moins d'une semaine. Une quinzain
 
 > De profils, d'âge, de métiers, de compétences et d'origines différentes, cette grande diversité couplée à une détermination et l'adhésion à des principes d'ouverture d'esprit, de dialogue, de bienveillance et de co-construction sont nos plus grands atouts !
 
-Cet idéal est désormais à porté de main et pour le réaliser, nous avons désormais besoin d'un maximum de citoyens pour mettre du vent dans la voile collective et commencer à imaginer ensemble Gétigné dès maintenant.
+Cet idéal est désormais à porté de main et pour le réaliser, nous avons désormais besoin d'un maximum de citoyens pour mettre du vent dans la voile collective.
