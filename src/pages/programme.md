@@ -26,7 +26,7 @@ sections:
     image: "/images/atom.svg"
   - title: Pour une entraide forte
     theme: ''
-    details: "## "
+    details: ''
     highlight: false
     actions:
     - label: En savoir plus
