@@ -36,13 +36,18 @@ sections:
     actions:
     - label: En savoir plus
       url: "/liste-participative"
-  - title: Awesome Feature of Your Services
-    content: Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-      sapien interdum luctus. Cras rhoncus condimentum metus sit amet auctor.
-    image: images/feature2.png
+  - title: Le programme, c'est vous
+    content: 'Qu''il s''agisse de sujets d''aménagements de la commune, d''investissements
+      publics, de politiques environnementales, sociales ou culturelles, nous avons
+      tous beaucoup d''idées. Mais une idée n''est rien sans la capacité de la faire
+      exister, sans lieu pour la présenter, pour en débattre et imaginer des solutions
+      ! Montrons qu''une alternative est possible : où les citoyens sont chez eux
+      à la mairie, où le conseil municipal ne décide pas seul. Une voie plus solidaire,
+      plus sociale, plus protectrice, résiliente, écologique et économique.'
+    image: "/images/feature3-1.png"
     actions:
-    - label: Learn More
-      url: "/features"
+    - label: Découvrir le programme
+      url: "/programme"
   - title: Cool Feature of Your Services
     content: In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean quis
       venenatis sem. Proin eget massa id metus eleifend maximus sit amet nec urna.
