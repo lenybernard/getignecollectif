@@ -4,7 +4,7 @@ sections:
 - type: section_contact
   template: section_contact
   section_id: contact
-  title: Rejoindre le mouvement
+  title: Contactez-nous !
   content: 'Vous souhaitez participer à la vie de la commune ? Que votre voix porte
     et compte ? Envoyez-nous un message à l''adresse [contact@getigne-collectif.fr](mailto:contact@getigne-collectif.fr)
     ou remplissez le questionnaire ci-dessous :'
