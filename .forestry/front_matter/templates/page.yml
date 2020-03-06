@@ -24,5 +24,5 @@ fields:
   config:
     required: true
 pages:
-- src/pages/qui-sommes-nous.md
 - src/pages/appel-aux-dons.md
+- src/pages/qui-sommes-nous.md
