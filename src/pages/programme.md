@@ -39,7 +39,7 @@ sections:
     - label: En savoir plus
       url: "/programme-ville-dynamique"
     highlight: false
-    image: ''
+    image: "/images/theater.svg"
   - title: Pour des services publics forts & engagés
     theme: ''
     details: ''
@@ -47,7 +47,7 @@ sections:
     actions:
     - label: En savoir plus
       url: "/programme-"
-    image: ''
+    image: "/images/solar-power.svg"
   - title: Pour un espace public éco-responsable
     theme: ''
     details: ''
@@ -63,7 +63,7 @@ sections:
     actions:
     - label: En savoir plus
       url: "/programme-"
-    image: ''
+    image: "/images/bus-stop.svg"
   - title: S'engager avec l'Aggloh!
     theme: ''
     details: ''
