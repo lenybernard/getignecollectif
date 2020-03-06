@@ -12,168 +12,168 @@ sections:
   bg: gray
   type: section_program
   programplans:
-  - title: " Marion Bernard, "
+  - title: ''
     theme: ''
     highlight: false
     actions: []
-    image: ''
-    details: 36 ans, Professeur
-  - title: Cyril Allain
+    image: "/images/3.png"
+    details: ''
+  - title: ''
     theme: ''
-    details: 46 ans, Cadre associatif
+    details: ''
     highlight: false
     actions: []
-    image: ''
-  - title: Céline David
+    image: "/images/4-2.png"
+  - title: ''
     theme: ''
-    details: 46 ans, Conductrice de car
+    details: ''
     highlight: false
     actions: []
-    image: ''
-  - title: Romuald Poulnais
+    image: "/images/5-2.jpg"
+  - title: ''
     theme: ''
-    details: 40 ans, Imprimeur
+    details: ''
     highlight: false
     actions: []
-    image: ''
-  - title: Séverine Dollet
+    image: "/images/6-2.jpg"
+  - title: ''
     theme: ''
-    details: 42 ans, Conseillère auprès d'entreprises
+    details: ''
     highlight: false
     actions: []
-    image: ''
-  - title: Jean-Jacques Le Hericy
+    image: "/images/7-2.jpg"
+  - title: ''
     theme: ''
-    details: 65 ans, Commercant retraité
+    details: ''
     highlight: false
     actions: []
-    image: ''
-  - title: Gwenola Corre
+    image: "/images/8-2.jpg"
+  - title: ''
     theme: ''
-    details: 42 ans, Professeur
+    details: ''
     highlight: false
     actions: []
-    image: ''
-  - title: Thibaud Toullier
+    image: "/images/9-1.jpg"
+  - title: ''
     theme: ''
-    details: 28 ans, Docteur en mathématiques
-    highlight: false
-    actions: []
-    image: ''
-  - title: Laurence Neveu
-    theme: 46 ans, Professeur
     details: ''
     highlight: false
     actions: []
-    image: ''
-  - title: Matthieu Covez
-    theme: 37 ans, Éducateur de jeunes enfants
+    image: "/images/10-2.jpg"
+  - title: ''
+    theme: ''
     details: ''
     highlight: false
     actions: []
-    image: ''
-  - title: Stéphanie Pineau
-    theme: 45 ans, Infirmière
+    image: "/images/11-2.jpg"
+  - title: ''
+    theme: ''
     details: ''
     highlight: false
     actions: []
-    image: ''
-  - title: Marc-Antoine Moreau
-    theme: 32 ans, Employé territorial
+    image: "/images/12-2.jpg"
+  - title: ''
+    theme: ''
     details: ''
     highlight: false
     actions: []
-    image: ''
-  - title: Marie Capdecomme
-    theme: 53 ans, Salariée d'une recyclerie
+    image: "/images/13-1.jpg"
+  - title: ''
+    theme: ''
     details: ''
     highlight: false
     actions: []
-    image: ''
-  - title: Arnaud Leduc
-    theme: 46 ans, Ingénieur d'étude en informatique
+    image: "/images/14.jpg"
+  - title: ''
+    theme: ''
     details: ''
     highlight: false
     actions: []
-    image: ''
-  - title: Nina Bau
-    theme: 38 ans, Travailleuse sociale
+    image: "/images/15.jpg"
+  - title: ''
+    theme: ''
     details: ''
     highlight: false
     actions: []
-    image: ''
-  - title: Adrien Bouchier
-    theme: 35 ans, Ouvrier Couvreur
+    image: "/images/16.jpg"
+  - title: ''
+    theme: ''
     details: ''
     highlight: false
     actions: []
-    image: ''
-  - title: 17 Gwenola Le Govic
-    theme: 64 ans, Retraitée
+    image: "/images/17.jpg"
+  - title: ''
+    theme: ''
     details: ''
     highlight: false
     actions: []
-    image: ''
-  - title: Sébastien Loizeau
-    theme: 46 ans, Cuisinier
+    image: "/images/18.jpg"
+  - title: ''
+    theme: ''
     details: ''
     highlight: false
     actions: []
-    image: ''
-  - title: Cécile Chevalier
-    theme: 43 ans, Professeur des écoles
+    image: "/images/19.jpg"
+  - title: ''
+    theme: ''
     details: ''
     highlight: false
     actions: []
-    image: ''
-  - title: Gael Planchot
-    theme: 40 ans, Jardinier
+    image: "/images/20.jpg"
+  - title: ''
+    theme: ''
     details: ''
     highlight: false
     actions: []
-    image: ''
-  - title: Clémence Miton
-    theme: 18 ans, Étudiante en langues
+    image: "/images/21.jpg"
+  - title: ''
+    theme: ''
     details: ''
     highlight: false
     actions: []
-    image: ''
-  - title: Elliot David
-    theme: 18 ans, Lycéen en sciences économiques et sociales
+    image: "/images/22.jpg"
+  - title: ''
+    theme: ''
     details: ''
     highlight: false
     actions: []
-    image: ''
-  - title: Agnès Robert
-    theme: '65 ans, Agricultrice retraitée '
+    image: "/images/23.jpg"
+  - title: ''
+    theme: ''
     details: ''
     highlight: false
     actions: []
-    image: ''
-  - title: Sylvain Domon
-    theme: 50 ans, Magasinier/ Archiviste
+    image: "/images/24.jpg"
+  - title: ''
+    theme: ''
     details: ''
     highlight: false
     actions: []
-    image: ''
-  - title: Eveline Melilli
-    theme: 50 ans, Monitrice d'atelier, agricultrice BIO
+    image: "/images/25.jpg"
+  - title: ''
+    theme: ''
     details: ''
     highlight: false
     actions: []
-    image: ''
-  - title: François Auvray
-    theme: 80 ans, Retraité
+    image: "/images/26.jpg"
+  - title: ''
+    theme: ''
     details: ''
     highlight: false
     actions: []
-    image: ''
-  - title: Nicole Baudoux
-    theme: 79 ans, Retraitée
+    image: "/images/27.jpg"
+  - title: ''
+    theme: ''
     details: ''
     highlight: false
     actions: []
-    image: ''
+    image: "/images/29.jpg"
+  - title: ''
+    theme: ''
+    details: ''
+    highlight: false
+    actions: []
+    image: "/images/28.jpg"
   title: La liste
   subtitle: ''
   section_id: ''
