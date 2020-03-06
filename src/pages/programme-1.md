@@ -16,14 +16,14 @@ sections:
     theme: ''
     highlight: false
     actions: []
-    image: "/images/3.png"
+    image: "/images/3-2.jpg"
     details: ''
   - title: ''
     theme: ''
     details: ''
     highlight: false
     actions: []
-    image: "/images/4-2.png"
+    image: "/images/4-2.jpg"
   - title: ''
     theme: ''
     details: ''
