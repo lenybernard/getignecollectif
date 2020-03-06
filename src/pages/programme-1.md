@@ -90,60 +90,60 @@ sections:
     highlight: false
     actions: []
     image: "/images/15.jpg"
-  - title: Arnaud Leduc
-    theme: 46 ans, Ingénieur d'étude en informatique
+  - title: ''
+    theme: ''
     details: ''
     highlight: false
     actions: []
-    image: ''
-  - title: Nina Bau
-    theme: 38 ans, Travailleuse sociale
+    image: "/images/16.jpg"
+  - title: ''
+    theme: ''
     details: ''
     highlight: false
     actions: []
-    image: ''
-  - title: Adrien Bouchier
-    theme: 35 ans, Ouvrier Couvreur
+    image: "/images/17.jpg"
+  - title: ''
+    theme: ''
     details: ''
     highlight: false
     actions: []
-    image: ''
-  - title: 17 Gwenola Le Govic
-    theme: 64 ans, Retraitée
+    image: "/images/18.jpg"
+  - title: ''
+    theme: ''
     details: ''
     highlight: false
     actions: []
-    image: ''
-  - title: Sébastien Loizeau
-    theme: 46 ans, Cuisinier
+    image: "/images/19.jpg"
+  - title: ''
+    theme: ''
     details: ''
     highlight: false
     actions: []
-    image: ''
-  - title: Cécile Chevalier
-    theme: 43 ans, Professeur des écoles
+    image: "/images/20.jpg"
+  - title: ''
+    theme: ''
     details: ''
     highlight: false
     actions: []
-    image: ''
-  - title: Gael Planchot
-    theme: 40 ans, Jardinier
+    image: "/images/21.jpg"
+  - title: ''
+    theme: ''
     details: ''
     highlight: false
     actions: []
-    image: ''
-  - title: Clémence Miton
-    theme: 18 ans, Étudiante en langues
+    image: "/images/22.jpg"
+  - title: ''
+    theme: ''
     details: ''
     highlight: false
     actions: []
-    image: ''
-  - title: Elliot David
-    theme: 18 ans, Lycéen en sciences économiques et sociales
+    image: "/images/23.jpg"
+  - title: ''
+    theme: ''
     details: ''
     highlight: false
     actions: []
-    image: ''
+    image: "/images/24.jpg"
   - title: Agnès Robert
     theme: '65 ans, Agricultrice retraitée '
     details: ''
