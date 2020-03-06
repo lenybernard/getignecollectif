@@ -1,7 +1,8 @@
 import React from 'react';
 import _ from 'lodash';
 
-import {htmlToReact, markdownify} from '../utils';
+import {htmlToReact, markdownify, safePrefix} from '../utils';
+
 import CtaButtons from './CtaButtons';
 
 export default class SectionProgram extends React.Component {
@@ -27,6 +28,12 @@ export default class SectionProgram extends React.Component {
                     <h3 className="plan-name">{_.get(plan, 'title')}</h3>
                     {_.get(plan, 'theme') && 
                     <div className="plan-theme">{_.get(plan, 'theme')}</div>
+                    }
+{console.log(plan)}
+                    {_.get(plan, 'image') && 
+                    <div className="cell block-preview">
+                      <img src={safePrefix(_.get(plan, 'image'))} alt={_.get(plan, 'title')} />
+                    </div>
                     }
                     <div className="plan-details">
                       {markdownify(_.get(plan, 'details'))}

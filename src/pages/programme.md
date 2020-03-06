@@ -15,6 +15,7 @@ sections:
     actions:
     - label: En savoir plus
       url: "/programme-economie-locale"
+    image: "/images/shop-1.svg"
   - title: Pour une citoyenneté forte
     theme: ''
     details: "## Informer, associer et coproduire"
@@ -22,6 +23,7 @@ sections:
     actions:
     - label: En savoir plus
       url: "/programme-consultation-citoyenne"
+    image: ''
   - title: Pour une entraide forte
     theme: ''
     details: "## Soutenir les initiatives, faciliter l'accès aux aides"
@@ -29,6 +31,7 @@ sections:
     actions:
     - label: En savoir plus
       url: "/programme-entraide-forte"
+    image: ''
   - title: Pour une ville dynamique et chaleureuse
     theme: ''
     details: "## Culture, Sport, Rencontres & Commerce"
@@ -36,13 +39,15 @@ sections:
     - label: En savoir plus
       url: "/programme-ville-dynamique"
     highlight: false
-  - title: Pour un espace public éco-responsable
+    image: ''
+  - title: Pour une gestion éco-responsable de l'espace public
     theme: ''
     details: "## Eau, éclairage, végétalisation, sensibilisation"
     highlight: false
     actions:
     - label: En savoir plus
       url: "/programme-"
+    image: ''
   - title: Pour des mobilités alternatives
     theme: ''
     details: '## Plan de "mobilités douces", liaison Clisson-Nantes, zones dangereuses
@@ -51,6 +56,7 @@ sections:
     actions:
     - label: En savoir plus
       url: "/programme-"
+    image: ''
   - title: Pour des services publics forts & engagés
     theme: ''
     details: "## Défi énergétique, charte environnement, acteurs locaux, alimentation"
@@ -58,6 +64,7 @@ sections:
     actions:
     - label: En savoir plus
       url: "/programme-"
+    image: ''
   - title: S'engager avec l'Aggloh!
     theme: ''
     details: "## Rétablissement des finances, mise en place du PCAET, transparence, inclusion des citoyens"
@@ -65,6 +72,7 @@ sections:
     actions:
     - label: En savoir plus
       url: "/programme-"
+    image: ''
 - type: section_faq
   template: section_faq
   section_id: faq
