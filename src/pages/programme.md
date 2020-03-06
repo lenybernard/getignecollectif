@@ -79,11 +79,11 @@ sections:
       ce que vous souhaitez ? Nous sommes persuadés que l'exercice du pouvoir ne devrait
       pas être un métier. La démocratie n'a pas été pensée comme ça d'ailleurs, l'élection
       par scrutin n'est arrivé que très tard dans l'histoire de la démocratie ! Avant,
-      dans la Grèce Anthique, c'était un processus de tirage au sort, certes parmi
+      dans la Grèce Antique, c'était un processus de tirage au sort, certes parmi
       les notables mais l'élu acceptait son rôle et ses redevabilités comme un honneur.\n\nMaintenant
       pour répondre à la question précise sur notre liste, notre tête de liste Marion
-      Bernard est diplomée d'un Master en politique sociale et santé publique. Elle
-      a travaillé plusieurs année à Famille Rurales en vendée et connait donc assez
+      Bernard est diplômée d'un Master en politique sociale et santé publique. Elle
+      a travaillé plusieurs année à Famille Rurales en Vendée et connait donc assez
       bien le fonctionnement des mairies, des collectivités et des associations. Cyril
       Allain avant de travailler en tant que coordinateur des activités de l'association
       Accoord sur le territoire Nantes Est-Erdre, il a été Directeur du service Animation
