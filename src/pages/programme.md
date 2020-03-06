@@ -34,15 +34,23 @@ sections:
     image: "/images/friendship.svg"
   - title: Pour une ville dynamique et chaleureuse
     theme: ''
-    details: ""
+    details: ''
     actions:
     - label: En savoir plus
       url: "/programme-ville-dynamique"
     highlight: false
     image: ''
+  - title: Pour des services publics forts & engagés
+    theme: ''
+    details: ''
+    highlight: false
+    actions:
+    - label: En savoir plus
+      url: "/programme-"
+    image: ''
   - title: Pour une gestion éco-responsable de l'espace public
     theme: ''
-    details: ""
+    details: ''
     highlight: false
     actions:
     - label: En savoir plus
@@ -56,17 +64,9 @@ sections:
     - label: En savoir plus
       url: "/programme-"
     image: ''
-  - title: Pour des services publics forts & engagés
-    theme: ''
-    details: ""
-    highlight: false
-    actions:
-    - label: En savoir plus
-      url: "/programme-"
-    image: ''
   - title: S'engager avec l'Aggloh!
     theme: ''
-    details: ""
+    details: ''
     highlight: false
     actions:
     - label: En savoir plus
