@@ -67,7 +67,8 @@ sections:
     image: ''
   - title: S'engager avec l'Aggloh!
     theme: ''
-    details: "## Rétablissement des finances, mise en place du PCAET, transparence, inclusion des citoyens"
+    details: "## Rétablissement des finances, mise en place du PCAET, transparence,
+      inclusion des citoyens"
     highlight: false
     actions:
     - label: En savoir plus
@@ -76,15 +77,14 @@ sections:
 - type: section_faq
   template: section_faq
   section_id: faq
-  title: Frequently Asked Questions
-  subtitle: Phasellus luctus laoreet arcu, vel porta metus imperdiet sit amet.
+  title: Quelques réponses à vos questions !
+  subtitle: Si vous ne trouvez pas les réponses, contactez-nous par mail ou téléphone
+    !
   bg: gray
   faqitems:
-  - question: Mauris ut tellus id arcu sagittis lacinia quis vel justo?
-    answer: Ut cursus, nunc vitae hendrerit viverra, massa ipsum congue quam, sed
-      tempus mauris lacus sit amet nibh. Curabitur laoreet est maximus mollis feugiat.
-      Praesent nibh libero, placerat et justo at, luctus tristique enim. Pellentesque
-      habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
+  - question: Pourquoi l'écologie tient-elle une place aussi importante dans notre
+      programme ?
+    answer: Réponse bientôt
   - question: Aliquam eget purus ante?
     answer: 'Nunc sollicitudin libero tincidunt felis pretium, consectetur aliquam
       eros placerat. Sed neque neque, bibendum a pulvinar id, pellentesque eget velit. '
