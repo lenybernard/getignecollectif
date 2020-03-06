@@ -4,8 +4,8 @@ sections:
 - type: section_program
   template: section_program
   section_id: program
-  title: Program Plans
-  subtitle: You can have a separate program page or list everything on the home page.
+  title: 8 Domaines d'ambition
+  subtitle: Cliquez sur le bouton en savoir plus pour en savoir plus sur chaque élément.
   bg: gray
   programplans:
   - title: ''
@@ -29,29 +29,6 @@ sections:
     - label: En savoir plus
       url: "/programme-ville-dynamique"
     highlight: true
-  - title: Professional
-    theme: "$49/m"
-    details: |-
-      * Curabitur non nunc mollis
-      * Duis a purus nec ligula
-      * Pellentesque sit amet
-      * Fusce tempus mi vitae
-      * Nullam sollicitudin ante
-    highlight: true
-    actions:
-    - label: Order Now
-      url: "/signup"
-  - title: Enterprise
-    theme: "$149/m"
-    details: |-
-      * Vestibulum non eros quis
-      * Aenean iaculis lorem
-      * Mauris eleifend sapien
-      * Phasellus lobortis risus
-    actions:
-    - label: Order Now
-      url: "/signup"
-    highlight: false
 - type: section_faq
   template: section_faq
   section_id: faq
@@ -74,7 +51,6 @@ sections:
       dictum at efficitur sit amet, luctus in ipsum. Nunc pellentesque mi vel dui
       vulputate, a lobortis lacus venenatis. Phasellus pellentesque dolor id feugiat
       faucibus. Etiam vehicula nunc velit, in consequat nisl feugiat nec.
-
 template: landing
 
 ---

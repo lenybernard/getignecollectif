@@ -22,7 +22,6 @@ sections:
 - type: document
   path: src/pages/programme.md
   label: Programme
-  match: "**/*"
 - type: document
   path: src/pages/blog/index.md
   label: Blog
