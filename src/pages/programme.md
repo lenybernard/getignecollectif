@@ -8,7 +8,14 @@ sections:
   subtitle: Cliquez sur le bouton en savoir plus pour en savoir plus sur chaque élément.
   bg: gray
   programplans:
-  - title: Pour une consultation citoyenne
+  - title: Renforcer l'économie locale
+    theme: ''
+    details: ''
+    highlight: false
+    actions:
+    - label: En savoir plus
+      url: "/programme-economie-locale"
+  - title: Pour une citoyenneté forte
     theme: ''
     details: "## Informer, associer et coproduire"
     highlight: false
@@ -28,35 +35,36 @@ sections:
     actions:
     - label: En savoir plus
       url: "/programme-ville-dynamique"
-    highlight: true
-  - title: Pour une gestion éco-responsable de l'espace public
-    theme: ''
-    details: Qualité de l'eau, rénovation de l'éclairage public, végétalisation du
-      centre, sensibilisation à l'environnement
     highlight: false
-    actions: []
+  - title: Pour un espace public éco-responsable
+    theme: ''
+    details: "## Eau, éclairage, végétalisation, sensibilisation"
+    highlight: false
+    actions:
+    - label: En savoir plus
+      url: "/programme-"
   - title: Pour des mobilités alternatives
     theme: ''
-    details: 'Plan de "mobilités douces", liaison Clisson-Nantes, zones dangereuses
+    details: '## Plan de "mobilités douces", liaison Clisson-Nantes, zones dangereuses
       & bruyantes '
     highlight: false
-    actions: []
+    actions:
+    - label: En savoir plus
+      url: "/programme-"
   - title: Pour des services publics forts & engagés
     theme: ''
-    details: Défi énergétique, charte environnement, acteurs locaux, alimentation
+    details: "## Défi énergétique, charte environnement, acteurs locaux, alimentation"
     highlight: false
-    actions: []
-  - title: Renforcer l'économie locale
+    actions:
+    - label: En savoir plus
+      url: "/programme-"
+  - title: S'engager avec l'Aggloh!
     theme: ''
-    details: 'Main d''oeuvre, sur-concurrence, aides SCIC '
+    details: "## Rétablissement des finances, mise en place du PCAET, transparence, inclusion des citoyens"
     highlight: false
-    actions: []
-  - title: S'engager avec l'aggloh!
-    theme: ''
-    details: Rétablissement des finances, mise en place du PCAET, transparence, inclusion
-      des citoyens
-    highlight: false
-    actions: []
+    actions:
+    - label: En savoir plus
+      url: "/programme-"
 - type: section_faq
   template: section_faq
   section_id: faq
