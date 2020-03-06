@@ -71,7 +71,7 @@ sections:
     actions:
     - label: En savoir plus
       url: "/programme-"
-    image: ''
+    image: "/images/logo_agglo(1).png"
 - type: section_faq
   template: section_faq
   section_id: faq
