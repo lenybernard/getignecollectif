@@ -50,8 +50,7 @@ sections:
     image: ''
   - title: Pour des mobilités alternatives
     theme: ''
-    details: '## Plan de "mobilités douces", liaison Clisson-Nantes, zones dangereuses
-      & bruyantes '
+    details: ''
     highlight: false
     actions:
     - label: En savoir plus
