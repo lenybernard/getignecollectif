@@ -12,65 +12,65 @@ sections:
     theme: ''
     details: ''
     highlight: false
-    actions:
-    - label: En savoir plus
-      url: "/programme-economie-locale"
+    actions: []
+    #- label: En savoir plus
+    #  url: "/programme-economie-locale"
     image: "/images/shop-1.svg"
   - title: Pour une citoyenneté forte
     theme: ''
     details: ''
     highlight: false
-    actions:
-    - label: En savoir plus
-      url: "/programme-consultation-citoyenne"
+    actions: []
+    #- label: En savoir plus
+    #  url: "/programme-consultation-citoyenne"
     image: "/images/atom.svg"
   - title: Pour une entraide forte
     theme: ''
     details: ''
     highlight: false
-    actions:
-    - label: En savoir plus
-      url: "/programme-entraide-forte"
+    actions: []
+    #- label: En savoir plus
+    #  url: "/programme-entraide-forte"
     image: "/images/friendship.svg"
   - title: Pour une ville dynamique et chaleureuse
     theme: ''
     details: ''
-    actions:
-    - label: En savoir plus
-      url: "/programme-ville-dynamique"
+    actions: []
+    #- label: En savoir plus
+    #  url: "/programme-ville-dynamique"
     highlight: false
     image: "/images/theater.svg"
   - title: Pour des services publics forts & engagés
     theme: ''
     details: ''
     highlight: false
-    actions:
-    - label: En savoir plus
-      url: "/programme-"
+    actions: []
+    #- label: En savoir plus
+    #  url: "/programme-"
     image: "/images/solar-power.svg"
   - title: Pour un espace public éco-responsable
     theme: ''
     details: ''
     highlight: false
-    actions:
-    - label: En savoir plus
-      url: "/programme-"
+    actions: []
+    #- label: En savoir plus
+    #  url: "/programme-"
     image: "/images/water-factory.svg"
   - title: Pour des mobilités alternatives
     theme: ''
     details: ''
     highlight: false
-    actions:
-    - label: En savoir plus
-      url: "/programme-"
+    actions: []
+    #- label: En savoir plus
+    #  url: "/programme-"
     image: "/images/bus-stop.svg"
   - title: S'engager avec l'Aggloh!
     theme: ''
     details: ''
     highlight: false
-    actions:
-    - label: En savoir plus
-      url: "/programme-"
+    actions: []
+    #- label: En savoir plus
+    #  url: "/programme-"
     image: "/images/logo_agglo.PNG"
 - type: section_faq
   template: section_faq

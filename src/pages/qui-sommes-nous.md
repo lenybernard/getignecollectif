@@ -4,7 +4,7 @@ subtitle: ''
 img_path: "/images/liste.jpg"
 menus:
   secondary:
-    title: About Us
+    title: Qui sommes nous ?
     weight: 1
 template: page
 
