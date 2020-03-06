@@ -75,10 +75,11 @@ sections:
   - author: Séverine Dollet
     avatar: "/images/vignette-verte-1.jpg"
     content: "------"
-  - author: Richard Roe
-    avatar: images/review3.jpg
-    content: Integer consectetur purus neque, ac porttitor enim convallis vitae. Interdum
-      et malesuada fames ac ante ipsum primis in faucibus.
+  - author: Jean-Jacques Le Héricy
+    avatar: "/images/vignette.jpg"
+    content: 'La démarche me plait. Dés le soir même, je me dis que c’est bon, je
+      fonce ! Réunions suivantes avec toujours de nouvelles têtes : toujours bon.
+      Je reste ! Et quelle énergie dans cette équipe !'
 - type: section_cta
   template: section_cta
   section_id: call-to-action
