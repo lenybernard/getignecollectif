@@ -34,8 +34,8 @@ fields:
     name: title
     label: Title
   - type: text
-    name: price
-    label: Price
+    name: theme
+    label: Theme
   - type: textarea
     name: details
     label: Details

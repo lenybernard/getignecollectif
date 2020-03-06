@@ -479,8 +479,8 @@ models:
               name: title
               label: Title
             - type: string
-              name: price
-              label: Price
+              name: theme
+              label: Theme
             - type: markdown
               name: details
               label: Details

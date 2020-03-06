@@ -9,28 +9,28 @@ sections:
   bg: gray
   programplans:
   - title: ''
-    price: Pour une entraide forte
+    theme: Pour une entraide forte
     details: "## Soutenir les initiatives, faciliter l'accès aux aides"
     highlight: false
     actions:
     - label: En savoir plus
       url: "/programme-entraide-forte"
   - title: ''
-    price: Pour une consultation citoyenne
+    theme: Pour une consultation citoyenne
     details: "## Informer, associer et coproduire"
     highlight: false
     actions:
     - label: En savoir plus
       url: "/programme-consultation-citoyenne"
   - title: ''
-    price: Pour une ville dynamique et chaleureuse
+    theme: Pour une ville dynamique et chaleureuse
     details: "## Culture, Sport, Rencontres & Commerce"
     actions:
     - label: En savoir plus
       url: "/programme-ville-dynamique"
     highlight: true
   - title: Professional
-    price: "$49/m"
+    theme: "$49/m"
     details: |-
       * Curabitur non nunc mollis
       * Duis a purus nec ligula
@@ -42,7 +42,7 @@ sections:
     - label: Order Now
       url: "/signup"
   - title: Enterprise
-    price: "$149/m"
+    theme: "$149/m"
     details: |-
       * Vestibulum non eros quis
       * Aenean iaculis lorem

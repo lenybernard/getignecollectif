@@ -25,8 +25,8 @@ export default class SectionProgram extends React.Component {
                   <div key={plan_idx} className={'cell plan' + (_.get(plan, 'highlight') ? ' highlight' : '')}>
                     <div className="plan-inside">
                     <h3 className="plan-name">{_.get(plan, 'title')}</h3>
-                    {_.get(plan, 'price') && 
-                    <div className="plan-price">{_.get(plan, 'price')}</div>
+                    {_.get(plan, 'theme') && 
+                    <div className="plan-theme">{_.get(plan, 'theme')}</div>
                     }
                     <div className="plan-details">
                       {markdownify(_.get(plan, 'details'))}
