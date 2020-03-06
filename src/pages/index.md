@@ -61,15 +61,17 @@ sections:
 - type: section_reviews
   template: section_reviews
   section_id: reviews
-  title: Testimonials
-  subtitle: 'Aliquam malesuada ligula eget est fringilla blandit. Integer finibus
-    semper libero id sodales. '
+  title: Ils témoignent
+  subtitle: Candidats sur la liste citoyenne, ils témoignent
   bg: white
   reviews:
-  - author: John Doe
-    avatar: images/review1.jpg
-    content: Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis nunc
-      non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+  - author: Matthieu Covez
+    avatar: "/images/vignette-1.png"
+    content: Je vois, à travers cette élection municipale à 2 listes, l'opportunité
+      d'un débat politique et citoyen sur la façon de gouverner Gétigné. C'est le
+      moment de découvrir une dynamique ambitieuse et responsable d'habitants qui
+      veulent faire partager leurs savoir faire et savoir être au profit de la collectivité.
+      C'est une chance pour notre commune de s'ouvrir vers d'autres possibles.
   - author: Jane Roe
     avatar: images/review2.jpg
     content: Sed laoreet magna commodo libero euismod sodales. Nunc ac libero convallis,
