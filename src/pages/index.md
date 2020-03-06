@@ -76,9 +76,9 @@ sections:
     content: "------"
   - author: Jean-Jacques Le Héricy
     avatar: "/images/vignette.jpg"
-    content: 'La démarche me plait. Dés le soir même, je me dis que c’est bon, je
-      fonce ! Réunions suivantes avec toujours de nouvelles têtes : toujours bon.
-      Je reste ! Et quelle énergie dans cette équipe !'
+    content: 'La démarche me plait. Le soir même, je me dis : "c’est bon, je fonce
+      !" Réunions suivantes avec toujours de nouvelles têtes : toujours bon. Je reste
+      ! Et quelle énergie dans cette équipe !'
 - type: section_cta
   template: section_cta
   section_id: call-to-action
