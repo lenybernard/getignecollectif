@@ -8,6 +8,12 @@ sections:
   subtitle: Cliquez sur le bouton en savoir plus pour en savoir plus sur chaque élément.
   bg: gray
   programplans:
+  - title: Pour une gestion éco-responsable
+    theme: ''
+    details: Qualité de l'eau, rénovation de l'éclairage public, végétalisation du
+      centre, sensibilisation à l'environnement
+    highlight: false
+    actions: []
   - title: Pour une entraide forte
     theme: ''
     details: "## Soutenir les initiatives, faciliter l'accès aux aides"
