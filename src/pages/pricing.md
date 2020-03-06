@@ -8,12 +8,13 @@ sections:
   subtitle: You can have a separate pricing page or list everything on the home page.
   bg: gray
   pricingplans:
-  - title: FREE
-    price: Climat et biodiversité
-    details: "## Se doter d’une politique ambitieuse d’achats publics responsables
-      (incluant des dispositions sociales, environnementales et locales)."
+  - title: ''
+    price: Pour une consultation citoyenne
+    details: "## Informer, associer et coproduire"
     highlight: false
-    actions: []
+    actions:
+    - label: En savoir plus
+      url: "/programme-consultation-citoyenne"
   - title: Basic
     price: "$5/m"
     details: |-
