@@ -26,7 +26,7 @@ sections:
     image: "/images/atom.svg"
   - title: Pour une entraide forte
     theme: ''
-    details: "## "
+    details: ""
     highlight: false
     actions:
     - label: En savoir plus
@@ -34,7 +34,7 @@ sections:
     image: "/images/friendship.svg"
   - title: Pour une ville dynamique et chaleureuse
     theme: ''
-    details: "## Culture, Sport, Rencontres & Commerce"
+    details: ""
     actions:
     - label: En savoir plus
       url: "/programme-ville-dynamique"
@@ -42,7 +42,7 @@ sections:
     image: ''
   - title: Pour une gestion éco-responsable de l'espace public
     theme: ''
-    details: "## Eau, éclairage, végétalisation, sensibilisation"
+    details: ""
     highlight: false
     actions:
     - label: En savoir plus
@@ -59,7 +59,7 @@ sections:
     image: ''
   - title: Pour des services publics forts & engagés
     theme: ''
-    details: "## Défi énergétique, charte environnement, acteurs locaux, alimentation"
+    details: ""
     highlight: false
     actions:
     - label: En savoir plus
@@ -67,8 +67,7 @@ sections:
     image: ''
   - title: S'engager avec l'Aggloh!
     theme: ''
-    details: "## Rétablissement des finances, mise en place du PCAET, transparence,
-      inclusion des citoyens"
+    details: ""
     highlight: false
     actions:
     - label: En savoir plus
