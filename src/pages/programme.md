@@ -15,7 +15,7 @@ sections:
     actions:
     - label: En savoir plus
       url: "/programme-consultation-citoyenne"
-    image: "/images/shop.svg"
+    image: ''
   - title: Pour une entraide forte
     theme: ''
     details: "## Soutenir les initiatives, faciliter l'accès aux aides"
@@ -57,7 +57,7 @@ sections:
     details: 'Main d''oeuvre, sur-concurrence, aides SCIC '
     highlight: false
     actions: []
-    image: ''
+    image: "/images/shop-1.svg"
   - title: S'engager avec l'aggloh!
     theme: ''
     details: Rétablissement des finances, mise en place du PCAET, transparence, inclusion
