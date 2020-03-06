@@ -87,7 +87,7 @@ sections:
 - type: section_cta
   template: section_cta
   section_id: call-to-action
-  title: On a besoin de votre soutien
+  title: "On a besoin de votre soutien \U0001F4AA"
   subtitle: Organiser des événements, porter une deuxième liste pour les municipales,
     tout cela a un coût... On compte sur votre soutien, merci d'avance.
   actions:
