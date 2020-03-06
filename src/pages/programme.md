@@ -76,8 +76,7 @@ sections:
   template: section_faq
   section_id: faq
   title: Quelques réponses à vos questions !
-  subtitle: Si vous ne trouvez pas les réponses, contactez-nous par mail ou téléphone
-    !
+  subtitle: "Si vous ne trouvez pas les réponses, contactez-nous par mail ou téléphone !"
   bg: gray
   faqitems:
   - question: Pourquoi l'écologie tient-elle une place aussi importante dans notre
