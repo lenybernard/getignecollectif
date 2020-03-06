@@ -3,8 +3,8 @@ title: Programme
 sections:
 - template: section_hero
   type: section_hero
-  section_id: Découvrez notre liste participative
-  title: ''
+  section_id: ''
+  title: Découvrez notre liste participative
   content: ''
   image: "/images/liste-getigne-collectif-au-complet(1)(1).jpg"
   actions: []
@@ -174,7 +174,7 @@ sections:
     highlight: false
     actions: []
     image: ''
-  title: ''
+  title: La liste
   subtitle: ''
   section_id: ''
 - type: section_faq
