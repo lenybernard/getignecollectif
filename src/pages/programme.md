@@ -55,7 +55,7 @@ sections:
     actions:
     - label: En savoir plus
       url: "/programme-"
-    image: ''
+    image: "/images/water-factory.svg"
   - title: Pour des mobilités alternatives
     theme: ''
     details: ''
