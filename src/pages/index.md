@@ -67,11 +67,10 @@ sections:
   reviews:
   - author: Matthieu Covez
     avatar: "/images/vignette-verte.jpg"
-    content: Je vois, à travers cette élection municipale à 2 listes, l'opportunité
-      d'un débat politique et citoyen sur la façon de gouverner Gétigné. C'est le
-      moment de découvrir une dynamique ambitieuse et responsable d'habitants qui
-      veulent faire partager leurs savoir faire et savoir être au profit de la collectivité.
-      C'est une chance pour notre commune de s'ouvrir vers d'autres possibles.
+    content: C'est le moment de découvrir une dynamique ambitieuse et responsable
+      d'habitants qui veulent faire partager leurs savoir faire et savoir être au
+      profit de la collectivité. C'est une chance pour notre commune de s'ouvrir vers
+      d'autres possibles.
   - author: Séverine Dollet
     avatar: "/images/vignette-verte-1.jpg"
     content: "------"
