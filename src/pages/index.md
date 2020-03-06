@@ -9,7 +9,7 @@ sections:
     plus être des sujets annexes. Notre collectif souhaite engager les habitants de
     Gétigné derrière des objectifs écologiques, sociaux et de renforcement de l'économie
     locale.
-  image: images/hero.png
+  image: "/images/hero-1.png"
   actions:
   - label: Learn More
     url: "/features"
