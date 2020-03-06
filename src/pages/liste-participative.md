@@ -5,7 +5,7 @@ sections:
   type: section_hero
   section_id: ''
   title: Découvrez notre liste participative
-  content: ''
+  content: '## Une équipe nouvelle,<br/>en tandem avec un collectif citoyen'
   image: "/images/liste-getigne-collectif-au-complet(1)(1).jpg"
   actions: []
 - template: section_program
@@ -174,7 +174,7 @@ sections:
     highlight: false
     actions: []
     image: "/images/28.jpg"
-  title: La liste
+  title: ""
   subtitle: ''
   section_id: ''
 - type: section_faq
@@ -194,8 +194,8 @@ sections:
     answer: Réponse en cours.
 - template: section_cta
   type: section_cta
-  title: Venez rencontrer la liste Dimanche 8 à) 16h
-  subtitle: Salle du pavillon, à l'Espace Bellevue
+  title: "📅 Réunion publique : venez nombreux !"
+  subtitle: Dimanche 8 à 16h, Salle du pavillon, à l'Espace Bellevue
   section_id: ''
   actions: []
 - template: section_content
@@ -248,8 +248,11 @@ sections:
   subtitle: ''
 template: landing
 menus:
+  main:
+    title: La liste participative
+    weight: 2
   secondary:
-    title: Notre programme
+    title: La liste participative
     weight: 4
 
 ---
