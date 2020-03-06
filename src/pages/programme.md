@@ -8,11 +8,6 @@ sections:
   subtitle: Cliquez sur le bouton en savoir plus pour en savoir plus sur chaque élément.
   bg: gray
   programplans:
-  - title: Renforcer l'économie locale
-    theme: ''
-    details: 'Main d''oeuvre, sur-concurrence, aides SCIC '
-    highlight: false
-    actions: []
   - title: Pour une consultation citoyenne
     theme: ''
     details: "## Informer, associer et coproduire"
@@ -34,7 +29,7 @@ sections:
     - label: En savoir plus
       url: "/programme-ville-dynamique"
     highlight: true
-  - title: Pour une gestion éco-responsable
+  - title: Pour une gestion éco-responsable de l'espace public
     theme: ''
     details: Qualité de l'eau, rénovation de l'éclairage public, végétalisation du
       centre, sensibilisation à l'environnement
@@ -44,6 +39,16 @@ sections:
     theme: ''
     details: 'Plan de "mobilités douces", liaison Clisson-Nantes, zones dangereuses
       & bruyantes '
+    highlight: false
+    actions: []
+  - title: Pour des services publics forts & engagés
+    theme: ''
+    details: Défi énergétique, charte environnement, acteurs locaux, alimentation
+    highlight: false
+    actions: []
+  - title: Renforcer l'économie locale
+    theme: ''
+    details: 'Main d''oeuvre, sur-concurrence, aides SCIC '
     highlight: false
     actions: []
   - title: S'engager avec l'aggloh!
