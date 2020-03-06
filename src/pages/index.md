@@ -19,10 +19,11 @@ sections:
   title: Notre raison d'être
   subtitle: Le collectif et la liste s'inscrivent naturellement dans les principes
     des listes participatives dont la volonté est de réhabiliter la démocratie directe
-    en intégrant les citoyens dans la vie politique et engager la commune dans une
-    démarche de transition, c'est-à-dire un processus impliquant la communauté et
-    visant à assurer la résilience (capacité à encaisser les crises économiques et/ou
-    écologiques) de la ville face aux défis de notre époque.
+    en intégrant les citoyens & les citoyennes dans la vie politique. Le deuxième
+    enjeux, partagé par tous, est d'engager la commune dans une démarche de transition,
+    c'est-à-dire un processus visant à assurer la résilience (capacité à encaisser
+    les crises économiques et/ou écologiques) de la ville face aux défis de notre
+    époque.
   bg: gray
   featureslist:
   - title: Démocratie ouverte et participative
