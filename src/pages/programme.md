@@ -26,12 +26,12 @@ sections:
     image: "/images/atom.svg"
   - title: Pour une entraide forte
     theme: ''
-    details: "## Soutenir les initiatives, faciliter l'accès aux aides"
+    details: "## "
     highlight: false
     actions:
     - label: En savoir plus
       url: "/programme-entraide-forte"
-    image: ''
+    image: "/images/friendship.svg"
   - title: Pour une ville dynamique et chaleureuse
     theme: ''
     details: "## Culture, Sport, Rencontres & Commerce"
