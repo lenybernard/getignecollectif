@@ -9,6 +9,13 @@ sections:
   bg: gray
   pricingplans:
   - title: ''
+    price: Pour une entraide forte
+    details: Soutenir les initiatives, faciliter l'accès aux aides
+    highlight: false
+    actions:
+    - label: En savoir plus
+      url: "/programme-entraide-forte"
+  - title: ''
     price: Pour une consultation citoyenne
     details: "## Informer, associer et coproduire"
     highlight: false
