@@ -66,17 +66,15 @@ sections:
   bg: white
   reviews:
   - author: Matthieu Covez
-    avatar: "/images/vignette-1.png"
+    avatar: "/images/vignette-verte.jpg"
     content: Je vois, à travers cette élection municipale à 2 listes, l'opportunité
       d'un débat politique et citoyen sur la façon de gouverner Gétigné. C'est le
       moment de découvrir une dynamique ambitieuse et responsable d'habitants qui
       veulent faire partager leurs savoir faire et savoir être au profit de la collectivité.
       C'est une chance pour notre commune de s'ouvrir vers d'autres possibles.
-  - author: Jane Roe
-    avatar: images/review2.jpg
-    content: Sed laoreet magna commodo libero euismod sodales. Nunc ac libero convallis,
-      interdum ligula vel, pretium diam. Integer commodo sem at dui sollicitudin,
-      vel posuere justo laoreet.
+  - author: Séverine Dollet
+    avatar: "/images/vignette-verte-1.jpg"
+    content: "------"
   - author: Richard Roe
     avatar: images/review3.jpg
     content: Integer consectetur purus neque, ac porttitor enim convallis vitae. Interdum
