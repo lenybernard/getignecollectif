@@ -8,22 +8,22 @@ sections:
   subtitle: Cliquez sur le bouton en savoir plus pour en savoir plus sur chaque élément.
   bg: gray
   programplans:
-  - title: ''
-    theme: Pour une entraide forte
+  - title: Pour une entraide forte
+    theme: ''
     details: "## Soutenir les initiatives, faciliter l'accès aux aides"
     highlight: false
     actions:
     - label: En savoir plus
       url: "/programme-entraide-forte"
-  - title: ''
-    theme: Pour une consultation citoyenne
+  - title: Pour une consultation citoyenne
+    theme: ''
     details: "## Informer, associer et coproduire"
     highlight: false
     actions:
     - label: En savoir plus
       url: "/programme-consultation-citoyenne"
-  - title: ''
-    theme: Pour une ville dynamique et chaleureuse
+  - title: Pour une ville dynamique et chaleureuse
+    theme: ''
     details: "## Culture, Sport, Rencontres & Commerce"
     actions:
     - label: En savoir plus
