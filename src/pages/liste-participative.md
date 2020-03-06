@@ -1,5 +1,5 @@
 ---
-title: Programme
+title: La liste participative
 sections:
 - template: section_hero
   type: section_hero
