@@ -71,24 +71,28 @@ sections:
       d'habitants qui veulent faire partager leurs savoir faire et savoir être au
       profit de la collectivité. C'est une chance pour notre commune de s'ouvrir vers
       d'autres possibles.
+    link: ''
   - author: Séverine Dollet
     avatar: "/images/vignette-verte-1.jpg"
     content: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
       tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
       quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. '
+    link: ''
   - author: Jean-Jacques Le Héricy
     avatar: "/images/vignette.jpg"
     content: 'La démarche me plait. Le soir même, je me dis : "c’est bon, je fonce
       !" Réunions suivantes avec toujours de nouvelles têtes : toujours bon. Je reste
       ! Et quelle énergie dans cette équipe !'
+    link: ''
 - type: section_cta
   template: section_cta
   section_id: call-to-action
-  title: This Is Call To Action Block!
-  subtitle: This is an optional description for the call to action block.
+  title: On a besoin de votre soutien
+  subtitle: Organiser des événements, porter une deuxième liste pour les municipales,
+    tout cela a un coût... On compte sur votre soutien, merci d'avance.
   actions:
-  - label: Get Started
-    url: "/signup"
+  - label: En savoir plus
+    url: "/appel-aux-dons"
 - type: section_posts
   template: section_posts
   section_id: recent-posts
