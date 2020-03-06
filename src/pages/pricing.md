@@ -22,18 +22,12 @@ sections:
     actions:
     - label: En savoir plus
       url: "/programme-consultation-citoyenne"
-  - title: Basic
-    price: "$5/m"
-    details: |-
-      ![](/images/3_thumb.jpg)
-
-      * Lorem ipsum dolor sit amet
-      * Mauris a mi tincidunt
-      * Suspendisse ut lacus
-      * Etiam eget dui a augue
+  - title: ''
+    price: Pour une ville dynamique et chaleureuse
+    details: "## Culture, Sport, Rencontres & Commerce"
     actions:
-    - label: Order Now
-      url: "/signup"
+    - label: En savoir plus
+      url: "/programme-ville-dynamique"
     highlight: true
   - title: Professional
     price: "$49/m"
