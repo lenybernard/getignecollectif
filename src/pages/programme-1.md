@@ -1,77 +1,182 @@
 ---
 title: Programme
 sections:
-- type: section_program
-  template: section_program
-  section_id: program
-  title: 8 Domaines d'ambition
-  subtitle: Cliquez sur le bouton en savoir plus pour en savoir plus sur chaque élément.
+- template: section_hero
+  type: section_hero
+  section_id: Découvrez notre liste participative
+  title: ''
+  content: ''
+  image: ''
+  actions: []
+- template: section_program
   bg: gray
+  type: section_program
   programplans:
-  - title: Renforcer l'économie locale
-    theme: ''
+  - title: " Marion Bernard, "
+    theme: 36 ans, Professeur
+    highlight: false
+    actions: []
+    image: ''
+    details: ''
+  - title: Cyril Allain
+    theme: 46 ans, Cadre associatif
     details: ''
     highlight: false
-    actions:
-    - label: En savoir plus
-      url: "/programme-economie-locale"
-    image: "/images/shop-1.svg"
-  - title: Pour une citoyenneté forte
-    theme: ''
+    actions: []
+    image: ''
+  - title: Céline David
+    theme: 46 ans, Conductrice de car
     details: ''
     highlight: false
-    actions:
-    - label: En savoir plus
-      url: "/programme-consultation-citoyenne"
-    image: "/images/atom.svg"
-  - title: Pour une entraide forte
-    theme: ''
+    actions: []
+    image: ''
+  - title: Romuald Poulnais
+    theme: 40 ans, Imprimeur
     details: ''
     highlight: false
-    actions:
-    - label: En savoir plus
-      url: "/programme-entraide-forte"
-    image: "/images/friendship.svg"
-  - title: Pour une ville dynamique et chaleureuse
-    theme: ''
-    details: ''
-    actions:
-    - label: En savoir plus
-      url: "/programme-ville-dynamique"
-    highlight: false
-    image: "/images/theater.svg"
-  - title: Pour des services publics forts & engagés
-    theme: ''
+    actions: []
+    image: ''
+  - title: Séverine Dollet
+    theme: 42 ans, Conseillère auprès d'entreprises
     details: ''
     highlight: false
-    actions:
-    - label: En savoir plus
-      url: "/programme-"
-    image: "/images/solar-power.svg"
-  - title: Pour un espace public éco-responsable
-    theme: ''
+    actions: []
+    image: ''
+  - title: Jean-Jacques Le Hericy
+    theme: 65 ans, Commercant retraité
     details: ''
     highlight: false
-    actions:
-    - label: En savoir plus
-      url: "/programme-"
-    image: "/images/water-factory.svg"
-  - title: Pour des mobilités alternatives
-    theme: ''
+    actions: []
+    image: ''
+  - title: Gwenola Corre
+    theme: 42 ans, Professeur
     details: ''
     highlight: false
-    actions:
-    - label: En savoir plus
-      url: "/programme-"
-    image: "/images/bus-stop.svg"
-  - title: S'engager avec l'Aggloh!
-    theme: ''
+    actions: []
+    image: ''
+  - title: Thibaud Toullier
+    theme: 28 ans, Docteur en mathématiques
     details: ''
     highlight: false
-    actions:
-    - label: En savoir plus
-      url: "/programme-"
-    image: "/images/logo_agglo.PNG"
+    actions: []
+    image: ''
+  - title: Laurence Neveu
+    theme: 46 ans, Professeur
+    details: ''
+    highlight: false
+    actions: []
+    image: ''
+  - title: Matthieu Covez
+    theme: 37 ans, Éducateur de jeunes enfants
+    details: ''
+    highlight: false
+    actions: []
+    image: ''
+  - title: Stéphanie Pineau
+    theme: 45 ans, Infirmière
+    details: ''
+    highlight: false
+    actions: []
+    image: ''
+  - title: Marc-Antoine Moreau
+    theme: 32 ans, Employé territorial
+    details: ''
+    highlight: false
+    actions: []
+    image: ''
+  - title: Marie Capdecomme
+    theme: 53 ans, Salariée d'une recyclerie
+    details: ''
+    highlight: false
+    actions: []
+    image: ''
+  - title: Arnaud Leduc
+    theme: 46 ans, Ingénieur d'étude en informatique
+    details: ''
+    highlight: false
+    actions: []
+    image: ''
+  - title: Nina Bau
+    theme: 38 ans, Travailleuse sociale
+    details: ''
+    highlight: false
+    actions: []
+    image: ''
+  - title: Adrien Bouchier
+    theme: 35 ans, Ouvrier Couvreur
+    details: ''
+    highlight: false
+    actions: []
+    image: ''
+  - title: 17 Gwenola Le Govic
+    theme: 64 ans, Retraitée
+    details: ''
+    highlight: false
+    actions: []
+    image: ''
+  - title: Sébastien Loizeau
+    theme: 46 ans, Cuisinier
+    details: ''
+    highlight: false
+    actions: []
+    image: ''
+  - title: Cécile Chevalier
+    theme: 43 ans, Professeur des écoles
+    details: ''
+    highlight: false
+    actions: []
+    image: ''
+  - title: Gael Planchot
+    theme: 40 ans, Jardinier
+    details: ''
+    highlight: false
+    actions: []
+    image: ''
+  - title: Clémence Miton
+    theme: 18 ans, Étudiante en langues
+    details: ''
+    highlight: false
+    actions: []
+    image: ''
+  - title: Elliot David
+    theme: 18 ans, Lycéen en sciences économiques et sociales
+    details: ''
+    highlight: false
+    actions: []
+    image: ''
+  - title: Agnès Robert
+    theme: '65 ans, Agricultrice retraitée '
+    details: ''
+    highlight: false
+    actions: []
+    image: ''
+  - title: Sylvain Domon
+    theme: 50 ans, Magasinier/ Archiviste
+    details: ''
+    highlight: false
+    actions: []
+    image: ''
+  - title: Eveline Melilli
+    theme: 50 ans, Monitrice d'atelier, agricultrice BIO
+    details: ''
+    highlight: false
+    actions: []
+    image: ''
+  - title: François Auvray
+    theme: 80 ans, Retraité
+    details: ''
+    highlight: false
+    actions: []
+    image: ''
+  - title: Nicole Baudoux
+    theme: 79 ans, Retraitée
+    details: ''
+    highlight: false
+    actions: []
+    image: ''
+  title: ''
+  subtitle: ''
+  section_id: ''
 - type: section_faq
   template: section_faq
   section_id: faq
