@@ -44,7 +44,7 @@ sections:
       ! Montrons qu''une alternative est possible : où les citoyens sont chez eux
       à la mairie, où le conseil municipal ne décide pas seul. Une voie plus solidaire,
       plus sociale, plus protectrice, résiliente, écologique et économique.'
-    image: "/images/feature3-1.png"
+    image: "/images/feature3-2.png"
     actions:
     - label: Découvrir le programme
       url: "/programme"
