@@ -1,5 +1,5 @@
 ---
-title: Programme
+title: La liste participative
 sections:
 - template: section_hero
   type: section_hero
@@ -13,50 +13,50 @@ sections:
   type: section_program
   programplans:
   - title: " Marion Bernard, "
-    theme: 36 ans, Professeur
+    theme: ''
     highlight: false
     actions: []
     image: ''
-    details: ''
+    details: 36 ans, Professeur
   - title: Cyril Allain
-    theme: 46 ans, Cadre associatif
-    details: ''
+    theme: ''
+    details: 46 ans, Cadre associatif
     highlight: false
     actions: []
     image: ''
   - title: Céline David
-    theme: 46 ans, Conductrice de car
-    details: ''
+    theme: ''
+    details: 46 ans, Conductrice de car
     highlight: false
     actions: []
     image: ''
   - title: Romuald Poulnais
-    theme: 40 ans, Imprimeur
-    details: ''
+    theme: ''
+    details: 40 ans, Imprimeur
     highlight: false
     actions: []
     image: ''
   - title: Séverine Dollet
-    theme: 42 ans, Conseillère auprès d'entreprises
-    details: ''
+    theme: ''
+    details: 42 ans, Conseillère auprès d'entreprises
     highlight: false
     actions: []
     image: ''
   - title: Jean-Jacques Le Hericy
-    theme: 65 ans, Commercant retraité
-    details: ''
+    theme: ''
+    details: 65 ans, Commercant retraité
     highlight: false
     actions: []
     image: ''
   - title: Gwenola Corre
-    theme: 42 ans, Professeur
-    details: ''
+    theme: ''
+    details: 42 ans, Professeur
     highlight: false
     actions: []
     image: ''
   - title: Thibaud Toullier
-    theme: 28 ans, Docteur en mathématiques
-    details: ''
+    theme: ''
+    details: 28 ans, Docteur en mathématiques
     highlight: false
     actions: []
     image: ''
