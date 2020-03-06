@@ -1,16 +1,18 @@
 ---
-title: About Us
-subtitle: >-
-  This is an optional subtitle. It can be used to describe what this page is
-  about.
-img_path: images/about.jpg
+title: Qui sommes nous ?
+subtitle: ''
+img_path: "/images/liste.jpg"
 menus:
   secondary:
     title: About Us
     weight: 1
 template: page
+
 ---
+Tout est d'abord parti d'un message d'un concitoyen : [un appel à l'engagement](/posts/appel/) à quelques semaines de la date limite de dépôt des candidatures. Un message envoyé à une trentaine d'emails glânés dans les personnes en copie des mails du réseau de l'école et un premier partage sur les réseaux sociaux...
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus quis lorem malesuada luctus. Cras lacinia, eros at dapibus molestie, risus tortor pretium ligula, eu malesuada tortor eros dapibus mi. Proin laoreet efficitur suscipit. Donec molestie volutpat euismod. Nulla gravida ligula in eros facilisis, sed dignissim tellus aliquam. Etiam convallis enim nisi, at suscipit tortor pulvinar at. Nulla a interdum lacus. Sed a porttitor mi. Sed at risus eu orci ultricies mattis sed in tellus. Cras nec neque sed dui vehicula iaculis id vel ex. Phasellus non consectetur augue. Pellentesque condimentum sapien arcu, nec tempus nunc maximus eu. Duis blandit risus nulla. In dolor dui, placerat non finibus sit amet, venenatis pretium tortor. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Dans cet appel, 3 dates étaient proposées en moins d'une semaine. Une quinzaine de personnes ont réussit à venir à ces réunions et ont partagé une volonté forte de proposer une politique alternative et ambitieuse, dans le fond comme dans la forme.
 
-Nunc a lorem tellus. Aenean eu auctor purus. Cras pulvinar, nunc at sagittis dignissim, orci elit auctor leo, et consectetur est turpis a nunc. Vivamus in faucibus felis. Aenean rutrum magna at ex auctor, congue efficitur ligula feugiat. Proin a egestas arcu. Etiam feugiat turpis quis mollis pellentesque. Sed posuere luctus tortor, a eleifend augue varius sit amet. Integer ultrices neque sed quam dictum, quis vestibulum justo volutpat. Nam vitae tempus leo, ut mattis mi.
+> De profils, d'âge, de métiers, de compétences et d'origines différentes, cette grande diversité couplée à une détermination et l'adhésion à des principes d'ouverture d'esprit, de dialogue, de bienveillance et de co-construction sont nos plus grands atouts !
+
+Cet idéal est désormais à porté de main et pour le réaliser, nous avons désormais besoin d'un maximum de citoyens pour mettre du vent dans la voile collective et commencer à imaginer ensemble Gétigné dès maintenant.
