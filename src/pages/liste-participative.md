@@ -177,21 +177,6 @@ sections:
   title: ""
   subtitle: ''
   section_id: ''
-- type: section_faq
-  template: section_faq
-  section_id: faq
-  title: Quelques réponses à vos questions !
-  subtitle: Si vous ne trouvez pas les réponses, contactez-nous par mail ou téléphone
-    !
-  bg: gray
-  faqitems:
-  - question: Pourquoi l'écologie tient-elle une place aussi importante dans notre
-      programme ?
-    answer: Réponse en cours.
-  - question: Ne manquez-vous pas de compétences ?
-    answer: Réponse en cours.
-  - question: Qu'est-ce que vous reprochez à la politique actuelle ?
-    answer: Réponse en cours.
 - template: section_cta
   type: section_cta
   title: "📅 Réunion publique : venez nombreux !"
@@ -224,7 +209,7 @@ sections:
     answer: |-
       Depuis les élections du 23 mars 2014, un village drômois met en place une gouvernance collégiale et participative au service de la construction d’une démocratie vivante qui replace l’habitant dans sa fonction politique au service d’un bien-vivre-ensemble respectueux de l’humain et de son environnement.
 
-      Aller plus loins:
+      Aller plus loin:
 
       * [Vidéo](https://www.youtube.com/watch?v=mf-9UwofhhU&t=66s)
       * [Article](https://reporterre.net/A-Saillans-la-democratie-participative-nourrit-la-transition-ecologique?utm_source=newsletter&utm_medium=email&utm_campaign=nl_quotidienne)
