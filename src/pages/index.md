@@ -11,8 +11,8 @@ sections:
     locale.
   image: "/images/hero-1.png"
   actions:
-  - label: Learn More
-    url: "/features"
+  - label: Découvrir la liste
+    url: "/liste-participative"
 - type: section_features
   template: section_features
   section_id: features
