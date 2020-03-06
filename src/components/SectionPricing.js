@@ -4,10 +4,10 @@ import _ from 'lodash';
 import {htmlToReact, markdownify} from '../utils';
 import CtaButtons from './CtaButtons';
 
-export default class SectionPricing extends React.Component {
+export default class SectionProgram extends React.Component {
     render() {
         return (
-            <section id={_.get(this.props, 'section.section_id')} className={'block pricing-block bg-' + _.get(this.props, 'section.bg') + ' outer'}>
+            <section id={_.get(this.props, 'section.section_id')} className={'block program-block bg-' + _.get(this.props, 'section.bg') + ' outer'}>
               <div className="block-header inner-small">
                 {_.get(this.props, 'section.title') && 
                 <h2 className="block-title">{_.get(this.props, 'section.title')}</h2>
@@ -18,10 +18,10 @@ export default class SectionPricing extends React.Component {
                 </p>
                 }
               </div>
-              {_.get(this.props, 'section.pricingplans') && 
+              {_.get(this.props, 'section.programplans') && 
               <div className="inner">
                 <div className="grid">
-                  {_.map(_.get(this.props, 'section.pricingplans'), (plan, plan_idx) => (
+                  {_.map(_.get(this.props, 'section.programplans'), (plan, plan_idx) => (
                   <div key={plan_idx} className={'cell plan' + (_.get(plan, 'highlight') ? ' highlight' : '')}>
                     <div className="plan-inside">
                     <h3 className="plan-name">{_.get(plan, 'title')}</h3>

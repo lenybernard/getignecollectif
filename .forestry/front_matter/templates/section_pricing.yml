@@ -1,5 +1,5 @@
 ---
-label: Pricing Section
+label: Program Section
 hide_body: true
 display_field: title
 fields:
@@ -27,8 +27,8 @@ fields:
     - gray
     - white
 - type: field_group_list
-  name: pricingplans
-  label: Pricing Plans
+  name: programplans
+  label: Program Plans
   fields:
   - type: text
     name: title
@@ -65,6 +65,6 @@ fields:
   label: Reference Type Name
   description: Name of the Stackbit object model, used by fields of type reference
   hidden: true
-  default: section_pricing
+  default: section_program
   config:
     required: true

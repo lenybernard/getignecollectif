@@ -199,7 +199,7 @@ models:
             - section_features
             - section_hero
             - section_posts
-            - section_pricing
+            - section_program
             - section_reviews
             - section_contact
       - type: page_menus
@@ -449,9 +449,9 @@ models:
           - gray
           - white
         default: gray
-  section_pricing:
+  section_program:
     type: object
-    label: Pricing Section
+    label: Program Section
     extends:
       - section
     fields:
@@ -468,8 +468,8 @@ models:
           - white
         default: gray
       - type: list
-        name: pricingplans
-        label: Pricing Plans
+        name: programplans
+        label: Program Plans
         items:
           type: object
           label: Plan

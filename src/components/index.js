@@ -8,7 +8,7 @@ import SectionFaq from './SectionFaq';
 import SectionFeatures from './SectionFeatures';
 import SectionHero from './SectionHero';
 import SectionPosts from './SectionPosts';
-import SectionPricing from './SectionPricing';
+import SectionProgram from './SectionProgram';
 import SectionReviews from './SectionReviews';
 import Social from './Social';
 import SubscribeForm from './SubscribeForm';
@@ -25,7 +25,7 @@ export {
     SectionFeatures,
     SectionHero,
     SectionPosts,
-    SectionPricing,
+    SectionProgram,
     SectionReviews,
     Social,
     SubscribeForm,
@@ -43,7 +43,7 @@ export default {
     SectionFeatures,
     SectionHero,
     SectionPosts,
-    SectionPricing,
+    SectionProgram,
     SectionReviews,
     Social,
     SubscribeForm,

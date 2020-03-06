@@ -1,13 +1,13 @@
 ---
 title: Programme
 sections:
-- type: section_pricing
-  template: section_pricing
-  section_id: pricing
-  title: Pricing Plans
-  subtitle: You can have a separate pricing page or list everything on the home page.
+- type: section_program
+  template: section_program
+  section_id: program
+  title: Program Plans
+  subtitle: You can have a separate program page or list everything on the home page.
   bg: gray
-  pricingplans:
+  programplans:
   - title: ''
     price: Pour une entraide forte
     details: "## Soutenir les initiatives, faciliter l'accès aux aides"
@@ -74,10 +74,7 @@ sections:
       dictum at efficitur sit amet, luctus in ipsum. Nunc pellentesque mi vel dui
       vulputate, a lobortis lacus venenatis. Phasellus pellentesque dolor id feugiat
       faucibus. Etiam vehicula nunc velit, in consequat nisl feugiat nec.
-menus:
-  main:
-    title: Pricing
-    weight: 3
+
 template: landing
 
 ---

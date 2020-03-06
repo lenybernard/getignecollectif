@@ -19,7 +19,7 @@ fields:
   - section_features
   - section_hero
   - section_posts
-  - section_pricing
+  - section_program
   - section_reviews
   - section_contact
 - type: text
@@ -31,6 +31,5 @@ fields:
     required: true
 pages:
 - src/pages/contact.md
-- src/pages/features.md
 - src/pages/index.md
 - src/pages/programme.md
