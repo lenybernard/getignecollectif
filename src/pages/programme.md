@@ -18,12 +18,12 @@ sections:
     image: "/images/shop-1.svg"
   - title: Pour une citoyenneté forte
     theme: ''
-    details: "## Informer, associer et coproduire"
+    details: ''
     highlight: false
     actions:
     - label: En savoir plus
       url: "/programme-consultation-citoyenne"
-    image: ''
+    image: "/images/atom.svg"
   - title: Pour une entraide forte
     theme: ''
     details: "## Soutenir les initiatives, faciliter l'accès aux aides"
