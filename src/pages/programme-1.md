@@ -144,36 +144,36 @@ sections:
     highlight: false
     actions: []
     image: "/images/24.jpg"
-  - title: Agnès Robert
-    theme: '65 ans, Agricultrice retraitée '
+  - title: ''
+    theme: ''
     details: ''
     highlight: false
     actions: []
-    image: ''
-  - title: Sylvain Domon
-    theme: 50 ans, Magasinier/ Archiviste
+    image: "/images/25.jpg"
+  - title: ''
+    theme: ''
     details: ''
     highlight: false
     actions: []
-    image: ''
-  - title: Eveline Melilli
-    theme: 50 ans, Monitrice d'atelier, agricultrice BIO
+    image: "/images/26.jpg"
+  - title: ''
+    theme: ''
     details: ''
     highlight: false
     actions: []
-    image: ''
-  - title: François Auvray
-    theme: 80 ans, Retraité
+    image: "/images/27.jpg"
+  - title: ''
+    theme: ''
     details: ''
     highlight: false
     actions: []
-    image: ''
-  - title: Nicole Baudoux
-    theme: 79 ans, Retraitée
+    image: "/images/29.jpg"
+  - title: ''
+    theme: ''
     details: ''
     highlight: false
     actions: []
-    image: ''
+    image: "/images/28.jpg"
   title: La liste
   subtitle: ''
   section_id: ''
