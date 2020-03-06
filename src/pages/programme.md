@@ -8,13 +8,11 @@ sections:
   subtitle: Cliquez sur le bouton en savoir plus pour en savoir plus sur chaque élément.
   bg: gray
   programplans:
-  - title: Pour une entraide forte
+  - title: Renforcer l'économie locale
     theme: ''
-    details: "## Soutenir les initiatives, faciliter l'accès aux aides"
+    details: 'Main d''oeuvre, sur-concurrence, aides SCIC '
     highlight: false
-    actions:
-    - label: En savoir plus
-      url: "/programme-entraide-forte"
+    actions: []
   - title: Pour une consultation citoyenne
     theme: ''
     details: "## Informer, associer et coproduire"
@@ -22,6 +20,13 @@ sections:
     actions:
     - label: En savoir plus
       url: "/programme-consultation-citoyenne"
+  - title: Pour une entraide forte
+    theme: ''
+    details: "## Soutenir les initiatives, faciliter l'accès aux aides"
+    highlight: false
+    actions:
+    - label: En savoir plus
+      url: "/programme-entraide-forte"
   - title: Pour une ville dynamique et chaleureuse
     theme: ''
     details: "## Culture, Sport, Rencontres & Commerce"
