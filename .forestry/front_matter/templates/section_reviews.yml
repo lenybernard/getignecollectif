@@ -39,6 +39,12 @@ fields:
   - type: text
     name: content
     label: Content
+  - name: link
+    type: text
+    config:
+      required: false
+      max: '28'
+    label: Lien
   config:
     labelField: author
 - type: text
