@@ -12,15 +12,15 @@ sections:
   bg: gray
   type: section_program
   programplans:
-  - title: " Marion Bernard, "
+  - title: ''
     theme: ''
     highlight: false
     actions: []
-    image: ''
-    details: 36 ans, Professeur
-  - title: Cyril Allain
+    image: "/images/3.png"
+    details: ''
+  - title: ''
     theme: ''
-    details: 46 ans, Cadre associatif
+    details: ''
     highlight: false
     actions: []
     image: ''
