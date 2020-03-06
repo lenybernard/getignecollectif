@@ -73,7 +73,9 @@ sections:
       d'autres possibles.
   - author: Séverine Dollet
     avatar: "/images/vignette-verte-1.jpg"
-    content: "------"
+    content: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. '
   - author: Jean-Jacques Le Héricy
     avatar: "/images/vignette.jpg"
     content: 'La démarche me plait. Le soir même, je me dis : "c’est bon, je fonce
