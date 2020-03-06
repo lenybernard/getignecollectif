@@ -15,15 +15,23 @@ sections:
     url: "/liste-participative"
 - type: section_features
   template: section_features
-  section_id: features
-  title: Features
-  subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-    quis lorem malesuada luctus.
+  section_id: ultimate-goal
+  title: Notre raison d'être
+  subtitle: Le collectif et la liste s'inscrivent naturellement dans les principes
+    des listes participatives dont la volonté est de réhabiliter la démocratie directe
+    en intégrant les citoyens dans la vie politique et engager la commune dans une
+    démarche de transition, c'est-à-dire un processus impliquant la communauté et
+    visant à assurer la résilience (capacité à encaisser les crises économiques et/ou
+    écologiques) de la ville face aux défis de notre époque.
   bg: gray
   featureslist:
-  - title: The Best Feature of Your Services
-    content: Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed aliquet
-      luctus, lorem risus volutpat dolor, nec dignissim diam neque consequat ex.
+  - title: Démocratie ouverte et participative
+    content: Le collectif et la liste s'inscrivent naturellement dans les principes
+      des listes participatives dont la volonté est de réhabiliter la démocratie directe
+      en intégrant les citoyens dans la vie politique (au bon sens du terme) et engager
+      la commune dans une démarche de transition, c'est-à-dire un processus impliquant
+      la communauté et visant à assurer la résilience (capacité à encaisser les crises
+      économiques et/ou écologiques) de la ville face aux défis de notre époque.
     image: images/feature1.png
     actions:
     - label: Learn More
