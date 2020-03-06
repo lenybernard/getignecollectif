@@ -78,24 +78,24 @@ sections:
     answer: "Nous ne sommes pas des politiciens de profession. Mais est-ce vraiment
       ce que vous souhaitez ? Nous sommes persuadés que l'exercice du pouvoir ne devrait
       pas être un métier. La démocratie n'a pas été pensée comme ça d'ailleurs, l'élection
-      par scrutin n'est arrivé que très tard dans l'histoire de la démocratie ! Avant,
+      par scrutin n'est arrivée que très tard dans l'histoire de la démocratie ! Avant,
       dans la Grèce Antique, c'était un processus de tirage au sort, certes parmi
-      les notables mais l'élu acceptait son rôle et ses redevabilités comme un honneur.\n\nMaintenant
+      les notables, mais l'élu acceptait son rôle et ses redevabilités comme un honneur.\n\nMaintenant
       pour répondre à la question précise sur notre liste, notre tête de liste Marion
       Bernard est diplômée d'un Master en politique sociale et santé publique. Elle
       a travaillé plusieurs année à Famille Rurales en Vendée et connait donc assez
       bien le fonctionnement des mairies, des collectivités et des associations. Cyril
       Allain avant de travailler en tant que coordinateur des activités de l'association
-      Accoord sur le territoire Nantes Est-Erdre, il a été Directeur du service Animation
+      Accoord sur le territoire Nantes Est-Erdre, a été Directeur du service Animation
       et Vie de la Cité dans la ville de Clisson.\n\nEnsuite, entre les professeurs
       des écoles qui maîtrisent le lien avec la collectivité de rattachement, le transport
       scolaire, les cantines, les espaces verts publics, un attaché territorial ayant
-      exercé un mandat, un rédacteur territiorial maîtrisant les questions d'urbanisme
+      exercé un mandat, un rédacteur territorial maîtrisant les questions d'urbanisme
       et d'assainissement, une conseillère aux entreprises ayant exercé en commune
-      et en intercommunalités, la pluralité et les expériences diverses de chaque
-      personne de la liste et de tout le collectif (aujourd'hui une soixantaine de
-      membre), sans se vanter, on est quand même loin de la méconnaissance... vous
-      nous l'accordez ? \U0001F60A"
+      et en intercommunalité, la pluralité et les expériences diverses de chaque personne
+      de la liste et de tout le collectif (aujourd'hui une soixantaine de membre),
+      sans se vanter, on est quand même loin de la méconnaissance... vous nous l'accordez
+      ? \U0001F60A"
 template: landing
 menus:
   secondary:
