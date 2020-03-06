@@ -5,7 +5,7 @@ sections:
   template: section_program
   section_id: program
   title: 8 Domaines d'ambition
-  subtitle: Cliquez sur le bouton en savoir plus pour en savoir plus sur chaque élément.
+  subtitle: Cliquez sur le bouton pour en savoir plus sur chaque élément.
   bg: gray
   programplans:
   - title: Renforcer l'économie locale
