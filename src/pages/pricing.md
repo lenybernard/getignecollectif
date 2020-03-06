@@ -10,7 +10,7 @@ sections:
   pricingplans:
   - title: ''
     price: Pour une entraide forte
-    details: Soutenir les initiatives, faciliter l'accès aux aides
+    details: "## Soutenir les initiatives, faciliter l'accès aux aides"
     highlight: false
     actions:
     - label: En savoir plus
