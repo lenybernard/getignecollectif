@@ -48,7 +48,7 @@ sections:
     - label: En savoir plus
       url: "/programme-"
     image: ''
-  - title: Pour une gestion éco-responsable de l'espace public
+  - title: Pour un espace public éco-responsable
     theme: ''
     details: ''
     highlight: false
