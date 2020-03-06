@@ -48,48 +48,48 @@ sections:
     highlight: false
     actions: []
     image: "/images/8-2.jpg"
-  - title: Gwenola Corre
+  - title: ''
     theme: ''
-    details: 42 ans, Professeur
+    details: ''
     highlight: false
     actions: []
-    image: ''
-  - title: Thibaud Toullier
+    image: "/images/9-1.jpg"
+  - title: ''
     theme: ''
-    details: 28 ans, Docteur en mathématiques
-    highlight: false
-    actions: []
-    image: ''
-  - title: Laurence Neveu
-    theme: 46 ans, Professeur
     details: ''
     highlight: false
     actions: []
-    image: ''
-  - title: Matthieu Covez
-    theme: 37 ans, Éducateur de jeunes enfants
+    image: "/images/10-2.jpg"
+  - title: ''
+    theme: ''
     details: ''
     highlight: false
     actions: []
-    image: ''
-  - title: Stéphanie Pineau
-    theme: 45 ans, Infirmière
+    image: "/images/11-2.jpg"
+  - title: ''
+    theme: ''
     details: ''
     highlight: false
     actions: []
-    image: ''
-  - title: Marc-Antoine Moreau
-    theme: 32 ans, Employé territorial
+    image: "/images/12-2.jpg"
+  - title: ''
+    theme: ''
     details: ''
     highlight: false
     actions: []
-    image: ''
-  - title: Marie Capdecomme
-    theme: 53 ans, Salariée d'une recyclerie
+    image: "/images/13-1.jpg"
+  - title: ''
+    theme: ''
     details: ''
     highlight: false
     actions: []
-    image: ''
+    image: "/images/14.jpg"
+  - title: ''
+    theme: ''
+    details: ''
+    highlight: false
+    actions: []
+    image: "/images/15.jpg"
   - title: Arnaud Leduc
     theme: 46 ans, Ingénieur d'étude en informatique
     details: ''
