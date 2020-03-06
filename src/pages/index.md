@@ -54,7 +54,7 @@ sections:
       notre nature, nos emplois, mieux manger, mieux consommer, rencontrer ses voisins,
       faciliter l''entraide et la solidarité... Autant de projets enthousiasmant que
       nous devons porter tous ensemble, en tandem Citoyens ↔️ Élus ! '
-    image: "/images/lieux.jpg"
+    image: "/images/lieux.png"
     actions:
     - label: Découvrir le programme
       url: "/programme"
