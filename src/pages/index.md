@@ -49,13 +49,15 @@ sections:
     actions:
     - label: Découvrir le programme
       url: "/programme"
-  - title: Cool Feature of Your Services
-    content: In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean quis
-      venenatis sem. Proin eget massa id metus eleifend maximus sit amet nec urna.
+  - title: Améliorer notre cadre de vie
+    content: 'Redynamiser notre centre-bourg, développer l''accès à la culture, protéger
+      notre nature, nos emplois, mieux manger, mieux consommer, rencontrer ses voisins,
+      faciliter l''entraide et la solidarité... Autant de projets enthousiasmant que
+      nous devons porter tous ensemble, en tandem Citoyens ↔️ Élus ! '
     image: images/feature3.png
     actions:
-    - label: Learn More
-      url: "/features"
+    - label: Découvrir le programme
+      url: "/programme"
 - type: section_reviews
   template: section_reviews
   section_id: reviews
