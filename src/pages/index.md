@@ -32,10 +32,10 @@ sections:
       la commune dans une démarche de transition, c'est-à-dire un processus impliquant
       la communauté et visant à assurer la résilience (capacité à encaisser les crises
       économiques et/ou écologiques) de la ville face aux défis de notre époque.
-    image: images/feature1.png
+    image: "/images/schéma(1).png"
     actions:
-    - label: Learn More
-      url: "/features"
+    - label: En savoir plus
+      url: "/liste-participative"
   - title: Awesome Feature of Your Services
     content: Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
       sapien interdum luctus. Cras rhoncus condimentum metus sit amet auctor.
