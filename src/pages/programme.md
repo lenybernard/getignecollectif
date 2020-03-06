@@ -15,6 +15,7 @@ sections:
     actions:
     - label: En savoir plus
       url: "/programme-consultation-citoyenne"
+    image: "/images/shop.svg"
   - title: Pour une entraide forte
     theme: ''
     details: "## Soutenir les initiatives, faciliter l'accès aux aides"
@@ -22,6 +23,7 @@ sections:
     actions:
     - label: En savoir plus
       url: "/programme-entraide-forte"
+    image: ''
   - title: Pour une ville dynamique et chaleureuse
     theme: ''
     details: "## Culture, Sport, Rencontres & Commerce"
@@ -29,34 +31,40 @@ sections:
     - label: En savoir plus
       url: "/programme-ville-dynamique"
     highlight: true
+    image: ''
   - title: Pour une gestion éco-responsable de l'espace public
     theme: ''
     details: Qualité de l'eau, rénovation de l'éclairage public, végétalisation du
       centre, sensibilisation à l'environnement
     highlight: false
     actions: []
+    image: ''
   - title: Pour des mobilités alternatives
     theme: ''
     details: 'Plan de "mobilités douces", liaison Clisson-Nantes, zones dangereuses
       & bruyantes '
     highlight: false
     actions: []
+    image: ''
   - title: Pour des services publics forts & engagés
     theme: ''
     details: Défi énergétique, charte environnement, acteurs locaux, alimentation
     highlight: false
     actions: []
+    image: ''
   - title: Renforcer l'économie locale
     theme: ''
     details: 'Main d''oeuvre, sur-concurrence, aides SCIC '
     highlight: false
     actions: []
+    image: ''
   - title: S'engager avec l'aggloh!
     theme: ''
     details: Rétablissement des finances, mise en place du PCAET, transparence, inclusion
       des citoyens
     highlight: false
     actions: []
+    image: ''
 - type: section_faq
   template: section_faq
   section_id: faq
