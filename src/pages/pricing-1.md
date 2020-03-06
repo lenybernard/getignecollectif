@@ -1,5 +1,5 @@
 ---
-title: Pricing
+title: Programme
 sections:
 - type: section_pricing
   template: section_pricing
