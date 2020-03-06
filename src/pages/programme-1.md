@@ -23,31 +23,31 @@ sections:
     details: ''
     highlight: false
     actions: []
-    image: ''
-  - title: Céline David
+    image: "/images/4-2.png"
+  - title: ''
     theme: ''
-    details: 46 ans, Conductrice de car
+    details: ''
     highlight: false
     actions: []
-    image: ''
-  - title: Romuald Poulnais
+    image: "/images/5-2.jpg"
+  - title: ''
     theme: ''
-    details: 40 ans, Imprimeur
+    details: ''
     highlight: false
     actions: []
-    image: ''
-  - title: Séverine Dollet
+    image: "/images/6-2.jpg"
+  - title: ''
     theme: ''
-    details: 42 ans, Conseillère auprès d'entreprises
+    details: ''
     highlight: false
     actions: []
-    image: ''
-  - title: Jean-Jacques Le Hericy
+    image: "/images/7-2.jpg"
+  - title: ''
     theme: ''
-    details: 65 ans, Commercant retraité
+    details: ''
     highlight: false
     actions: []
-    image: ''
+    image: "/images/8-2.jpg"
   - title: Gwenola Corre
     theme: ''
     details: 42 ans, Professeur
