@@ -96,8 +96,6 @@ sections:
       personne de la liste et de tout le collectif (aujourd'hui une soixantaine de
       membre), sans se vanter, on est quand même loin de la méconnaissance... vous
       nous l'accordez ? \U0001F60A"
-  - question: Qu'est-ce que vous reprochez à la politique actuelle ?
-    answer: Réponse en cours.
 template: landing
 menus:
   secondary:
