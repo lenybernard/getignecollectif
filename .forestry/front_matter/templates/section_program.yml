@@ -58,6 +58,11 @@ fields:
       template: action
     config:
       labelField: label
+  - name: image
+    type: file
+    config:
+      maxSize: 250
+    label: image
   config:
     labelField: title
 - type: text
