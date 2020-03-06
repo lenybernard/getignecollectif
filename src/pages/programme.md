@@ -87,5 +87,7 @@ sections:
   - question: Qu'est-ce que vous reprochez à la politique actuelle ?
     answer: Réponse en cours.
 template: landing
-
----
+menus:
+  secondary:
+    title: Notre programme
+    weight: 4

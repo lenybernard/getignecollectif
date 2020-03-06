@@ -2,7 +2,11 @@
 title: Blog
 menus:
   secondary:
-    title: Blog
+    title: Actualités
     weight: 2
+
+  main:
+    title: Actualités
+    weight: 5
 template: blog
 ---

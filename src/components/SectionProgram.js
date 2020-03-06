@@ -29,7 +29,6 @@ export default class SectionProgram extends React.Component {
                     {_.get(plan, 'theme') && 
                     <div className="plan-theme">{_.get(plan, 'theme')}</div>
                     }
-{console.log(plan)}
                     {_.get(plan, 'image') && 
                     <div className="cell block-preview">
                       <img src={safePrefix(_.get(plan, 'image'))} alt={_.get(plan, 'title')} />

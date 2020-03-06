@@ -4,6 +4,12 @@ title: Appel aux dons
 subtitle: ''
 img_path: "/images/appel-aux-dons-green(1).jpg"
 
+
+menus:
+  main:
+    title: "📢 Appel aux dons"
+    weight: 3
+
 ---
 Si nous dépassons 5% des votes, toute la partie, circulaires, affiches et bulletins de vote, sera prise en charge par l’État !
 

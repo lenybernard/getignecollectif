@@ -12,8 +12,11 @@ sections:
   subtitle: ''
 menus:
   secondary:
-    title: Contact
+    title: Nous contacter
     weight: 3
+  main:
+    title: Nous contacter
+    weight: 4
 template: landing
 
 ---
