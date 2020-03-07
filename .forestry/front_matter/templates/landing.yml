@@ -34,11 +34,11 @@ pages:
 - src/pages/index.md
 - src/pages/liste-participative.md
 - src/pages/programme.md
-- src/pages/programme/renforcer-economie-locale.md
+- src/pages/programme/pour-des-mobilites-alternatives.md
+- src/pages/programme/pour-des-services-publics-forts-et-engages.md
+- src/pages/programme/pour-s-engager-avec-l-aggloh.md
+- src/pages/programme/pour-un-espace-public-eco-responsable.md
 - src/pages/programme/pour-une-consultation-citoyenne.md
 - src/pages/programme/pour-une-entraide-forte.md
 - src/pages/programme/pour-une-ville-dynamique-et-chaleureuse.md
-- src/pages/programme/pour-des-services-publics-forts-et-engages.md
-- src/pages/programme/pour-un-espace-public-eco-responsable.md
-- src/pages/programme/pour-des-mobilites-alternatives.md
-- src/pages/programme/pour-s-engager-avec-l-aggloh.md
+- src/pages/programme/renforcer-economie-locale.md
