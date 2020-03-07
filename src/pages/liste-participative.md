@@ -5,7 +5,7 @@ sections:
   type: section_hero
   section_id: ''
   title: Découvrez notre liste participative
-  content: '## Une équipe nouvelle,<br/>en tandem avec un collectif citoyen'
+  content: "## Une équipe nouvelle,<br/>en tandem avec un collectif citoyen"
   image: "/images/liste-getigne-collectif-au-complet(1)(1).jpg"
   actions: []
 - template: section_program
@@ -174,12 +174,12 @@ sections:
     highlight: false
     actions: []
     image: "/images/28.jpg"
-  title: ""
+  title: ''
   subtitle: ''
   section_id: ''
 - template: section_cta
   type: section_cta
-  title: "📅 Réunion publique : venez nombreux !"
+  title: "\U0001F4C5 Réunion publique : venez nombreux !"
   subtitle: Dimanche 8 à 16h, Salle du pavillon, à l'Espace Bellevue
   section_id: ''
   actions: []
@@ -231,6 +231,14 @@ sections:
       [Lire l'article](https://www.ouest-france.fr/elections/municipales/saint-mars-de-coutais-une-seconde-liste-se-prepare-6726315)
   section_id: ''
   subtitle: ''
+- template: section_cta
+  type: section_cta
+  title: Découvrez notre projet
+  actions:
+  - label: Lire le programme
+    url: "/programme"
+  subtitle: Notre socle de valeurs, les 8 domaines d'ambition et les 3 grands projets
+  section_id: ''
 template: landing
 menus:
   main:
