@@ -19,6 +19,19 @@ sections:
       url: "https://www.pacte-transition.org/upload/communecter/poi/5cc6bee540bb4e49403ee0ae/file/VFft31.pdf"
     - label: Télécharger la fiche détaillée Écolieux
       url: "https://www.pacte-transition.org/upload/communecter/poi/5cc6c22640bb4e81413ee0ab/file/VFft20.pdf"
+
+  - title: Faciliter l’accès aux aides 
+    content: |-
+      * Poursuivre la politique tarifaire de la commune et de la communauté d’agglomération en généralisant la prise en compte du quotient familial
+      * Faciliter l’accès aux soins médicaux et aux services sociaux à différents échelons territoriaux
+      * Réaliser un guide pratique de la commune et de l’agglomération de communes (AgglOH!) pour les nouveaux arrivants
+      * Soutenir la création d’une association AVF (Accueil de Villes Françaises)
+      * Soutenir les rénovations à haute efficacité énergétique en accompagnant en particulier les ménages en situation de précarité énergétique
+      👉&nbsp;[Télécharger la fiche](https://www.pacte-transition.org/upload/communecter/poi/5cc6c37f40bb4e75413ee2a8/file/VFft12.pdf)
+      * Proposer gratuitement des lieux d’accompagnement au numérique avec une assistance humaine à destination de toutes et tous
+      👉&nbsp;[Télécharger la fiche](https://www.pacte-transition.org/upload/communecter/poi/5cc6c15540bb4e33413ee0a6/file/VFft25.pdf)
+    image: "/images/cost.svg"
+
   section_id: ''
   title: ''
   subtitle: ''

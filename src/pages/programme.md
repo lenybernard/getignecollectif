@@ -35,7 +35,9 @@ sections:
   - title: Pour une ville dynamique et chaleureuse
     theme: ''
     details: ''
-    actions: []
+    actions:
+    - label: En savoir plus
+      url: "/programme/pour-une-ville-dynamique-et-chaleureuse"
     highlight: false
     image: "/images/theater.svg"
   - title: Pour des services publics forts & engagés
