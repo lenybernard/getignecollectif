@@ -1,6 +1,6 @@
 ---
 template: landing
-title: Pour des services publics forts & engagés
+title: Pour des mobilités alternatives
 sections:
 - template: section_features
   bg: gray
@@ -12,7 +12,6 @@ sections:
       * Établir la liaison vers la Voie Verte Clisson-Nantes
       * Identifier et agir sur les zones dangereuses et bruyantes (pont de Cugand, intersections…)
       * Faciliter les déplacements des personnes à mobilité réduite pour leur donner accès à l’ensemble des espaces publics (aménagement des trottoirs, espaces pour se reposer…)
-
     image: "/images/bike.svg"
     actions: []
   section_id: ''
