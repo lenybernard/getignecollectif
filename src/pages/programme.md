@@ -69,7 +69,7 @@ sections:
     details: ''
     highlight: false
     actions: []
-    image: "/images/logo_agglo.PNG"
+    image: "/images/logo_agglo.png"
 - type: section_faq
   template: section_faq
   section_id: faq
