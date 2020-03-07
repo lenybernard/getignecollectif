@@ -13,6 +13,7 @@ sections:
       * Soutenir les initiatives d’entraide citoyenne basées sur l’échange et le partage de compétences, de lieux, de services et de matériel. Exemple : atelier de récupération, réparation, construction…
       * Mettre à disposition des initiatives associatives et citoyennes du territoire, les espaces et ressources pour favoriser leur collaboration, le lien social
       * Développer les habitats participatifs et des écolieux accessibles à toutes et à tous en favorisant l'émergence de nouveaux projets participatifs.
+      * Impulser et financer une démarche collective de prévention, réemploi, valorisation des déchets en régie ou avec des acteurs de l’économie sociale et solidaire.👉&nbsp;[Télécharger le document](https://www.pacte-transition.org/upload/communecter/poi/5cc6c27d40bb4e75413ee29f/file/VFft18.pdf)
     image: "/images/sport-team-1.svg"
     actions:
     - label: Télécharger la fiche détaillée Soutien associatif

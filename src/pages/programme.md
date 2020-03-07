@@ -44,13 +44,17 @@ sections:
     theme: ''
     details: ''
     highlight: false
-    actions: []
+    actions:
+    - label: En savoir plus
+      url: "/programme/pour-des-services-publics-forts-et-engages"
     image: "/images/solar-power.svg"
   - title: Pour un espace public éco-responsable
     theme: ''
     details: ''
     highlight: false
-    actions: []
+    actions:
+    - label: En savoir plus
+      url: "/programme/pour-un-espace-public-eco-responsable"
     image: "/images/water-factory.svg"
   - title: Pour des mobilités alternatives
     theme: ''
