@@ -18,7 +18,9 @@ sections:
     theme: ''
     details: ''
     highlight: false
-    actions: []
+    actions:
+    - label: En savoir plus
+      url: "/programme/pour-une-consultation-citoyenne"
     image: "/images/atom.svg"
   - title: Pour une entraide forte
     theme: ''

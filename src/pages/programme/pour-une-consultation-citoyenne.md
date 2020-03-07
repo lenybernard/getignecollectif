@@ -1,11 +1,11 @@
 ---
 template: landing
-title: Pour une consultation citoyenne
+title: Pour une consultation citoyenne forte
 sections:
 - template: section_features
   bg: gray
   type: section_features
-  title: Pour une consultation citoyenne
+  title: Pour une consultation citoyenne forte
   featureslist:
   - title: Associer et coproduire
     content: |-
