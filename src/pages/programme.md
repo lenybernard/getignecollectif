@@ -107,7 +107,7 @@ sections:
       exercé un mandat, un rédacteur territorial maîtrisant les questions d'urbanisme
       et d'assainissement, une conseillère aux entreprises ayant exercé en commune
       et en intercommunalité, la pluralité et les expériences diverses de chaque personne
-      de la liste et de tout le collectif (aujourd'hui une soixantaine de membre),
+      de la liste et de tout le collectif (aujourd'hui une soixantaine de membres),
       sans se vanter, on est quand même loin de la méconnaissance... vous nous l'accordez
       ? \U0001F60A"
 template: landing
