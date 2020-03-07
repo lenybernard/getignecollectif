@@ -55,4 +55,4 @@ build:
   install_dependencies_command: npm install
   preview_docker_image: gatsbyjs/gatsby
   mount_path: "/pub"
-  instant_preview_command: npm run develop
+  instant_preview_command: npm run forestry:preview
