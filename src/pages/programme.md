@@ -12,7 +12,9 @@ sections:
     theme: ''
     details: ''
     highlight: false
-    actions: []
+    actions:
+    - label: En savoir plus
+      url: "/programme/renforcer-economie-locale"
     image: "/images/shop-1.svg"
   - title: Pour une citoyenneté forte
     theme: ''
