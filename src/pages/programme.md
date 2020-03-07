@@ -87,7 +87,7 @@ sections:
 
       À ce problème s'ajoute le réchauffement climatique qui n'a pas dû vous échapper. Les innondations, les tempêtes, les incendies, les canicules, ces événements parfois catastrophiques ont déjà commencé à s'intensifier et à se multiplier. Les scientifiques tirent toutes les sonnettes d'alarmes qu'ils peuvent mais les hommes et femmes politiques ne semblent pas saisir l'urgence de la situation. Mais si à l'échelle nationale et internationale, nous n'avons pas le contrôle sur nos dirigeants, l'échelle municipale semble être parfaite. Chaque commune, chaque territoire se doit d'agir, d'informer, d'orienter les politiques selon ses spécificités afin de réduire notre impact sur l'environnement.
 
-      Alors, sommes-nous une liste "écolo" ? Bien sûr ! Le terme "écologie" tire ses racine de **oikos** qui signifie la maison et **logos** qui signifie la science. L'écologie, c'est donc juste l'étude de notre milieu naturel, celui où l'on vit tous, humains et animaux, la Terre. C'est pour nous et nos enfants que nous faisons ça.
+      Alors, sommes-nous une liste "écolo" ? Bien sûr ! Le terme "écologie" tire ses racines de **oikos** qui signifie la maison et **logos** qui signifie la science. L'écologie, c'est donc juste l'étude de notre milieu naturel, celui où l'on vit tous, humains et animaux, la Terre. C'est pour nous et nos enfants que nous faisons ça.
   - question: Ne manquez-vous pas de compétences ?
     answer: "Nous ne sommes pas des politiciens de profession. Mais est-ce vraiment
       ce que vous souhaitez ? Nous sommes persuadés que l'exercice du pouvoir ne devrait
