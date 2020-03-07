@@ -64,7 +64,7 @@ sections:
     - label: En savoir plus
       url: "/programme/pour-des-mobilites-alternatives"
     image: "/images/bus-stop.svg"
-  - title: S'engager avec l'Aggloh!
+  - title: Pour tisser du lien avec l'Aggloh!
     theme: ''
     details: ''
     highlight: false
