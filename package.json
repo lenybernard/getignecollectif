@@ -7,7 +7,9 @@
     "develop": "gatsby develop",
     "start": "npm run develop",
     "build": "gatsby build --prefix-paths",
-    "serve": "gatsby serve"
+    "serve": "gatsby serve",
+    "forestry:preview": "gatsby develop -p 8080 -H 0.0.0.0",
+    "forestry:publish": "gatsby build --prefix-paths"
   },
   "dependencies": {
     "@stackbit/gatsby-plugin-menus": "0.0.4",
