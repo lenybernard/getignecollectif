@@ -216,7 +216,7 @@ sections:
       * [Podcast](https://www.franceculture.fr/emissions/grand-reportage/municipales-limportant-cest-de-participer)
   - question: Barcelone
     answer: |-
-      Car non, l'intélligence collective ne fonctionne pas que pour des communes de la taille de nos communes ! À Barcelone, une liste participative est en place et ils ont largement fait évolué les mentalités en financant notamment le développement du logiciel [Decidim](https://decidim.org/) (plateforme "open source" de participation citoyenne).
+      Car non, l'intelligence collective ne fonctionne pas que pour des communes de la taille de nos communes ! À Barcelone, une liste participative est en place et ils ont largement fait évolué les mentalités en financant notamment le développement du logiciel [Decidim](https://decidim.org/) (plateforme "open source" de participation citoyenne).
 
       [Barcelona En Comù](https://fr.wikipedia.org/wiki/Barcelone_en_commun)
   - question: Monnières
