@@ -28,7 +28,9 @@ sections:
     theme: ''
     details: ''
     highlight: false
-    actions: []
+    actions:
+    - label: En savoir plus
+      url: "/programme/pour-une-entraide-forte"
     image: "/images/friendship.svg"
   - title: Pour une ville dynamique et chaleureuse
     theme: ''
