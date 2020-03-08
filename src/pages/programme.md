@@ -102,7 +102,7 @@ sections:
     highlight: false
     actions:
     - label: En savoir plus
-      url: /programme/un-plan-de-mobilite
+      url: "/programme/un-plan-de-mobilite"
     image: ''
     theme: Un plan de mobilité
   - theme: Vitalité du centre-bourg
@@ -110,7 +110,7 @@ sections:
     highlight: false
     actions:
     - label: En savoir plus
-      url: /programme/vitalite-centre-bourg
+      url: "/programme/vitalite-centre-bourg"
     image: ''
     title: ''
   subtitle: ''
@@ -154,6 +154,13 @@ sections:
       de la liste et de tout le collectif (aujourd'hui une soixantaine de membres),
       sans se vanter, on est quand même loin de la méconnaissance... vous nous l'accordez
       ? \U0001F60A"
+- template: section_contact
+  bg: gray
+  type: section_contact
+  title: Vous avez une autre question ?
+  section_id: programme-contact
+  content: Posez-la nous à l'aide de ce formulaire
+  subtitle: ''
 template: landing
 menus:
   secondary:
