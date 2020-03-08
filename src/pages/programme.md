@@ -93,7 +93,9 @@ sections:
     theme: Un lieu d’échanges
     details: ''
     highlight: false
-    actions: []
+    actions:
+    - label: En savoir plus
+      url: un-lieu-d-echanges-imagine-avec-les-habitants
     image: ''
   - title: ''
     details: ''
