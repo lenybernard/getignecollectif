@@ -64,11 +64,13 @@ sections:
     - label: En savoir plus
       url: "/programme/pour-des-mobilites-alternatives"
     image: "/images/bus-stop.svg"
-  - title: Pour tisser du lien avec l'Aggloh!
+  - title: Pour s'engager avec l'AgglOh!
     theme: ''
     details: ''
     highlight: false
-    actions: []
+    actions:
+    - label: En savoir plus
+      url: "/programme/pour-s-engager-avec-l-aggloh"
     image: "/images/logo_agglo.png"
 - type: section_faq
   template: section_faq
