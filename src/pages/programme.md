@@ -83,6 +83,31 @@ sections:
   section_id: ''
   image: "/images/undraw_circles_y7s2.svg"
   actions: []
+- template: section_program
+  bg: gray
+  type: section_program
+  section_id: ''
+  title: 3 chantiers structurants
+  programplans:
+  - title: ''
+    theme: Un lieu d’échanges
+    details: ''
+    highlight: false
+    actions: []
+    image: ''
+  - title: ''
+    details: ''
+    highlight: false
+    actions: []
+    image: ''
+    theme: Pland de mobilité
+  - theme: Vitalité du centre-bourg
+    details: ''
+    highlight: false
+    actions: []
+    image: ''
+    title: ''
+  subtitle: ''
 - type: section_faq
   template: section_faq
   section_id: faq
