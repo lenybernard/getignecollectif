@@ -18,6 +18,7 @@ sections:
       * Mise en place d'un système de mutualisation avec les communes proches
       * Garantir l’accès à un logement abordable et décent pour toutes et tous 👉&nbsp;[Télécharger le document](https://www.pacte-transition.org/upload/communecter/poi/5cc6c17840bb4e5d413ee0a6/file/VFft24.pdf)
       * Réfléchir au lancement d'un SEL (système d'échange local) au niveau de la commune ou de la communauté de commune
+      * Tenter de porter le même fonctionnement participatif au sein de l'AgglOh
     image: "/images/united.svg"
     actions: []
   section_id: ''

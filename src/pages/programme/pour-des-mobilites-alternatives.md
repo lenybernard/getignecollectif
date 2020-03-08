@@ -12,6 +12,7 @@ sections:
       * Établir la liaison vers la Voie Verte Clisson-Nantes
       * Identifier et agir sur les zones dangereuses et bruyantes (pont de Cugand, intersections…)
       * Faciliter les déplacements des personnes à mobilité réduite pour leur donner accès à l’ensemble des espaces publics (aménagement des trottoirs, espaces pour se reposer…)
+      * Donner la priorité aux mobilités actives (marche, vélo) dans l’espace public 👉&nbsp;[Télécharger le document](https://www.pacte-transition.org/upload/communecter/poi/5cc6c2fd40bb4e82413ee0d4/file/VFft15.pdf)
     image: "/images/bike.svg"
     actions: []
   section_id: ''

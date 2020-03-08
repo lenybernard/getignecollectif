@@ -15,6 +15,7 @@ sections:
       * Protéger  la  ressource  en  eau,  en  assurer  une  meilleure qualité et un accès garanti à toutes et tous, en la considérant comme un bien commun. 👉&nbsp;[Télécharger le document](https://www.pacte-transition.org/upload/communecter/poi/5cc6c3d940bb4e27423ee0a6/file/VFft10.pdf)
       * Redynamiser le commerce local dans le centre-bourg en y intégrant des débouchés pour les filières courtes
       * Agir pour la qualité de la Sèvre et des zones humides présentes sur la commune
+      * Se doter d’une politique ambitieuse d’achats publics responsables (incluant des dispositions sociales, environnementales et locales) 👉&nbsp;[Télécharger le document](https://www.pacte-transition.org/upload/communecter/poi/5cc6c53540bb4e92423ee0aa/file/VFft1.pdf)
     image: "/images/power.svg"
   section_id: ''
   title: ''
