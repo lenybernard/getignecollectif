@@ -219,6 +219,11 @@ sections:
       Car non, l'intelligence collective ne fonctionne pas que pour des communes de la taille de nos communes ! À Barcelone, une liste participative est en place et ils ont largement fait évolué les mentalités en financant notamment le développement du logiciel [Decidim](https://decidim.org/) (plateforme "open source" de participation citoyenne).
 
       [Barcelona En Comù](https://fr.wikipedia.org/wiki/Barcelone_en_commun)
+  - question: Barcelone
+    answer: |-
+      Comment parler des démocraties participatives sans citer Porto Alegre au Brésil ? La vraie pionnière, c'est elle !
+
+      [Lire l'article sur Porto Alegre](http://lesbudgetsparticipatifs.fr/les-budgets-participatifs-sont-nes-a-porto-alegre/)
   - question: Monnières
     answer: Là c'est tout proche de chez nous ! Cocorico et bravo Monnières ! [Cet
       article de Ouest-France](https://www.ouest-france.fr/pays-de-la-loire/monnieres-44690/la-democratie-participative-fonctionne-et-est-appreciee-4516969)

@@ -32,11 +32,20 @@ sections:
       * Mettre fin au développement de grandes surfaces commerciales sur le territoire. 👉&nbsp;[Télécharger la fiche](https://www.pacte-transition.org/upload/communecter/poi/5ccc300740bb4e5a727b23d1/file/VFft9.pdf)
     image: "/images/buy.svg"
     actions: []
-
-
-    
   section_id: ''
   title: ''
   subtitle: ''
 
+- template: section_content
+  bg: gray
+  type: section_content
+  actions:
+  - label: Retour au programme
+    url: "/programme"
+  section_id: ''
+  title: ''
+  content: ''
+  image: ''
+
 ---
+
