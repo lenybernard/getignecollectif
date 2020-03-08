@@ -95,7 +95,7 @@ sections:
     highlight: false
     actions:
     - label: En savoir plus
-      url: /programme/un-lieu-d-echanges-imagine-avec-les-habitants
+      url: "/programme/un-lieu-d-echanges-imagine-avec-les-habitants"
     image: ''
   - title: ''
     details: ''
