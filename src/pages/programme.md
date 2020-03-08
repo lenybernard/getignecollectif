@@ -95,18 +95,22 @@ sections:
     highlight: false
     actions:
     - label: En savoir plus
-      url: un-lieu-d-echanges-imagine-avec-les-habitants
+      url: /programme/un-lieu-d-echanges-imagine-avec-les-habitants
     image: ''
   - title: ''
     details: ''
     highlight: false
-    actions: []
+    actions:
+    - label: En savoir plus
+      url: /programme/un-plan-de-mobilite
     image: ''
     theme: Un plan de mobilité
   - theme: Vitalité du centre-bourg
     details: ''
     highlight: false
-    actions: []
+    actions:
+    - label: En savoir plus
+      url: /programme/vitalite-centre-bourg
     image: ''
     title: ''
   subtitle: ''
