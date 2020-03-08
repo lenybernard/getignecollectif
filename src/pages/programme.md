@@ -9,6 +9,8 @@ sections:
     Ce programme a été constitué par une commission composée de membres de la liste [Gétigné Collectif](/liste-participative) et de citoyens volontaires. Grâce à un processus participatif, l'équipe a réussi à proposer un programme solide et équilibré. C'est grâce au dialogue et à la présence de personnes expérimentées et compétentes dans plusieurs domaines : l'environnement, la gestion des déchêts, l'économie, le commerce, la comptabilité, l'urbanisme, le transport, les sciences sociales, l'éducation, le numérique.
 
     Dans ce programme, nous vous proposons ci-dessous 8 domaines d'ambitions intégrant 20 mesures du [Pacte pour la Transition](https://www.pacte-transition.org "Pacte pour la Transition") ainsi que les 3 chantiers structurants qui sont ressortis lors de nos débats.
+
+    <br/>
   section_id: ''
   image: ''
   actions: []
