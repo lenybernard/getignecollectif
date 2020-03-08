@@ -12,7 +12,7 @@ sections:
 
     <hr/>
   section_id: ''
-  image: ''
+  image: "/images/undraw_circles_y7s2.svg"
   actions: []
 - type: section_program
   template: section_program
