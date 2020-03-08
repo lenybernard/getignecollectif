@@ -100,7 +100,7 @@ sections:
     highlight: false
     actions: []
     image: ''
-    theme: Pland de mobilité
+    theme: Un plan de mobilité
   - theme: Vitalité du centre-bourg
     details: ''
     highlight: false
