@@ -10,7 +10,7 @@ sections:
 
     Dans ce programme, nous vous proposons ci-dessous 8 domaines d'ambitions intégrant 20 mesures du [Pacte pour la Transition](https://www.pacte-transition.org "Pacte pour la Transition") ainsi que les 3 chantiers structurants qui sont ressortis lors de nos débats.
 
-    <br/>
+    <hr/>
   section_id: ''
   image: ''
   actions: []
