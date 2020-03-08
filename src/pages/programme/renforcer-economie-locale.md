@@ -29,5 +29,15 @@ sections:
   section_id: ''
   title: ''
   subtitle: ''
+- template: section_content
+  bg: gray
+  type: section_content
+  actions:
+  - label: Retour au programme
+    url: "/programme"
+  section_id: ''
+  title: ''
+  content: ''
+  image: ''
 
 ---
