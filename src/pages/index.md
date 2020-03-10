@@ -67,13 +67,10 @@ sections:
   reviews:
   - author: Cécile Chevalier
     avatar: "/images/vignette-verte-cécile.jpg"
-    content: Je me sens désarmée, impuissante voire découragée, le toujours plus ayant
-      tellement de moyens de pression ... Ou plutôt je me sentais car moi qui venait
-      compléter une liste pour permettre un débat, j'ai trouvé bien plus. J'ai découvert
-      un collectif super accueillant, super bienveillant, super efficace, super compétent
-      et super énergique. Alors aujourd'hui j'ai envie de me donner les moyens d'agir,
-      de faire avancer les choses. Je sais que je peux agir en tant que citoyenne
-      et c'est ça qui me motive.
+    content: J'ai découvert un collectif super accueillant, super bienveillant, super
+      efficace, super compétent et super énergique. Alors aujourd'hui j'ai envie de
+      me donner les moyens d'agir, de faire avancer les choses. Je sais que je peux
+      agir en tant que citoyenne et c'est ça qui me motive.
     link: "/bio/cecile-chevalier"
   - author: Matthieu COVEZ
     avatar: "/images/vignette-verte.jpg"
