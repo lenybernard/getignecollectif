@@ -30,6 +30,7 @@ fields:
   config:
     required: true
 pages:
+- src/pages/bio/mon-engagement.md
 - src/pages/contact.md
 - src/pages/index.md
 - src/pages/liste-participative.md
