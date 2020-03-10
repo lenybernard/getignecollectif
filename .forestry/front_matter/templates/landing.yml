@@ -31,6 +31,7 @@ fields:
     required: true
 pages:
 - src/pages/bio/cecile-chevalier.md
+- src/pages/bio/jean-jacques-le-héricy.md
 - src/pages/bio/matthieu-covez.md
 - src/pages/contact.md
 - src/pages/index.md
