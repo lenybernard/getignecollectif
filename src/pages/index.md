@@ -81,7 +81,7 @@ sections:
       d'habitants qui veulent faire partager leurs savoir faire et savoir être au
       profit de la collectivité. C'est une chance pour notre commune de s'ouvrir vers
       d'autres possibles.
-    link: ''
+    link: "/bio/matthieu-covez/"
   - author: Jean-Jacques LE HÉRICY
     avatar: "/images/vignette.jpg"
     content: 'La démarche me plait. Le soir même, je me dis : "c’est bon, je fonce
