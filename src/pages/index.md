@@ -61,24 +61,34 @@ sections:
 - type: section_reviews
   template: section_reviews
   section_id: reviews
-  title: Ils témoignent
+  title: Notre engagement
   subtitle: Candidats sur la liste citoyenne, ils témoignent
   bg: white
   reviews:
-  - author: Matthieu Covez
+  - author: Gwenola CORRE
+    avatar: "/images/vignette-verte-cécile.jpg"
+    content: Je me sens désarmée, impuissante voire découragée, le toujours plus ayant
+      tellement de moyens de pression ... Ou plutôt je me sentais car moi qui venait
+      compléter une liste pour permettre un débat, j'ai trouvé bien plus. J'ai découvert
+      un collectif super accueillant, super bienveillant, super efficace, super compétent
+      et super énergique. Alors aujourd'hui j'ai envie de me donner les moyens d'agir,
+      de faire avancer les choses. Je sais que je peux agir en tant que citoyenne
+      et c'est ça qui me motive.
+    link: ''
+  - author: Matthieu COVEZ
     avatar: "/images/vignette-verte.jpg"
     content: C'est le moment de découvrir une dynamique ambitieuse et responsable
       d'habitants qui veulent faire partager leurs savoir faire et savoir être au
       profit de la collectivité. C'est une chance pour notre commune de s'ouvrir vers
       d'autres possibles.
     link: ''
-  - author: Séverine Dollet
+  - author: Cécile CHEVALIER
     avatar: "/images/vignette-verte-1.jpg"
     content: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
       tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
       quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. '
     link: ''
-  - author: Jean-Jacques Le Héricy
+  - author: Jean-Jacques LE HÉRICY
     avatar: "/images/vignette.jpg"
     content: 'La démarche me plait. Le soir même, je me dis : "c’est bon, je fonce
       !" Réunions suivantes avec toujours de nouvelles têtes : toujours bon. Je reste
