@@ -87,7 +87,7 @@ sections:
     content: 'La démarche me plait. Le soir même, je me dis : "c’est bon, je fonce
       !" Réunions suivantes avec toujours de nouvelles têtes : toujours bon. Je reste
       ! Et quelle énergie dans cette équipe !'
-    link: ''
+    link: "/bio/jean-jacques-le-hericy"
 - type: section_cta
   template: section_cta
   section_id: call-to-action
