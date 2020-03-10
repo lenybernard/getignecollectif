@@ -188,6 +188,9 @@
   border-radius: 3px;
   box-shadow: 0 3px 10px 0 rgba(_palette(primary),.1);
   padding: 1.11111rem;
+   .block-buttons {
+     text-align: center;
+   }
 }
 
 .review-text {

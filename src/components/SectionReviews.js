@@ -1,7 +1,7 @@
 import React from 'react';
 import _ from 'lodash';
 
-import {htmlToReact, safePrefix} from '../utils';
+import {htmlToReact, safePrefix, Link} from '../utils';
 
 export default class SectionReviews extends React.Component {
     render() {
@@ -30,6 +30,15 @@ export default class SectionReviews extends React.Component {
                         }
                         <cite className="review-author">{_.get(review, 'author')}</cite>
                       </footer>
+                      
+                    {_.get(review, 'link') && 
+                      <p class="block-buttons">
+                        <br/>
+                        <Link key={review_idx+"-link"} to={safePrefix(_.get(review, 'link'))} className="button secondary">
+                          Lire le témoignage
+                        </Link>
+                      </p>
+                    }
                     </div>
                   </blockquote>
                   ))}
