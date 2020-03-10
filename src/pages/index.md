@@ -65,7 +65,7 @@ sections:
   subtitle: Candidats sur la liste citoyenne, ils témoignent
   bg: white
   reviews:
-  - author: Gwenola CORRE
+  - author: Cécile Chevalier
     avatar: "/images/vignette-verte-cécile.jpg"
     content: Je me sens désarmée, impuissante voire découragée, le toujours plus ayant
       tellement de moyens de pression ... Ou plutôt je me sentais car moi qui venait
@@ -74,19 +74,13 @@ sections:
       et super énergique. Alors aujourd'hui j'ai envie de me donner les moyens d'agir,
       de faire avancer les choses. Je sais que je peux agir en tant que citoyenne
       et c'est ça qui me motive.
-    link: ''
+    link: "/bio/cecile-chevalier"
   - author: Matthieu COVEZ
     avatar: "/images/vignette-verte.jpg"
     content: C'est le moment de découvrir une dynamique ambitieuse et responsable
       d'habitants qui veulent faire partager leurs savoir faire et savoir être au
       profit de la collectivité. C'est une chance pour notre commune de s'ouvrir vers
       d'autres possibles.
-    link: ''
-  - author: Cécile CHEVALIER
-    avatar: "/images/vignette-verte-1.jpg"
-    content: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. '
     link: ''
   - author: Jean-Jacques LE HÉRICY
     avatar: "/images/vignette.jpg"
