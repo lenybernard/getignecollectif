@@ -7,7 +7,7 @@ img_path: "/images/appel-aux-dons-green(1).jpg"
 
 menus:
   main:
-    title: "📢 Appel aux dons"
+    title: "Appel aux dons"
     weight: 3
 
 ---

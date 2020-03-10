@@ -247,7 +247,7 @@ sections:
 template: landing
 menus:
   main:
-    title: La liste participative
+    title: La liste
     weight: 2
   secondary:
     title: La liste participative
