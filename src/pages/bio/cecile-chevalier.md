@@ -1,6 +1,6 @@
 ---
 template: landing
-title: Mon engagement
+title: Cécile Chevalier
 sections:
 - template: section_content
   bg: gray
