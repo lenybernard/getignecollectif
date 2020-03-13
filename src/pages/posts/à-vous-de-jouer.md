@@ -1,7 +1,7 @@
 ---
 template: post
 title: À vous de jouer !
-subtitle: Si vous rêvez d'intélligence collective, de la renaissance de notre bourg,
+subtitle: Si vous rêvez d'intelligence collective, de la renaissance de notre bourg,
   d'une transition écologique choisie, dimanche, votez pour Gétigné Collectif, votez
   pour vous.
 date: 2020-03-12T23:00:00Z
