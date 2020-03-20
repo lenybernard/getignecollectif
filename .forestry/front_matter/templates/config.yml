@@ -21,6 +21,13 @@ fields:
     - purple
     - green
     - orange
+- name: favicon
+  type: file
+  config:
+    maxSize: '1'
+  label: Favicon
+  description: Une image, PNG, de 32x32
+  default: "/images/favicon.png"
 - type: field_group
   name: header
   label: Header Configuration
@@ -117,10 +124,3 @@ fields:
       default: true
     config:
       labelField: text
-- name: favicon
-  type: file
-  config:
-    maxSize: '1'
-  label: Favicon
-  description: Une image, PNG, de 32x32
-  default: "/images/favicon.png"
