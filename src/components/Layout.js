@@ -17,6 +17,8 @@ export default class Body extends React.Component {
                     <meta name="google" content="notranslate" />
                     <link href="https://fonts.googleapis.com/css?family=Nunito+Sans:400,400i,700,700i" rel="stylesheet"/>
                     <link rel="stylesheet" href={safePrefix('assets/css/main.css')}/>
+                    <link rel="icon" type="image/png" href={_.get(this.props, 'pageContext.site.siteMetadata.favicon')}/>
+                    <meta name="theme-color" content="#33B08F" />
                 </Helmet>
                 <script src="/assets/js/tracking.js"/>
                 <div id="page" className={'site palette-' + _.get(this.props, 'pageContext.site.siteMetadata.palette')}>
