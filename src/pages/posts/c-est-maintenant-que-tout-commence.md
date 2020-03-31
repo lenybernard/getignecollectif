@@ -5,7 +5,9 @@ subtitle: ''
 date: 2020-03-15T23:00:00Z
 thumb_img_path: "/images/WhatsApp Image 2020-03-15 at 19.54.32.jpeg"
 img_path: ''
-excerpt: ''
+excerpt: Avec 43,8% des suffrages, notre liste n'a pas remporté les élections mais
+  avons réussi a montrer qu'une grande partie des gétignois attendent du renouveau
+  dans la gestion de la commune et une politique transparente, écologique et sociale.
 
 ---
 Cette campagne est finie. Merci infiniment à celles et ceux qui se sont engagés, merci aussi aux nombreuses personnes à s'être déplacées et qui ont voté pour Gétigné Collectif malgré la grave erreur et l'inconscience de notre exécutif : on nous a forcé à défendre une certaine idée de la démocratie mais à quel prix ?
