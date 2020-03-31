@@ -4,15 +4,14 @@ sections:
 - type: section_hero
   template: section_hero
   section_id: hero
-  title: L'alternative citoyenne pour Gétigné
-  content: Les enjeux sociaux et environnementaux sont trop importants et ne peuvent
-    plus être des sujets annexes. Notre collectif souhaite engager les habitants de
-    Gétigné derrière des objectifs écologiques, sociaux et de renforcement de l'économie
-    locale.
+  title: Tout commence maintenant
+  content: Avec 43,8% des suffrages, notre liste n'a pas remporté les élections mais
+    a réussi a montrer qu'une grande partie de la gétignois attend du renouveau dans
+    la gestion de la commune et une politique transparente, écologique et sociale.
   image: "/images/hero-1.png"
   actions:
-  - label: Découvrir la liste
-    url: "/liste-participative"
+  - label: C'est maintenant que tout commence
+    url: "/posts/c-est-maintenant-que-tout-commence/"
 - type: section_features
   template: section_features
   section_id: ultimate-goal
