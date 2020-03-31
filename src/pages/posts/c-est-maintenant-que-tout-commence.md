@@ -12,7 +12,7 @@ Cette campagne est finie. Merci infiniment à celles et ceux qui se sont engagé
 
 C'est un bonheur de voir Marion, Cyril, Céline, Romuald, Séverine et Jean-Jacques être élus au conseil municipal et c'est tout aussi fantastique de savoir qu'un collectif est né à Gétigné !
 
-Avec 43,8% des suffrages, notre liste n'a pas remporté les élections mais avons réussi a montrer qu'une grande partie des gétignois attendent du renouveau dans la gestion de la commune et une politique transparente, écologique et sociale.
+Avec 43,8% des suffrages, notre liste n'a pas remporté les élections mais a réussi à montrer qu'une grande partie des gétignois attend du renouveau dans la gestion de la commune et une politique transparente, écologique et sociale.
 
 Nous souhaitions gagner car le temps est compté. La biodiversité, le climat n'avaient pas le temps d'attendre les prochaines élections pour qu'enfin on agisse. C'est donc déterminé que nous suivrons et amènerons les sujets environnementaux dans l'espace public. Nous ferons tout ce qui est en notre pouvoir afin de faire prendre les bons choix à la commune et l'agglomération. C'est le rôle le plus important des élus que de protéger ce bien commun qu'est le futur de nos enfants et nous nous y engageons fermement.
 
