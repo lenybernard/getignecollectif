@@ -23,3 +23,5 @@ Nous l'avions dit pendant la campagne, tout commence maintenant et en ces temps 
 Alors maintenant qu'on a 12 pieds dans la mairie et encore plus dehors, nous n'avons jamais été aussi forts. À nous désormais de construire le futur qu'on veut voir exister et convertir cette opportunité que nous sommes allés décrocher en une réalité.
 
 L'équipe.
+
+![](/images/6-élus.jpg)
