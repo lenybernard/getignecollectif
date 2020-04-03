@@ -6,10 +6,11 @@ subtitle: Sur ce nouveau site, retrouvez les informations concernant le Coronavi
 date: 2020-04-02T22:00:00Z
 thumb_img_path: "/images/carte(1).jpg"
 img_path: ''
-excerpt: ''
+excerpt: Sur ce nouveau site, retrouvez les informations concernant le Coronavirus
+  et le confinement.. Bonne lecture à tou·te·s !
 
 ---
-La France n'aura pas eu le temps de finir le procéssus démocratique, bousculée par la crise du coronavirus.
+La France n'aura pas eu le temps de finir le processus démocratique, bousculée par la crise du coronavirus.
 
 Le pays tout entier a basculé dans un état de marasme sanitaire tout à fait particulier, arrêtant l'économie mais créant surtout un bouleversement dans la vie de millions de personnes à commencer par les métiers directement concernés par la pandémie et les métiers essentiels. Chaque soignant·e, chaque commerçant·e, chaque éboueur·se, chaque transporteur·trice se dévoue corps et âmes pour que le pays tienne bon et que l'essentiel ne s'effondre pas.
 
