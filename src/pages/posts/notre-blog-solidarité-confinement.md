@@ -17,8 +17,8 @@ Du côté du collectif, la situation fut forcément très frustrante. Le conseil
 
 Mais, ce collectif regorge d'idées et nous avons décidé de créer un blog pour partager toutes les informations importantes, les actions de solidarité, recenser les besoins et les idées autour de cette crise nous est apparu évident.
 
-Céline a donc réalisé un blog avec Laurence Neveu et Leny Bernard et il est disponible depuis hier, en ligne à cette adresse :
+Céline a donc réalisé un blog avec Laurence et Leny et il est disponible depuis hier, en ligne à cette adresse :
 
-👉 [https://solidariteconfinement.getigne-collectif.fr](https://solidariteconfinement.getigne-collectif.fr "https://solidariteconfinement.getigne-collectif.fr") 
+👉 [https://solidariteconfinement.getigne-collectif.fr](https://solidariteconfinement.getigne-collectif.fr "https://solidariteconfinement.getigne-collectif.fr")
 
 N'hésitez pas à nous contacter si vous souhaitez partager avec nous des idées, infos & conseils, à demander de l'aide ou à proposer votre aide !
