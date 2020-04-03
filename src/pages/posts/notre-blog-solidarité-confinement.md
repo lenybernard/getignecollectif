@@ -1,6 +1,6 @@
 ---
 template: post
-title: Notre blog Solidarité Confinement
+title: "\U0001F637 Notre blog Solidarité Confinement"
 subtitle: Sur ce nouveau site, retrouvez les informations concernant le Coronavirus
   et le confinement.. Bonne lecture à tou·te·s !
 date: 2020-04-02T22:00:00Z
