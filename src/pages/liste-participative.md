@@ -177,12 +177,6 @@ sections:
   title: ''
   subtitle: ''
   section_id: ''
-- template: section_cta
-  type: section_cta
-  title: "\U0001F4C5 Réunion publique : venez nombreux !"
-  subtitle: Dimanche 8 à 16h, Salle du pavillon, à l'Espace Bellevue
-  section_id: ''
-  actions: []
 - template: section_content
   bg: gray
   type: section_content
