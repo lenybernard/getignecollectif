@@ -6,7 +6,7 @@ sections:
   section_id: contact
   title: Contactez-nous !
   content: |-
-    Vous souhaitez participer à la vie de la commune ? Que votre voix porte et compte ? 3 choix :
+    Vous souhaitez participer à la vie de la commune ou simplement nous contacter ? 3 choix :
 
     * Envoyez-nous un message à l'adresse [contact@getigne-collectif.fr](mailto:contact@getigne-collectif.fr)
     * contactez-nous sur [Facebook](https://facebook.com/getigne) oiu [Twitter](https://twitter.com/getigne)
