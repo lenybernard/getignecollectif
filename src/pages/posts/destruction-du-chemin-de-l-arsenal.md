@@ -5,7 +5,7 @@ subtitle: Chemin qui relie le pont de l’Arsenal sur la Sèvre en remontant le 
   pour aboutir non loin de la chapelle Toutes joies.
 date: 2020-09-20T22:00:00Z
 thumb_img_path: "/images/dsc06113dxojjlh.jpg"
-img_path: "/images/dsc06113dxojjlh.jpg"
+img_path: "/images/119943438_3250568898384174_2945199566493985488_n.jpg"
 excerpt: ''
 
 ---
@@ -15,6 +15,5 @@ Or, les 6 élus de Gétigné Collectif considèrent que le chemin actuel si larg
 
 Il est vrai que la majorité a voté en toute légitimité la disparition de ce chemin ; mais nous lui rappelons que si ce projet est mené à son terme, la disparition de ce chemin sera donc irréversible ; elle en portera indéfiniment toute la responsabilité. Nous considérions que cette majorité brade trop facilement le patrimoine végétal de notre ville et proposons donc de conserver la partie haute dans l'état et s'il n'y a aucun arrangement possible avec le propriétaire de la partie basse de doubler celui-ci en conservant les arbres qui le bordent. Rien n'empêche ensuite le lotisseur de permettre aux personnes en fauteuil et aux personnes avec des poussettes de traverser confortablement ce lotissement.
 
-Si vous souhaitez soutenir notre démarche , signez dès maintenant la pétition :
-
-[https://www.change.org/p/mairie-de-g%C3%A9tign%C3%A9-pr%C3%A9server-le-chemin-de-l-arsenal](https://www.change.org/p/mairie-de-g%C3%A9tign%C3%A9-pr%C3%A9server-le-chemin-de-l-arsenal "https://www.change.org/p/mairie-de-g%C3%A9tign%C3%A9-pr%C3%A9server-le-chemin-de-l-arsenal")
+Pour agir, signez dès maintenant la pétition :[  
+](https://emojipedia.org/backhand-index-pointing-right/)👉 [https://www.change.org/chemin-arsenal-getigne](https://www.change.org/chemin-arsenal-getigne "https://www.change.org/chemin-arsenal-getigne")
