@@ -240,9 +240,6 @@ sections:
   section_id: ''
 template: landing
 menus:
-  main:
-    title: La liste
-    weight: 2
   secondary:
     title: La liste participative
     weight: 4
