@@ -26,7 +26,6 @@ Pour la date, nous vous demandons de bien vouloir prendre quelques minutes pour 
 
 Si vous souhaitez participer à l'organisation de cette première AG pour en faire un chouette moment de célébration et d'intelligence collective, [contactez-nous](https://getigne-collectif.fr/contact/ "Contactez-nous").
 
-| [**✔️ Donner mes disponibilités**](https://framadate.org/rjtgydg3OGkZc1XD) |
+<a class="button" href="https://framadate.org/rjtgydg3OGkZc1XD">✔️ Donner mes disponibilités</a>
 
-| --- |
-| Réponse souhaitée avant le 25 Septembre! Merci d'avance pour votre participation, on va essayer de faire en sorte d'être le plus nombreux possible pour cette première AG en respectant la législation, les protocoles sanitaires et le respect des individus ! |
+> Réponse souhaitée avant le 25 Septembre! Merci d'avance pour votre participation, on va essayer de faire en sorte d'être le plus nombreux possible pour cette première AG en respectant la législation, les protocoles sanitaires et le respect des individus ! |
