@@ -3,9 +3,9 @@ template: post
 title: Destruction du chemin de l’Arsenal
 subtitle: Chemin qui relie le pont de l’Arsenal sur la Sèvre en remontant le coteau
   pour aboutir non loin de la chapelle Toutes joies.
-date: 2020-09-20T22:00:00Z
+date: 2020-09-20T22:00:00.000+00:00
 thumb_img_path: "/images/dsc06113dxojjlh.jpg"
-img_path: "/images/119943438_3250568898384174_2945199566493985488_n.jpg"
+img_path: "/images/chemin-arsenal.jpg"
 excerpt: ''
 
 ---
