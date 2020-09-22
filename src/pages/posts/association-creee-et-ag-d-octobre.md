@@ -22,10 +22,10 @@ Pour rendre cela possible, nous avons besoin de 2 éléments :
 
 Pour la date, nous vous demandons de bien vouloir prendre quelques minutes pour répondre à [ce sondage](https://framadate.org/rjtgydg3OGkZc1XD) ou de nous envoyer un message si vous n'êtes pas à l'aise avec l'outil numérique proposé (contact@getigne-collectif.fr).
 
+<a class="button" href="[https://framadate.org/rjtgydg3OGkZc1XD](https://framadate.org/rjtgydg3OGkZc1XD "https://framadate.org/rjtgydg3OGkZc1XD")">✔️ Donner mes disponibilités</a>
+
 2- **organiser ce moment**
 
 Si vous souhaitez participer à l'organisation de cette première AG pour en faire un chouette moment de célébration et d'intelligence collective, [contactez-nous](https://getigne-collectif.fr/contact/ "Contactez-nous").
-
-<a class="button" href="https://framadate.org/rjtgydg3OGkZc1XD">✔️ Donner mes disponibilités</a>
 
 > Réponse souhaitée avant le 25 Septembre! Merci d'avance pour votre participation, on va essayer de faire en sorte d'être le plus nombreux possible pour cette première AG en respectant la législation, les protocoles sanitaires et le respect des individus ! |
