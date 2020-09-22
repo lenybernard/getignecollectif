@@ -15,5 +15,4 @@ Or, les 6 élus de Gétigné Collectif considèrent que le chemin actuel si larg
 
 Il est vrai que la majorité a voté en toute légitimité la disparition de ce chemin ; mais nous lui rappelons que si ce projet est mené à son terme, la disparition de ce chemin sera donc irréversible ; elle en portera indéfiniment toute la responsabilité. Nous considérions que cette majorité brade trop facilement le patrimoine végétal de notre ville et proposons donc de conserver la partie haute dans l'état et s'il n'y a aucun arrangement possible avec le propriétaire de la partie basse de doubler celui-ci en conservant les arbres qui le bordent. Rien n'empêche ensuite le lotisseur de permettre aux personnes en fauteuil et aux personnes avec des poussettes de traverser confortablement ce lotissement.
 
-Pour agir, signez dès maintenant la pétition :[  
-](https://emojipedia.org/backhand-index-pointing-right/)👉 [https://www.change.org/chemin-arsenal-getigne](https://www.change.org/chemin-arsenal-getigne "https://www.change.org/chemin-arsenal-getigne")
+<a href="https://www.change.org/chemin-arsenal-getigne" class="button">Je signe la pétition</a>
