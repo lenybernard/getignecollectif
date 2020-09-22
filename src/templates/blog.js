@@ -1,6 +1,6 @@
 import React from 'react';
 import _ from 'lodash';
-import moment from 'moment-strftime';
+import Moment from 'react-moment'
 
 import {Layout} from '../components/index';
 import {getPages, Link, safePrefix} from '../utils';
@@ -29,8 +29,7 @@ export default class Blog extends React.Component {
                           <p>{_.get(post, 'frontmatter.excerpt')}</p>
                         </div>
                         <footer className="post-meta">
-                          <time className="published"
-                            dateTime={moment(_.get(post, 'frontmatter.date')).strftime('%Y-%m-%d %H:%M')}>{moment(_.get(post, 'frontmatter.date')).strftime('%B %d, %Y')}</time>
+                          <Moment locale="fr" format="dddd Do MMMM YYYY">{_.get(post, 'frontmatter.date')}</Moment>
                         </footer>
                       </div>
                     </div>

@@ -13,6 +13,10 @@ import SectionReviews from './SectionReviews';
 import Social from './Social';
 import SubscribeForm from './SubscribeForm';
 import Layout from './Layout';
+import Moment from 'react-moment'
+import 'moment/locale/fr';
+
+Moment.globalLocale = 'fr'
 
 export {
     CtaButtons,
