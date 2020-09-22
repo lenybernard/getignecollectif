@@ -6,7 +6,7 @@ sections:
   section_id: hero
   title: Tout commence maintenant
   content: Avec 43,8% des suffrages, notre liste n'a pas remporté les élections mais
-    a réussi a montrer qu'une grande partie de la gétignois attend du renouveau dans
+    a réussi a montrer qu'une grande partie des gétignois attend du renouveau dans
     la gestion de la commune et une politique transparente, écologique et sociale.
   image: "/images/hero-1.png"
   actions:
