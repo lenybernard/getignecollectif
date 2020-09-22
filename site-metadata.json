@@ -8,8 +8,8 @@
     "menu": {
       "actions": [
         {
-          "label": "Notre programme",
-          "url": "/programme"
+          "label": "Nous contacter",
+          "url": "/contact"
         }
       ]
     }
