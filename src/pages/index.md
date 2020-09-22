@@ -4,12 +4,15 @@ sections:
 - type: section_hero
   template: section_hero
   section_id: hero
-  title: Conservation du chemin de l'arsenal
-  content: Qu'on habite à Gétigné ou Cugand, on connait ce petit chemin qui relie la Garenne-Lemot au pont de l'Arsenal. Aujourd'hui, ce site classé qui fait partie intégrante de notre patrimoine est menacé
+  title: Préservation du chemin de l'arsenal
+  content: Qu'on habite à Gétigné ou Cugand, on connait et on aime ce petit chemin
+    qui relie la Garenne-Lemot au pont de l'Arsenal. Aujourd'hui, ce site classé qui
+    fait partie intégrante de notre patrimoine est menacé par une décision arbitraire
+    et obscure.
   image: "/images/chemin-arsenal.png"
   actions:
   - label: Signer la pétition
-    url: "https://www.change.org/p/mairie-de-gétigné-préserver-le-chemin-de-l-arsenal"
+    url: https://www.change.org/p/mairie-de-gétigné-préserver-le-chemin-de-l-arsenal
 - type: section_features
   template: section_features
   section_id: ultimate-goal
