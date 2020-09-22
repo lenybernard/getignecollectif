@@ -8,3 +8,4 @@ img_path: "/images/120095895_2715860068694877_334531558335458680_o.jpg"
 excerpt: ''
 
 ---
+<a class="button" href="https://www.ouest-france.fr/elections/municipales/getigne-getigne-collectif-devient-une-association-6983778">Accéder à l'article en ligne</a>
