@@ -25,7 +25,7 @@ sections:
   image: ''
 
 menus:
-  main:
+  secondary:
     title: "🦠 Solidarité Confinement"
-    weight: 3
+    weight: 5
 ---

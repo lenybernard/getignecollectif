@@ -4,18 +4,16 @@ sections:
 - type: section_hero
   template: section_hero
   section_id: hero
-  title: Tout commence maintenant
-  content: Avec 43,8% des suffrages, notre liste n'a pas remporté les élections mais
-    a réussi a montrer qu'une grande partie des gétignois attend du renouveau dans
-    la gestion de la commune et une politique transparente, écologique et sociale.
-  image: "/images/hero-1.png"
+  title: Conservation du chemin de l'arsenal
+  content: Qu'on habite à Gétigné ou Cugand, on connait ce petit chemin qui relie la Garenne-Lemot au pont de l'Arsenal. Aujourd'hui, ce site classé qui fait partie intégrante de notre patrimoine est menacé
+  image: "/images/chemin-arsenal.png"
   actions:
-  - label: C'est maintenant que tout commence
-    url: "/posts/c-est-maintenant-que-tout-commence/"
+  - label: Signer la pétition
+    url: "https://www.change.org/p/mairie-de-gétigné-préserver-le-chemin-de-l-arsenal"
 - type: section_features
   template: section_features
   section_id: ultimate-goal
-  title: Notre raison d'être
+  title: Qui sommes-nous ?
   subtitle: Le collectif et la liste s'inscrivent naturellement dans les principes
     des listes participatives dont la volonté est de réhabiliter la démocratie directe
     en intégrant les citoyens & les citoyennes dans la vie politique. Le deuxième
