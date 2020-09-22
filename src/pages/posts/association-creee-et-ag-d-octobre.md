@@ -20,7 +20,7 @@ Pour rendre cela possible, nous avons besoin de 2 éléments :
 
 1- **trouver la date qui permettra à un max. de personne de venir**
 
-Pour la date, nous vous demandons de bien vouloir prendre quelques minutes pour répondre à ce sondage ou de nous envoyer un message si vous n'êtes pas à l'aise avec l'outil numérique proposé (contact@getigne-collectif.fr).
+Pour la date, nous vous demandons de bien vouloir prendre quelques minutes pour répondre à [ce sondage](https://framadate.org/rjtgydg3OGkZc1XD) ou de nous envoyer un message si vous n'êtes pas à l'aise avec l'outil numérique proposé (contact@getigne-collectif.fr).
 
 2- **organiser ce moment**
 
