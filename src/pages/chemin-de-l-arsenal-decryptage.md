@@ -114,6 +114,14 @@ sections:
   image: "/images/dsc06106dxojjlh.jpg"
   section_id: ''
   title: ''
+- template: section_cta
+  type: section_cta
+  title: Ce n'est pas trop tard pour agir.
+  actions:
+  - label: Signez la pétition
+    url: https://www.change.org/chemin-arsenal-getigne
+  section_id: ''
+  subtitle: Soutenez l'action, signez & partagez largement la pétition !
 - template: section_content
   bg: gray
   type: section_content
@@ -131,13 +139,5 @@ sections:
   section_id: ''
   image: ''
   actions: []
-- template: section_cta
-  type: section_cta
-  title: Soutenez l'action
-  actions:
-  - label: Signez la pétition
-    url: https://www.change.org/chemin-arsenal-getigne
-  section_id: ''
-  subtitle: Signez & partagez largement la pétition
 
 ---
