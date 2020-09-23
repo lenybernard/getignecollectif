@@ -40,9 +40,9 @@ sections:
   type: section_cta
   actions:
   - label: Article de l'Hebdo Sevre & maine
-    url: https://nextcloud.transition-citoyenne.org/index.php/apps/gallery/preview.public/42051?width=2000&height=2000&c=30f500e43e4d8a74a2dc919e9df84400&requesttoken=jQYuOpqp4RmuRbqVAZqthwYMYuTKFXBs6kGag52kDr4%3D%3A%2BF5GDdPztS6bI%2BjjcqjgxXZhTb74UBQNniDxyLbvQ48%3D&token=MsGxf3kpMPwfHYW
+    url: "/images/meaculpa-aggribashinghebdo.jpg"
   - label: Article Ouest-France
-    url: https://www.ouest-france.fr/pays-de-la-loire/getigne-44190/vignoble-de-nantes-a-getigne-l-opposition-municipale-lavee-des-accusations-d-agribashing-6972976
+    url: "/images/screenshot_2020-09-23-vignoble-de-nantes-a-getigne-l-opposition-municipale-lavee-des-accusations-d-agribashing.png"
   title: Lire aussi
   section_id: ''
   subtitle: ''
