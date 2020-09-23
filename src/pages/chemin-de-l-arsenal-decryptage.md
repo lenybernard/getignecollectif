@@ -30,9 +30,9 @@ sections:
     comprendre les motivations et F. Guillot a répondu en demandant d'être patient
     et que l'aménageur viendrait présenter le projet au mois de Septembre.\n\n> Personne
     ou presque n'en parlera car tout le monde aura en tête les accusations d'aggri-bashing
-    perpetrées lors de ce même conseil à l'encontre du collectif qui auront fait les
-    grands titres dans la presse.\n>\n> Propos calomnieux dont le maire a eu la décence
-    de présenter ses plus plates excuses lors du conseil municipal suivant.  \U0001F447"
+    perpetrées lors de ce même conseil à l'encontre du collectif.\n>\n> Des propos
+    calomnieux dont le maire a eu la décence de présenter ses plus plates excuses
+    lors du conseil municipal suivant.  \U0001F447"
   section_id: ''
   image: ''
   actions: []
