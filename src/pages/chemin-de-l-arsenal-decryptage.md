@@ -36,5 +36,15 @@ sections:
   actions:
   - label: Lire l'article
     url: https://www.ouest-france.fr/pays-de-la-loire/getigne-44190/vignoble-de-nantes-a-getigne-l-opposition-municipale-lavee-des-accusations-d-agribashing-6972976
+- template: section_cta
+  type: section_cta
+  actions:
+  - label: Article paru dans l'Hebdo Sevre & maine
+    url: https://nextcloud.transition-citoyenne.org/index.php/apps/gallery/preview.public/42051?width=2000&height=2000&c=30f500e43e4d8a74a2dc919e9df84400&requesttoken=jQYuOpqp4RmuRbqVAZqthwYMYuTKFXBs6kGag52kDr4%3D%3A%2BF5GDdPztS6bI%2BjjcqjgxXZhTb74UBQNniDxyLbvQ48%3D&token=MsGxf3kpMPwfHYW
+  - label: Article Ouest-France
+    url: https://nextcloud.transition-citoyenne.org/index.php/apps/gallery/preview.public/42041?width=2000&height=2000&c=4cdee105ca124238ac74d58ac0cf335f&requesttoken=ZU1emGDJdej2cUJOAwa9MGsYMc7LTVgQiu58PdXUxtE%3D%3AEBU2rymTId%2FDFxA4cDTwcht1HpT5CDxx%2Fo8Xdv6fi%2BA%3D&token=MsGxf3kpMPwfHYW
+  title: Les excuses du maire concernant l'aggri-bashing
+  section_id: ''
+  subtitle: ''
 
 ---
