@@ -133,11 +133,11 @@ sections:
   actions: []
 - template: section_cta
   type: section_cta
-  title: Envie de soutenir notre action
+  title: Soutenez l'action
   actions:
   - label: Signez la pétition
     url: https://www.change.org/chemin-arsenal-getigne
   section_id: ''
-  subtitle: ''
+  subtitle: Signez & partagez largement la pétition
 
 ---
