@@ -83,16 +83,29 @@ sections:
   image: "/images/dsc06106dxojjlh.jpg"
   section_id: ''
   title: ''
-- template: section_features
+- template: section_content
   bg: gray
-  type: section_features
-  title: Et maintenant ?
-  featureslist:
-  - title: Que faire ?
-    content: ''
-    image: ''
-    actions: []
+  type: section_content
+  title: Quelques questions aux conseillers municipaux et adjoints au maire
+  content: "Être conseiller municipal, c'est un engagement **bénévole** fort, qui
+    montre le souhait de participer à la vie de sa commune, d'améliorer les choses,
+    de réduire les inégalités, d'anticiper les problèmes et travailler aux solutions.\n\nAlors
+    sans parler de l'idée même du projet, comment expliquer que les conseillers de
+    la liste de François Guillot, qui sont, à priori des personnes intelligentes,
+    indépendantes avec pour certains une sensibilité pour la nature ont voté à l'unanimité
+    ce projet de destruction ? À l'unanimité ! Un vote d'abstention aurait été plus
+    entendable s'ils avaient un doute sur l'existence d'alternatives souhaitables.\n\nAlors
+    avec tout le réel respect que nous vous portons, Laurence Valton, Florian Grimberger,
+    Karine Guimbretière, Gilles Chabs, Carine Sartori, Mickaël Bodet, René Lesieur,
+    Patricia Mangin-Cazes, Etienne Ripoche, Chantal Audrain, Stéphane Rabiller, Nadège
+    Lemelle, Angélina Bulot, Lore Pichaud, Olivier Foulonneau, Olivier Jarret, Alex
+    Boisselier, Bénédicte Loiret, Jonathan Peigné, Morgane Barbier : \n\n**Vous êtes-vous
+    engagé·e en politique pour suivre F. Guillot ou pour servir et défendre les intérêts
+    de la population ? Combien de personnes signataires de la pétition pour arrêter
+    la destruction en cours et chercher avec la population une solution soutenable
+    ?**"
   section_id: ''
-  subtitle: ''
+  image: ''
+  actions: []
 
 ---
