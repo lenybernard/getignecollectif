@@ -71,6 +71,8 @@ sections:
     Dans cette enquête, on peut aussi noter la réponse très légère de la maitrise d'ouvrage et la remarque du commissaire enquêteur visiblement :
 
     "il est vrai que l'orientation graphique de l’OAP ne reprend pas le principe de la liaison douce entre le Pont de l’Arsenal et le secteur de Toutes Joies qui figure dans le schéma du PADD" [PADD qui est disponible ici](/images/p3_padd_appro.pdf).
+
+    Après avoir été mis en relation avec le PDIPR (plan départemental des itinéraires de promenade et de randonnée), Laurence Mamias de Clisson a eu la confirmation que dans le cas d'un chemin classé comme celui de l'arsenal, il y a une obligation de remplacement à équivalence sur le plan touristique, c'est-à-dire qu'on ne peut pas remplacer un chemin dans une forêt par un chemin dans un lotissement.
   image: "/images/oap-arsenal.png"
   section_id: ''
   title: ''
