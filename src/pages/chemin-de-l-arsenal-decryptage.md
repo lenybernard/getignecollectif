@@ -156,7 +156,7 @@ sections:
 
     > **Vous vous êtes engagé·e en politique pour servir et défendre les intérêts de la population, pas pour suivre F. Guillot. Vous connaissez notre attachement aux valeurs d'horizontalité et d'integrité, pour nous, vous êtes des élu·e·s à part entière, des conseillers libres de faire vos propres choix, de défendre votre point de vue et de les assumer lors des votes en conseil municipal.**
     >
-    > **Combien de personnes signataires de la pétition pour demander l'arrêt de la destruction en cours et chercher avec la population une solution soutenable ?**
+    > **Combien de personnes signataires de la pétition faut-il pour demander l'arrêt de la destruction en cours et chercher avec la population une solution soutenable ?**
   section_id: ''
   image: ''
   actions: []
