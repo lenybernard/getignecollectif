@@ -103,7 +103,7 @@ sections:
   bg: gray
   type: section_content
   section_id: ''
-  title: ''
+  title: Un autre chemin possible, plus désirable
   content: Dans le cas où la condamnation du chemin de l'arsenal serait irreversible,
     une alternative simple consisterait à rejoindre le pont de l'arsenal en passant
     par le lotissement et à travers les parcelles sud.
