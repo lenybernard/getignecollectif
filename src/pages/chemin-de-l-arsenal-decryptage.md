@@ -2,6 +2,16 @@
 template: landing
 title: Chemin de l'arsenal - décryptage
 sections:
+- template: section_hero
+  type: section_hero
+  section_id: ''
+  title: 'Destruction du chemin de l''arsenal : décryptage'
+  image: "/images/chemin-arsenal.jpg"
+  content: Ce dossier est difficile à comprendre, voici donc une page permettant d'y
+    voir plus clair et de partager en toute transparence le niveau d'information et
+    de compréhension que nous avons du sujet. N'hésitez pas à nous contacter s'il
+    persiste des zones d'ombre ou que vous avez des réponses ou détails à apporter.
+  actions: []
 - template: section_content
   bg: gray
   type: section_content
