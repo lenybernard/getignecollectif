@@ -68,12 +68,36 @@ sections:
 - template: section_content
   bg: gray
   type: section_content
-  content: |-
-    Dans cette enquête, on peut aussi noter la réponse très légère de la maitrise d'ouvrage et la remarque du commissaire enquêteur visiblement :
-
-    "il est vrai que l'orientation graphique de l’OAP ne reprend pas le principe de la liaison douce entre le Pont de l’Arsenal et le secteur de Toutes Joies qui figure dans le schéma du PADD" [PADD qui est disponible ici](/images/p3_padd_appro.pdf).
-
-    Après avoir été mis en relation avec le PDIPR (plan départemental des itinéraires de promenade et de randonnée), Laurence Mamias de Clisson a eu la confirmation que dans le cas d'un chemin classé comme celui de l'arsenal, il y a une obligation de remplacement à équivalence sur le plan touristique, c'est-à-dire qu'on ne peut pas remplacer un chemin dans une forêt par un chemin dans un lotissement. L'information a également été confirmée par l'office du tourisme.
+  content: "Dans cette enquête, on peut aussi noter la réponse très légère de la maitrise
+    d'ouvrage et la remarque du commissaire enquêteur visiblement :\n\n\"il est vrai
+    que l'orientation graphique de l’OAP ne reprend pas le principe de la liaison
+    douce entre le Pont de l’Arsenal et le secteur de Toutes Joies qui figure dans
+    le schéma du PADD\" [PADD qui est disponible ici](/images/p3_padd_appro.pdf).\n\n[Samuel
+    Gautier](https://coworklisson.fr/annuaire-professionnel/samuel-gautier-2/) nous
+    explique \n\n> \"la carte du PADD sur les mobilités représente un tracé verticale
+    assez précis qui passe bien à l'Est du secteur de l'OAP de l'Arsenal => la demande
+    de modification par le commissaire enquêteur - d'intégrer un tracé de liaison
+    douce Nord Sud dans l'OAP de l'Arsenal - a été appliquée sans contrôle de cohérence
+    par la mairie et amène à cette ambiguïté d'un cheminement qui débouche sur un
+    champ privé.\"\n\nAprès avoir été mis en relation avec le [PDIPR](https://www.loire-atlantique.fr/44/amenagement-economie/le-plan-departemental-des-itineraires-de-promenade-et-de-randonnees-pdipr/c_1280764)
+    (plan départemental des itinéraires de promenade et de randonnée), Laurence Mamias
+    de Clisson a eu la confirmation que dans le cas d'un chemin classé comme celui
+    de l'arsenal, il y a une obligation de remplacement à équivalence sur le plan
+    touristique, c'est-à-dire qu'on ne peut pas remplacer un chemin dans une forêt
+    par un chemin dans un lotissement. L'information a également été confirmée par
+    l'office du tourisme.\n\nSamuel Gautier ajoute :\n\n> \"Le sentier de randonnée
+    est inscrit dans le périmètre d'un monument historique classé que sont les édifices
+    de la Garenne Lemot. La chapelle de Toutes Joies est accréditée dans le PLU de
+    Gétigné de \"patrimoine bâti à protéger\" (voir la carte des servitudes* du PLU
+    jointe ici). Ces deux qualifications sont distinctes en droit, mais pour notre
+    histoire elles attestent de l'intérêt patrimonial de cette rive droite, à la fois
+    en continuité avec l'AVAP de Clisson et le zonage de Cugand (rive gauche). Au
+    final, cela implique une qualité patrimoniale et paysagère de l'ensemble soit
+    une attention aux aménagements des cheminements des deux rives de la Sèvre. C'est
+    par cette prise de recul, en prenant appui sur ce trait d'union du pont de l'Arsenal,
+    que le raisonnement peut se tenir de disqualifier un passage par la rue du chemin
+    de l'Arsenal et la zone commerciale, et de travailler à une alternative de qualité
+    !\""
   image: "/images/oap-arsenal.png"
   section_id: ''
   title: ''
