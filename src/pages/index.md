@@ -11,8 +11,8 @@ sections:
     et obscure.
   image: "/images/chemin-arsenal.png"
   actions:
-  - label: Signer la pétition
-    url: https://www.change.org/p/mairie-de-gétigné-préserver-le-chemin-de-l-arsenal
+  - label: Lisez notre dossier
+    url: /chemin-de-l-arsenal-decryptage
 - type: section_features
   template: section_features
   section_id: ultimate-goal
