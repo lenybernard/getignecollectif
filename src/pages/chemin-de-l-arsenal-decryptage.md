@@ -23,16 +23,17 @@ sections:
     randonnée très utilisé et surtout très apprécié pour sa nature.\n\nAprès quelques
     échanges de mail avec Nathalie Morisseau (agent responsable de l’urbanisme de
     la ville), nous avons la confirmation que le chemin de l’Arsenal va disparaître.
-    La partie basse appartient à Monsieur Besson \"qui sera ravi de récupérer sa tranquilité\"
-    dixit F. Guillot et la partie haute du chemin qui est communale sera cédée à Mme
-    Richard et à l’aménageur pour les travaux. Cette proposition est soumise au vote
-    lors du conseil municipal du 25 juin où nous votons contre après avoir tenté d'en
-    comprendre les motivations et F. Guillot a répondu en demandant d'être patient
-    et que l'aménageur viendrait présenter le projet au mois de Septembre.\n\n> Personne
-    ou presque n'en parlera car tout le monde aura en tête les accusations d'aggri-bashing
-    perpetrées lors de ce même conseil à l'encontre du collectif.\n>\n> Des propos
-    calomnieux dont le maire a eu la décence de présenter ses plus plates excuses
-    lors du conseil municipal suivant.  \U0001F447"
+    La partie basse appartient à Monsieur Besson qui \"serait bien heureux de ne plus
+    avoir de passage devant chez lui\" dixit F. Guillot et la partie haute du chemin
+    qui est communale sera cédée à Mme Richard et à l’aménageur pour les travaux.
+    Cette proposition est soumise au vote lors du conseil municipal du 25 juin où
+    nous votons contre après avoir tenté d'en comprendre les motivations et F. Guillot
+    a répondu en demandant d'être patient et que l'aménageur viendrait présenter le
+    projet au mois de Septembre.\n\n> Personne ou presque n'en parlera car tout le
+    monde aura en tête les accusations d'aggri-bashing perpetrées lors de ce même
+    conseil à l'encontre du collectif.\n>\n> Des propos calomnieux dont le maire a
+    eu la décence de présenter ses plus plates excuses lors du conseil municipal suivant.
+    \ \U0001F447"
   section_id: ''
   image: ''
   actions: []
@@ -59,9 +60,10 @@ sections:
 - template: section_content
   bg: gray
   type: section_content
-  content: "\\- Le 8 septembre, lors de la commission Urba, Céline apprend que FG
-    a rencontré seul l’aménageur quelques jours auparavant. Aucune information supplémentaire
-    n’est donnée. Seule la date du début des travaux : le 21 septembre."
+  content: "\\- Le 8 septembre, lors de la commission Urba, Céline apprend que François
+    Guillot a rencontré seul l’aménageur quelques jours auparavant contrairement à
+    ce qu'il avait dit lors du conseil de Juin. Aucune information supplémentaire
+    n’est donnée à part la date du début des travaux : le 21 septembre."
   section_id: ''
   title: ''
   image: ''
