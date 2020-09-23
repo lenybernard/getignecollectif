@@ -116,7 +116,7 @@ sections:
   title: ''
 - template: section_cta
   type: section_cta
-  title: Ce n'est pas trop tard pour agir.
+  title: Il n'est jamais trop tard
   actions:
   - label: Signez la pétition
     url: https://www.change.org/chemin-arsenal-getigne
