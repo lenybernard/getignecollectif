@@ -48,8 +48,8 @@ sections:
   bg: gray
   type: section_content
   title: Carte du futur "chemin"
-  content: 'Le chemin serait remplacé se ferait à travers le lotissement (tracé en
-    jaune) :'
+  content: 'Le chemin serait remplacé par une voie qui traverserait le lotissement
+    (tracé en jaune) :'
   image: "/images/screenshot_2020-09-23-reunion-chemin-de-l-arsenal-21sept2020.png"
   section_id: ''
   actions: []
