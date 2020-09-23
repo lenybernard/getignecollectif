@@ -67,6 +67,17 @@ sections:
 - template: section_content
   bg: gray
   type: section_content
+  content: |-
+    Dans cette enquête, on peut aussi noter la réponse très légère de la maitrise d'ouvrage et la remarque du commissaire enquêteur visiblement :
+
+    "il est vrai que l'orientation graphique de l’OAP ne reprend pas le principe de la liaison douce entre le Pont de l’Arsenal et le secteur de Toutes Joies qui figure dans le schéma du PADD" [PADD qui est disponible ici](/images/p3_padd_appro.pdf).
+  image: "/images/oap-arsenal.png"
+  section_id: ''
+  title: ''
+  actions: []
+- template: section_content
+  bg: gray
+  type: section_content
   title: Carte du futur "chemin"
   content: Le chemin serait remplacé par une voie qui traverserait le lotissement
     (tracé en jaune ci-contre). Incomparable avec le chemin actuel, classé, naturel,
