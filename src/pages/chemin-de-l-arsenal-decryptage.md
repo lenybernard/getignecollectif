@@ -104,8 +104,10 @@ sections:
   type: section_content
   section_id: ''
   title: ''
-  content: ''
-  image: ''
+  content: Dans le cas où la condamnation du chemin de l'arsenal serait irreversible,
+    une alternative simple consisterait à rejoindre le pont de l'arsenal en passant
+    par le lotissement et à travers les parcelles sud.
+  image: "/images/sentierarsenal-alter-light.jpg"
   actions: []
 - template: section_content
   bg: gray
