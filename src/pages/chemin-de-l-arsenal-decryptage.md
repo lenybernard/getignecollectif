@@ -28,13 +28,13 @@ sections:
     qui est communale sera cédée à Mme Richard et à l’aménageur pour les travaux.
     Cette proposition est soumise au vote lors du conseil municipal du 25 juin où
     nous votons contre après avoir tenté d'en comprendre les motivations et F. Guillot
-    a répondu en demandant d'être patient et que l'aménageur viendrait présenter le
-    projet au mois de Septembre (_il en est fait mention dans le PV du conseil municipal
-    mais la réunion ne s'est pas tenue_).\n\n> Personne ou presque n'en parlera car
-    tout le monde aura en tête les accusations d'aggri-bashing perpetrées lors de
-    ce même conseil à l'encontre du collectif.\n>\n> Des propos calomnieux dont le
-    maire a eu la décence de présenter ses plus plates excuses lors du conseil municipal
-    suivant.  \U0001F447"
+    a répondu en demandant d'être patient et que le bailleur social viendrait présenter
+    le projet au mois de Septembre (_il en est fait mention dans le PV du conseil
+    municipal mais la réunion ne s'est pas tenue_).\n\n> Personne ou presque n'en
+    parlera car tout le monde aura en tête les accusations d'aggri-bashing perpetrées
+    lors de ce même conseil à l'encontre du collectif.\n>\n> Des propos calomnieux
+    dont le maire a eu la décence de présenter ses plus plates excuses lors du conseil
+    municipal suivant.  \U0001F447"
   section_id: ''
   image: ''
   actions: []
