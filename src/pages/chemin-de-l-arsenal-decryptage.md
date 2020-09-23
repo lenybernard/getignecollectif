@@ -33,9 +33,7 @@ sections:
     ses plus plates excuses lors du conseil municipal suivant."
   section_id: ''
   image: ''
-  actions:
-  - label: Lire l'article
-    url: https://www.ouest-france.fr/pays-de-la-loire/getigne-44190/vignoble-de-nantes-a-getigne-l-opposition-municipale-lavee-des-accusations-d-agribashing-6972976
+  actions: []
 - template: section_cta
   type: section_cta
   actions:
