@@ -49,7 +49,8 @@ sections:
   type: section_content
   title: Carte du futur "chemin"
   content: Le chemin serait remplacé par une voie qui traverserait le lotissement
-    (tracé en jaune ci-contre). Incomparable avec le chemin actuel, naturel & bucolique.
+    (tracé en jaune ci-contre). Incomparable avec le chemin actuel, classé, naturel,
+    bucolique et qui fait partie du patrimoine.
   image: "/images/screenshot_2020-09-23-reunion-chemin-de-l-arsenal-21sept2020.png"
   section_id: ''
   actions: []
