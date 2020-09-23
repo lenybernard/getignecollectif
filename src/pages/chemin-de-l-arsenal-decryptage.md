@@ -146,7 +146,7 @@ sections:
 - template: section_content
   bg: gray
   type: section_content
-  title: Quelques questions aux conseillers municipaux et adjoints au maire
+  title: Une question aux conseillers municipaux et adjoints au maire
   content: |-
     Être conseiller municipal est un engagement **bénévole** fort, audacieux, qui montre le souhait de participer à la vie de sa commune, d'améliorer les choses, de réduire les inégalités, d'anticiper les problèmes et travailler aux solutions.
 
