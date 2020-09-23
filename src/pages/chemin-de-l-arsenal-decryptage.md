@@ -92,7 +92,7 @@ sections:
   bg: gray
   type: section_content
   content: |-
-    \- Le 8 septembre, lors de la commission Urba, Céline apprend que François Guillot a rencontré seul l’aménageur quelques jours auparavant contrairement à ce qu'il avait dit lors du conseil de Juin. Aucune information supplémentaire n’est donnée à part la date du début des travaux : le 21 septembre.
+    \- Le 8 septembre, lors de la commission Urba, Céline apprend que François Guillot a rencontré seul le bailleur social quelques jours auparavant contrairement à ce qu'il avait dit lors du conseil de Juin. Aucune information supplémentaire n’est donnée à part la date du début des travaux : le 21 septembre.
 
     Nous recevons alors le Procès verbal du conseil municipal en question (ci-contre l'extrait correspondant).
   section_id: ''
