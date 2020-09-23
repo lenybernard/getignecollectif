@@ -32,6 +32,7 @@ fields:
 pages:
 - src/pages/bio/cecile-chevalier.md
 - src/pages/bio/matthieu-covez.md
+- src/pages/chemin-de-l-arsenal-decryptage.md
 - src/pages/contact.md
 - src/pages/index.md
 - src/pages/liste-participative.md
