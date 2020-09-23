@@ -131,5 +131,15 @@ sections:
   section_id: ''
   image: ''
   actions: []
+- template: section_cta
+  type: section_cta
+  title: Envie de soutenir notre action
+  actions:
+  - label: Abonnez-vous pour recevoir les informations
+    url: http://eepurl.com/g3BrIn
+  - label: Signez la pétition
+    url: https://www.change.org/chemin-arsenal-getigne
+  section_id: ''
+  subtitle: ''
 
 ---
