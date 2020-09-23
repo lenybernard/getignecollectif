@@ -79,11 +79,20 @@ sections:
     Des membres de Gétigné Collectif se mobilisent toute l’après-midi pour rester près du panneau et ainsi informer les nombreux promeneurs dépités.
 
     L’information circule sur les réseaux, une [pétition](https://www.change.org/chemin-arsenal-getigne) est créée et reccueille plus de 500 signatures en 2 jours, sans que la presse n'ait pu relayer l'information.
-  actions:
-  - label: Signez la pétition et partagez largement
-    url: https://www.change.org/chemin-arsenal-getigne
+  actions: []
   image: "/images/dsc06106dxojjlh.jpg"
   section_id: ''
   title: ''
+- template: section_features
+  bg: gray
+  type: section_features
+  title: Et maintenant ?
+  featureslist:
+  - title: Que faire ?
+    content: ''
+    image: ''
+    actions: []
+  section_id: ''
+  subtitle: ''
 
 ---
