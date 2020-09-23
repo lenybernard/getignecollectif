@@ -102,6 +102,14 @@ sections:
 - template: section_content
   bg: gray
   type: section_content
+  section_id: ''
+  title: ''
+  content: ''
+  image: ''
+  actions: []
+- template: section_content
+  bg: gray
+  type: section_content
   content: |-
     \- Le 8 septembre, lors de la commission Urba, Céline apprend que François Guillot a rencontré seul le bailleur social quelques jours auparavant contrairement à ce qu'il avait dit lors du conseil de Juin. Aucune information supplémentaire n’est donnée à part la date du début des travaux : le 21 septembre.
 
@@ -142,7 +150,7 @@ sections:
 
     Sans parler de l'idée même du projet, comment expliquer que vous qui êtes, à priori des personnes intelligentes, indépendantes avec pour certains une sensibilité pour la beauté et la protection de la nature avez voté à l'unanimité ce projet de destruction ? **À l'unanimité !** Un vote d'abstention aurait été plus entendable si vous aviez eu un doute sur l'existence d'alternatives souhaitables ou une méconnaissance du sujet.
 
-    Alors avec tout le réel respect que nous vous portons, nous vous interpellons sans vouloir générer de la honte en vous mais plutôt pour réveiller celles et ceux qui peuvent l'être, Laurence Valton, Florian Grimberger, Karine Guimbretière, Gilles Chabs, Carine Sartori, Mickaël Bodet, René Lesieur, Patricia Mangin-Cazes, Etienne Ripoche, Chantal Audrain, Stéphane Rabiller, Nadège Lemelle, Angélina Bulot, Lore Pichaud, Olivier Foulonneau, Olivier Jarret, Alex Boisselier, Bénédicte Loiret, Jonathan Peigné, Morgane Barbier :
+    Alors avec tout le réel respect que nous vous portons, nous vous interpellons sans vouloir générer de la honte en vous mais plutôt pour réveiller celles et ceux qui peuvent l'être parmis les 21 élus de la majorité de Gétigné :
 
     > **Vous vous êtes engagé·e en politique pour servir et défendre les intérêts de la population, pas pour suivre F. Guillot. Vous connaissez notre attachement aux valeurs d'horizontalité et d'integrité, pour nous, vous êtes des élu·e·s à part entière, des conseillers libres de faire vos propres choix, de défendre votre point de vue et de les assumer lors des votes en conseil municipal.**
     >
