@@ -29,8 +29,8 @@ sections:
     contre après avoir tenté d'en comprendre les motivations.\n\n> Personne ou presque
     n'en parlera car tout le monde aura en tête les accusations d'aggri-bashing perpetrées
     lors de ce même conseil à l'encontre du collectif qui auront fait les grands titres
-    dans la presse. \n>\n> Propos calomnieux dont le maire a eu la décence de présenter
-    ses plus plates excuses lors du conseil municipal suivant."
+    dans la presse.\n>\n> Propos calomnieux dont le maire a eu la décence de présenter
+    ses plus plates excuses lors du conseil municipal suivant.  \U0001F447"
   section_id: ''
   image: ''
   actions: []
