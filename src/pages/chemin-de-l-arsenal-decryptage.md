@@ -124,7 +124,7 @@ sections:
   content: |-
     A la suite du conseil municipal du 10 septembre, Séverine partage avec les autres élus sa volonté d’agir contre la disparition du chemin.
 
-    Le 14 septembre, Séverine et Jean-Jacques écrivent le texte qui sera affiché sur des pancartes dénonçant l’acte et les installent samedi 19 en bas et en haut du chemin. Le lendemain, dimanche, les **panneaux** disparaissent (sauf un) -- _d'ailleurs on veut bien les récupérer_.
+    Le 14 septembre, les élus écrivent le texte qui sera affiché sur des pancartes dénonçant la suppression du chemin puis les installent le samedi 19 en bas et en haut du chemin. Le lendemain, dimanche, les **panneaux** disparaissent (sauf un) -- _d'ailleurs on veut bien les récupérer_.
 
     Des membres de Gétigné Collectif se mobilisent toute l’après-midi pour rester près du panneau et ainsi informer les nombreux promeneurs dépités.
 
