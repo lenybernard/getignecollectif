@@ -71,7 +71,7 @@ sections:
   content: |-
     Dans cette enquête, on peut aussi noter la réponse très légère de la maitrise d'ouvrage et la remarque du commissaire enquêteur visiblement :
 
-    "il est vrai que l'orientation graphique de l’OAP ne reprend pas le principe de la liaison douce entre le Pont de l’Arsenal et le secteur de Toutes Joies qui figure dans le schéma du PADD" [PADD qui est disponible ici](/images/p3_padd_appro.pdf).
+    "il est vrai que l'orientation graphique de l’OAP ne reprend pas le principe de la liaison douce entre le Pont de l’Arsenal et le secteur de Toutes Joies qui figure dans le schéma du PADD".  À noter que l'axe 4-1 du PADD promeut la "**préservation des itinéraires de promenades et de découvertes des espaces naturels**" et il se trouve que le zonage du PLU oblige à la préservation des haies existantes qui bordent le sentier fermé. Le [PADD est disponible ici](/images/p3_padd_appro.pdf).
   image: "/images/oap-arsenal.png"
   section_id: ''
   title: ''
