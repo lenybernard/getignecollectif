@@ -100,16 +100,6 @@ sections:
 - template: section_content
   bg: gray
   type: section_content
-  section_id: ''
-  title: Un autre chemin possible, plus désirable
-  content: Dans le cas où la condamnation du chemin de l'arsenal serait irreversible,
-    une alternative simple consisterait à rejoindre le pont de l'arsenal en passant
-    par le lotissement et à travers les parcelles sud.
-  image: "/images/sentierarsenal-alter-light.jpg"
-  actions: []
-- template: section_content
-  bg: gray
-  type: section_content
   content: |-
     \- Le 8 septembre, lors de la commission Urba, Céline apprend que la date du début des travaux est prévue au 21 septembre.
 
