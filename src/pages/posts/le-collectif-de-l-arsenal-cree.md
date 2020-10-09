@@ -8,6 +8,6 @@ img_path: ''
 excerpt: ''
 
 ---
-![](/images/screenshot_2020-10-08-document-pdf-1.png)
+<img src="/images/screenshot_2020-10-08-document-pdf-1.png" width="340"/>
 
 ![](/images/capture.png)
