@@ -59,7 +59,7 @@ sections:
 - template: section_program
   bg: gray
   type: section_program
-  title: 'Ce que le collectif de l’Arsenal demande :'
+  title: Ce que le collectif de l’Arsenal demande
   programplans:
   - title: La suspension de la vente de la partie haute du chemin
     theme: ''
