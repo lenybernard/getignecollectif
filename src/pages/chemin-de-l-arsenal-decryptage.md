@@ -61,6 +61,32 @@ sections:
   type: section_program
   title: 'Ce que le collectif de l’Arsenal demande :'
   programplans:
+  - title: ''
+    theme: La recherche d'une alternative naturelle
+    details: En cas d’impossibilité de maintenir l’intégralité du chemin actuel sur
+      l’ensemble de son tracé, nous souhaitons une recherche ouverte et inclusive
+      d’alternative permettant l’établissement d’un nouveau cheminement naturel sur
+      la partie basse, dévié par rapport au chemin existant, mais permettant de rejoindre
+      ensuite la partie haute arborée.
+    highlight: false
+    actions: []
+    image: ''
+  - title: Des discussions actives
+    theme: ''
+    details: 'Menées entre la mairie de Gétigné, les propriétaires de la partie basse
+      du chemin et éventuellement l’aménageur, afin d’étudier l’ensemble des solutions
+      possibles pour diminuer les nuisances liées au passage des randonneurs. Il nous
+      semble en effet que la fermeture d’un chemin connu des habitants de Gétigné,
+      Clisson et Cugand depuis plus de 50 ans, et fréquenté par de nombreuses familles,
+      ne peut être décidée sans avoir recherché auparavant des solutions pour son
+      maintien. Ainsi, le passage des vélos pourrait par exemple être dévié par les
+      circulations douces du futur lotissement : il n’est pas question de remettre
+      en question les difficultés que posent le passage de piétons au sein d’une propriété,
+      mais des aménagements peuvent sans doute être réalisés pour permettre le maintien
+      de l’usage d’un passage très ancien et très apprécié'
+    highlight: false
+    actions: []
+    image: ''
   - title: La suspension de la vente de la partie haute du chemin
     theme: ''
     details: Cela ne ferait qu’ajouter de la complexité au dossier. En effet, même
@@ -68,6 +94,16 @@ sections:
       n’empêche la mairie de conserver ce chemin, pour le jour où l’établissement
       d’une convention de passage sur la partie basse serait de nouveau envisageable.
     highlight: true
+    actions: []
+    image: ''
+  - title: Une réflexion globale quant aux cheminements envisagés
+    theme: ''
+    details: Ainsi, pour préserver un propriétaire de nuisances liées au passage de
+      promeneurs sur sa propriété, une vingtaine d’habitants devront quant à eux voir
+      passer devant leurs fenêtres ces mêmes promeneurs, si le tracé prévu du futur
+      chemin est maintenu. La réflexion quant aux impacts liés au tracé du chemin
+      doit être menée avec une vision globale de la problématique.
+    highlight: false
     actions: []
     image: ''
   section_id: ''
