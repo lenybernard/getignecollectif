@@ -61,14 +61,13 @@ sections:
   type: section_program
   title: 'Ce que le collectif de l’Arsenal demande :'
   programplans:
-  - title: ''
-    theme: La recherche d'une alternative naturelle
-    details: En cas d’impossibilité de maintenir l’intégralité du chemin actuel sur
-      l’ensemble de son tracé, nous souhaitons une recherche ouverte et inclusive
-      d’alternative permettant l’établissement d’un nouveau cheminement naturel sur
-      la partie basse, dévié par rapport au chemin existant, mais permettant de rejoindre
-      ensuite la partie haute arborée.
-    highlight: false
+  - title: La suspension de la vente de la partie haute du chemin
+    theme: ''
+    details: Cela ne ferait qu’ajouter de la complexité au dossier. En effet, même
+      dans l’hypothèse où l’accès à la partie basse ne serait plus possible, rien
+      n’empêche la mairie de conserver ce chemin, pour le jour où l’établissement
+      d’une convention de passage sur la partie basse serait de nouveau envisageable.
+    highlight: true
     actions: []
     image: ''
   - title: Des discussions actives
@@ -87,15 +86,6 @@ sections:
     highlight: false
     actions: []
     image: ''
-  - title: La suspension de la vente de la partie haute du chemin
-    theme: ''
-    details: Cela ne ferait qu’ajouter de la complexité au dossier. En effet, même
-      dans l’hypothèse où l’accès à la partie basse ne serait plus possible, rien
-      n’empêche la mairie de conserver ce chemin, pour le jour où l’établissement
-      d’une convention de passage sur la partie basse serait de nouveau envisageable.
-    highlight: true
-    actions: []
-    image: ''
   - title: Une réflexion globale quant aux cheminements envisagés
     theme: ''
     details: Ainsi, pour préserver un propriétaire de nuisances liées au passage de
@@ -103,6 +93,16 @@ sections:
       passer devant leurs fenêtres ces mêmes promeneurs, si le tracé prévu du futur
       chemin est maintenu. La réflexion quant aux impacts liés au tracé du chemin
       doit être menée avec une vision globale de la problématique.
+    highlight: false
+    actions: []
+    image: ''
+  - title: La recherche d'une alternative naturelle
+    theme: ''
+    details: En cas d’impossibilité de maintenir l’intégralité du chemin actuel sur
+      l’ensemble de son tracé, nous souhaitons une recherche ouverte et inclusive
+      d’alternative permettant l’établissement d’un nouveau cheminement naturel sur
+      la partie basse, dévié par rapport au chemin existant, mais permettant de rejoindre
+      ensuite la partie haute arborée.
     highlight: false
     actions: []
     image: ''
