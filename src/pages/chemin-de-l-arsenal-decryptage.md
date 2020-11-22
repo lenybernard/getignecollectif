@@ -242,22 +242,5 @@ sections:
     url: https://www.change.org/chemin-arsenal-getigne
   section_id: ''
   subtitle: Soutenez l'action, signez & partagez largement la pétition !
-- template: section_content
-  bg: gray
-  type: section_content
-  title: Une question aux conseillers municipaux et adjoints au maire
-  content: |-
-    Être conseiller municipal est un engagement **bénévole** fort, audacieux, qui montre le souhait de participer à la vie de sa commune, d'améliorer les choses, de réduire les inégalités, d'anticiper les problèmes et travailler aux solutions.
-
-    Sans parler de l'idée même du projet, comment expliquer que vous qui êtes, à priori des personnes intelligentes, indépendantes avec pour certains une sensibilité pour la beauté et la protection de la nature avez voté à l'unanimité ce projet de destruction ? **À l'unanimité !** Un vote d'abstention aurait été plus entendable si vous aviez eu un doute sur l'existence d'alternatives souhaitables ou une méconnaissance du sujet.
-
-    Alors avec tout le réel respect que nous vous portons, nous vous interpellons sans vouloir générer de la honte en vous mais plutôt pour réveiller celles et ceux qui peuvent l'être parmis les 21 élus de la majorité de Gétigné :
-
-    > **Vous vous êtes engagé·e en politique pour servir et défendre les intérêts de la population, pas pour suivre F. Guillot. Vous connaissez notre attachement aux valeurs d'horizontalité et d'integrité, pour nous, vous êtes des élu·e·s à part entière, des conseillers libres de faire vos propres choix, de défendre votre point de vue et de les assumer lors des votes en conseil municipal.**
-    >
-    > **Combien de personnes signataires de la pétition faut-il pour demander l'arrêt de la destruction en cours et chercher avec la population une solution soutenable ?**
-  section_id: ''
-  image: ''
-  actions: []
 
 ---
