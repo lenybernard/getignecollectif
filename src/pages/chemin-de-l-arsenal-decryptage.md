@@ -108,6 +108,25 @@ sections:
     image: ''
   section_id: ''
   subtitle: ''
+- template: section_features
+  bg: gray
+  type: section_features
+  title: ''
+  featureslist:
+  - title: Vous souhaitez nous rejoindre
+    image: ''
+    actions:
+    - url: mailto:collectif-arsenal@protonmail.com
+      label: Envoyez-nous un mail
+    - label: Rejoignez le groupe Facebook
+      url: https://www.facebook.com/groups/collectifarsenal
+    - label: Suivez la page Facebook
+      url: https://www.facebook.com/collectifdelarsenal
+    - label: Signez la pétition
+      url: https://www.change.org/chemin-arsenal-getigne
+    content: ''
+  section_id: ''
+  subtitle: ''
 - template: section_content
   bg: gray
   type: section_content
