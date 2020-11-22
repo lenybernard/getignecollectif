@@ -12,6 +12,66 @@ sections:
 
     © Photo de Ludovic Jaunatre
   actions: []
+- template: section_faq
+  bg: white
+  type: section_faq
+  faqitems:
+  - question: Pourquoi l’accès au chemin de l’Arsenal sera-t-il supprimé si rien n’est
+      fait ?
+    answer: |-
+      Actuellement ont lieux les travaux d’aménagement d’un lotissement, à proximité du chemin existant. Dans le cadre des négociations et discussions liées à ce projet, il a été prévu de vendre à l’euro symbolique la partie communale du chemin à la fois à l’aménageur et aux propriétaires riverains, mais également de rendre la partie basse du chemin à l’usage privé de son propriétaire.
+
+      A l’issue des travaux, période durant laquelle le chemin fait l’objet d’une déviation, celui-ci ne sera donc plus accessible aux promeneurs.
+  - question: Le chemin va-t-il être détruit ?
+    answer: |-
+      Non, hormis une dizaine de mètres sur la partie haute afin d’aménager l’entrée du lotissement, aucune destruction du chemin n’est prévue à ce stade. La fermeture de l’accès à celui-ci est cependant prévue.
+
+      **Ce qui est prévu** : actuellement, en raison des travaux liés au futur lotissement de l’Arsenal, le chemin est dévié par la route de l’Arsenal (qui monte à droite à la sortie du pont), puis passe par la zone commerciale de Toutes Joies, pour revenir ensuite vers la Garenne Lemot. A la fin des travaux, la mairie de Gétigné et l’aménageur prévoient, à ce stade, de faire passer le futur chemin au milieu du lotissement, qui abritera également une circulation douce en lien avec le Plan vélo départemental.
+  - question: 'A qui appartient le chemin de l’Arsenal ? '
+    answer: |-
+      Le chemin se compose de 2 parties.
+
+      * Une partie haute, boisée, qui était auparavant un chemin communal, appartenant à la mairie. Cette parcelle a fait l’objet d’une délibération du Conseil Municipal de Gétigné du 28 juin 2020, qui en a autorisé la vente, malgré l’opposition des 6 élus de Gétigné Collectif. La vente a été autorisée pour 50 m2 au promoteur Acanthe, afin de réaliser l’entrée du lotissement, et pour 289 m2 aux riverains de la partie haute du chemin.
+      * Une partie basse, celle partant du pont de l’Arsenal, appartient à un propriétaire privé. Aucune convention de passage n'existe actuellement, mais un passage de fait des promeneurs existe depuis plus de cinquante ans.
+
+      Pour information, le caractère privé du chemin n'empêche pas en soi d'établir un droit de passage : ainsi, la totalité des berges de la Sèvre appartient à des propriétaires privés, pour autant ces berges sont souvent accessibles aux promeneurs.
+  - question: Quel est le statut du chemin de l'Arsenal ?
+    answer: Le chemin de l'Arsenal est un chemin de petite randonnée (PR), de liaison
+      avec le GR de Pays qui longe la Sèvre. Il est inscrit au Plan Départemental
+      des Itinéraires de Promenade et de Randonnées (PDIPR), et ne peut à ce titre
+      être supprimé sans être remplacé par un chemin équivalent. La question se pose
+      ainsi du caractère équivalent d’un chemin passant dans un lotissement, par rapport
+      au chemin boisé qui existe actuellement.
+  - question: Si le chemin de l’Arsenal est remplacé, pourquoi s’y opposer ?
+    answer: Il est prévu que le futur chemin passe au sein d’un lotissement, à proximité
+      d’arbres et notamment d’un chêne tricentenaire. Cependant, l’ensemble des promeneurs
+      que nous avons rencontrés soulignent le caractère bucolique et irremplaçable
+      du chemin boisé de l’Arsenal, qui est une liaison parfaite entre la Sèvre et
+      la Garenne Lemot. Quelle que soit la présence d’arbres à proximité, un passage
+      dans un lotissement, en bordure immédiate d’habitations et sur un terrain bitumé,
+      ne peut être considéré comme un équivalent acceptable à ce chemin si apprécié
+      des randonneurs. Les adeptes de marche et de promenade familiale savent bien
+      que quels que soient les aménagements, aussi qualitatifs soient-ils, un passage
+      dans un lotissement est rarement le plus enchanteur qui soit.
+  title: En bref
+  section_id: ''
+  subtitle: ''
+- template: section_program
+  bg: gray
+  type: section_program
+  title: 'Ce que le collectif de l’Arsenal demande :'
+  programplans:
+  - title: La suspension de la vente de la partie haute du chemin
+    theme: ''
+    details: Cela ne ferait qu’ajouter de la complexité au dossier. En effet, même
+      dans l’hypothèse où l’accès à la partie basse ne serait plus possible, rien
+      n’empêche la mairie de conserver ce chemin, pour le jour où l’établissement
+      d’une convention de passage sur la partie basse serait de nouveau envisageable.
+    highlight: true
+    actions: []
+    image: ''
+  section_id: ''
+  subtitle: ''
 - template: section_content
   bg: gray
   type: section_content
