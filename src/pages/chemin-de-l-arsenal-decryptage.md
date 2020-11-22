@@ -24,9 +24,11 @@ sections:
       A l’issue des travaux, période durant laquelle le chemin fait l’objet d’une déviation, celui-ci ne sera donc plus accessible aux promeneurs.
   - question: Le chemin va-t-il être détruit ?
     answer: |-
-      Non, hormis une dizaine de mètres sur la partie haute afin d’aménager l’entrée du lotissement, aucune destruction du chemin n’est prévue à ce stade. La fermeture de l’accès à celui-ci est cependant prévue.
+      Non, hormis une dizaine de mètres sur la partie haute afin d’aménager l’entrée du lotissement, aucune destruction du chemin n’est prévue à ce stade, c'est une chemin rural, il est protégé. La fermeture de l’accès à celui-ci est cependant prévue.
 
-      **Ce qui est prévu** : actuellement, en raison des travaux liés au futur lotissement de l’Arsenal, le chemin est dévié par la route de l’Arsenal (qui monte à droite à la sortie du pont), puis passe par la zone commerciale de Toutes Joies, pour revenir ensuite vers la Garenne Lemot. A la fin des travaux, la mairie de Gétigné et l’aménageur prévoient, à ce stade, de faire passer le futur chemin au milieu du lotissement, qui abritera également une circulation douce en lien avec le Plan vélo départemental.
+      **Ce qui est prévu** : actuellement, en raison des travaux liés au futur lotissement de l’Arsenal, le chemin est dévié par la route de l’Arsenal (qui monte à droite à la sortie du pont), puis passe par la zone commerciale de Toutes Joies, pour revenir ensuite vers la Garenne Lemot. À la fin des travaux, la mairie de Gétigné et l’aménageur prévoient, à ce stade, de faire passer le futur chemin au milieu du lotissement, qui abritera également une circulation douce en lien avec le Plan vélo départemental.
+
+      Il est aussi envisagé par la municipalité de céder cette partie haute au riverain de la partie haute.
   - question: 'A qui appartient le chemin de l’Arsenal ? '
     answer: |-
       Le chemin se compose de 2 parties.
