@@ -72,18 +72,14 @@ sections:
     image: ''
   - title: Des discussions actives
     theme: ''
-    details: 'Menées entre la mairie de Gétigné, les propriétaires de la partie basse
-      du chemin et éventuellement l’aménageur, afin d’étudier l’ensemble des solutions
-      possibles pour diminuer les nuisances liées au passage des randonneurs. Il nous
-      semble en effet que la fermeture d’un chemin connu des habitants de Gétigné,
-      Clisson et Cugand depuis plus de 50 ans, et fréquenté par de nombreuses familles,
-      ne peut être décidée sans avoir recherché auparavant des solutions pour son
-      maintien. Ainsi, le passage des vélos pourrait par exemple être dévié par les
-      circulations douces du futur lotissement : il n’est pas question de remettre
-      en question les difficultés que posent le passage de piétons au sein d’une propriété,
-      mais des aménagements peuvent sans doute être réalisés pour permettre le maintien
-      de l’usage d’un passage très ancien et très apprécié'
-    highlight: false
+    details: Menées entre la mairie de Gétigné, les propriétaires de la partie basse
+      du chemin et éventuellement l’aménageur afin d’étudier l’ensemble des solutions
+      possibles pour diminuer les nuisances liées au passage des randonneurs. Il n’est
+      pas question de remettre en question les difficultés que posent le passage de
+      piétons au sein d’une propriété mais de reprendre le dialogue afin d'imaginer
+      des aménagements pour permettre le maintien de l’usage d’un passage très ancien
+      et très apprécié.
+    highlight: true
     actions: []
     image: ''
   - title: Une réflexion globale quant aux cheminements envisagés
@@ -93,7 +89,7 @@ sections:
       passer devant leurs fenêtres ces mêmes promeneurs, si le tracé prévu du futur
       chemin est maintenu. La réflexion quant aux impacts liés au tracé du chemin
       doit être menée avec une vision globale de la problématique.
-    highlight: false
+    highlight: true
     actions: []
     image: ''
   - title: La recherche d'une alternative naturelle
@@ -103,7 +99,7 @@ sections:
       d’alternative permettant l’établissement d’un nouveau cheminement naturel sur
       la partie basse, dévié par rapport au chemin existant, mais permettant de rejoindre
       ensuite la partie haute arborée.
-    highlight: false
+    highlight: true
     actions: []
     image: ''
   section_id: ''
@@ -113,7 +109,7 @@ sections:
   type: section_features
   title: ''
   featureslist:
-  - title: Vous souhaitez nous rejoindre
+  - title: Vous souhaitez nous rejoindre ?
     image: ''
     actions:
     - url: mailto:collectif-arsenal@protonmail.com
