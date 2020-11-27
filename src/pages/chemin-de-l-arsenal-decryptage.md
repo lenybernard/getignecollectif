@@ -50,11 +50,11 @@ sections:
       que nous avons rencontrés soulignent le caractère bucolique et irremplaçable
       du chemin boisé de l’Arsenal, qui est une liaison parfaite entre la Sèvre et
       la Garenne Lemot. Quelle que soit la présence d’arbres à proximité, un passage
-      dans un lotissement, en bordure immédiate d’habitations et sur un terrain bitumé,
-      ne peut être considéré comme un équivalent acceptable à ce chemin si apprécié
-      des randonneurs. Les adeptes de marche et de promenade familiale savent bien
-      que quels que soient les aménagements, aussi qualitatifs soient-ils, un passage
-      dans un lotissement est rarement le plus enchanteur qui soit.
+      dans un lotissement, en bordure immédiate d’habitations, ne peut être considéré
+      comme un équivalent acceptable à ce chemin si apprécié des randonneurs. Les
+      adeptes de marche et de promenade familiale savent bien que quels que soient
+      les aménagements, aussi qualitatifs soient-ils, un passage dans un lotissement
+      est rarement le plus enchanteur qui soit.
   title: En bref
   section_id: ''
   subtitle: ''
