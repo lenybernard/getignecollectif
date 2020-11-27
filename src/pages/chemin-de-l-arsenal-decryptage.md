@@ -33,7 +33,7 @@ sections:
     answer: |-
       Le chemin se compose de 2 parties.
 
-      * Une partie haute, boisée, qui était auparavant un chemin communal, appartenant à la mairie. Cette parcelle a fait l’objet d’une délibération du Conseil Municipal de Gétigné du 28 juin 2020, qui en a autorisé la vente, malgré l’opposition des 6 élus de Gétigné Collectif. La vente a été autorisée pour 50 m2 au promoteur Acanthe, afin de réaliser l’entrée du lotissement, et pour 289 m2 aux riverains de la partie haute du chemin.
+      * Une partie haute, boisée, qui est communale et a le statut de chemin rural, et est donc à ce titre protégée. Cette parcelle a fait l’objet d’une délibération du Conseil Municipal de Gétigné du 28 juin 2020, qui en a autorisé la vente, malgré l’opposition des 6 élus de Gétigné Collectif. La vente a été autorisée pour 50 m2 au promoteur Acanthe, afin de réaliser l’entrée du lotissement, et pour 289 m2 aux riverains de la partie haute du chemin.
       * Une partie basse, celle partant du pont de l’Arsenal, appartient à un propriétaire privé. Aucune convention de passage n'existe actuellement, mais un passage de fait des promeneurs existe depuis plus de cinquante ans.
 
       Pour information, le caractère privé du chemin n'empêche pas en soi d'établir un droit de passage : ainsi, la totalité des berges de la Sèvre appartient à des propriétaires privés, pour autant ces berges sont souvent accessibles aux promeneurs.
