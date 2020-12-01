@@ -7,10 +7,11 @@ sections:
   section_id: ''
   title: 'Fermeture du chemin de l''arsenal : décryptage'
   image: "/images/chemin-arsenal.jpg"
-  content: |-
-    Ce dossier est difficile à comprendre, voici donc une page permettant d'y voir plus clair et de partager en toute transparence le niveau d'information et de compréhension que nous avons du sujet. N'hésitez pas à nous contacter s'il persiste des zones d'ombre ou que vous avez des réponses ou détails à apporter.
-
-    © Photo de Ludovic Jaunatre
+  content: "![\U0001F342](https://static.xx.fbcdn.net/images/emoji.php/v9/t89/1/16/1f342.png
+    =16x16) Novembre 2020, deux mois après le début de la mobilisation pour empêcher
+    la fermeture définitive de l’accès au chemin de l’Arsenal, où en sommes-nous ?
+    Le [Collectif de l'Arsenal](https://www.facebook.com/collectifdelarsenal/?__cft__\\[0\\]=AZX2l8g1_22X0GFDGHwKIWhvrhVvr-ksId_whZ3qrI837LFcRd4IVkDFtx9TJm7JgAf6pGl9N_WauwvIz11U6S0UYXUKJbN6wk2mr_YTLa0T-G5xh2_b8cB_qVTL4d6gThIOZTxQhKrf3htSe9KlWkn-TUTmI0AEvRyHGDX78i1rBO45L23zJr6jNHGAlZMj8bs&__tn__=kK-R)
+    fait le point sur le dossier :\n\n© Photo de Ludovic Jaunatre"
   actions: []
 - template: section_faq
   bg: white
