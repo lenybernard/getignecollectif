@@ -15,9 +15,9 @@ sections:
   - title: ''
     theme: ''
     highlight: false
-    actions: []
-    # - label: Découvrir Marion
-    #   url: "/les-elu·e·s/marion-bernard"
+    actions:
+     - label: Contacter Marion Bernard
+       url: "marion.bernard@getigne-collectif.fr"
     image: "/images/3-2.jpg"
     details: |-
       - Déléguée communautaire [Aggloh!](https://www.clissonsevremaine.fr/oh-decouvrir/16-communes/fiche-individuelle/annuaire/marion-bernard/) - [Membre titulaire Collecte des déchets](http://environnement.clissonsevremaine.fr/)
@@ -28,8 +28,8 @@ sections:
       - Commissions **Mobilités, Sécurité, Accessibilité, Environnement, Urbanisme** et **Affaires sociales** 
     highlight: false
     actions:
-    # - label: Découvrir Cyril
-      # url: "/les-elu·e·s/cyril-allain"
+      - label: Contacter Cyril Allain
+        url: "mailto:cyril.allain@getigne-collectif.fr"
     image: "/images/4-2.jpg"
   - title: ''
     theme: ''
@@ -37,8 +37,8 @@ sections:
       - Commissions **Patrimoine, Aménagement, Urbanisme** et **Affaires sociales** 
     highlight: false
     actions:
-    # - label: Découvrir Céline
-      # url: "/les-elu·e·s/celine-david"
+      - label: Contacter Céline David
+        url: "mailto:celine.david@getigne-collectif.fr"
     image: "/images/5-2.jpg"
   - title: ''
     theme: ''
@@ -46,8 +46,8 @@ sections:
       - Commissions **Animations locales, Vie associative**
     highlight: false
     actions:
-    # - label: Découvrir Romuald
-      # url: "/les-elu·e·s/romuald-poulnais"
+     - label: Contacter Romuald Poulnais
+       url: "mailto:romuald.poulnais@getigne-collectif.fr"
     image: "/images/6-2.jpg"
   - title: ''
     theme: ''
@@ -55,8 +55,8 @@ sections:
       - Commissions **Culture, communication, Relations publiques**
     highlight: false
     actions:
-    # - label: Découvrir Séverine
-      # url: "/les-elu·e·s/severine-dollet"
+     - label: Contacter Séverine Dollet
+       url: "mailto:severine.dollet@getigne-collectif.fr"
     image: "/images/7-2.jpg"
   - title: ''
     theme: ''
@@ -64,8 +64,8 @@ sections:
       - Commissions **Finances, Ressources humaines**
     highlight: false
     actions:
-    # - label: Découvrir Jean-Jacques
-      # url: "/les-elu·e·s/jean-jacques-le-hericy"
+     - label: Contacter Jean-Jacques Le Héricy
+       url: "mailto:jean-jacques.le-hericy@getigne-collectif.fr"
     image: "/images/8-2.jpg"
   title: ''
   subtitle: ''
