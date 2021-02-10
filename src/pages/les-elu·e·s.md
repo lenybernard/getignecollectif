@@ -1,4 +1,5 @@
 ---
+template: landing
 title: Nos représentants élus
 sections:
 - template: section_hero
@@ -70,6 +71,117 @@ sections:
   title: ''
   subtitle: ''
   section_id: ''
+
+
+- template: section_faq
+  bg: gray
+  type: section_faq
+  title: Descriptifs des commissions
+  faqitems:
+  - question: FINANCES, RESSOURCES HUMAINES
+    answer: |-
+      **Adjointe** : Laurence Valton
+      
+      **Élu GC** : Jean-Jacques Le Héricy
+      
+      La commission consiste, pour la partie Finances à travailler le budget prévisionnel de la mairie, puis d’effectuer des ajustements en cours de mandat, de gérer des dépenses imprévues de façon à conserver un bon équilibre général.
+      
+      En ce qui concerne les Ressources Humaines, nous travaillons actuellement sur la façon de proposer le télétravail aux agents de la mairie.
+
+  - question: AFFAIRES SOCIALES
+    answer: |-
+      **Adjointe** : Laurence Valton
+      **Agent municipal** : Michèle Letertre
+      **Élues GC** : Marion Bernard & Céline David
+  
+      Cette nouvelle commission (Les affaires sociales faisaient partie avant de la commission finances et ressources humaines) semblerait avoir été créée en écho à notre proposition de créer une commission « Solidarités » avec un adjoint de Gétigné Collectif. Cela nous avait été refusé lors du 1er conseil municipal du 25 mai.
+  
+      Pour le moment, il y a peu de sujets dans cette commission. Débutent cependant :
+      - les mises en place de la distribution du Get Infos aux personnes isolées en demande
+      - le transport solidaire
+      - le portage à domicile en lien avec les agents de la Médiathèque.
+
+  - question: CCAS (Centre Communal d’Action Sociale)
+    answer: |-
+      **Adjointe** : Laurence Valton
+      **Agent municipal** : Michèle Letertre
+      **Élue GC** : Céline David
+  
+      Le CCAS a mission d'animer une action générale de prévention et de développement social au sein de la commune en liaison étroite avec les institutions publiques et privées (seule commission non constituée uniquement d’élus, la moitié de ses membres sont des bénévoles d’association locale dans le domaine sociale, solidaire ou de la santé).
+  
+      - 70,50 % des actions concernent les aînés : le repas annuel (pour les +73 ans et leur conjoint), le colis de Noël pour les +85 ans et résidents de l’EHPAD, registre des personnes vulnérables, une aide financière aux personnes à faibles revenus pour le sport adapté
+      - 15,73 % les enfants : aide à la fréquentation du centre de loisirs, partenariat avec le centre de loisirs pour la confection des menus du repas des aînés
+      - 13,77 % les familles : soutien financier aux personnes en difficulté (bons d’achat pour les enfants +3 ans, de carburant, bons alimentaires, participations financières pour des impayés), partenariat avec une mutuelle santé
+  
+      L’accueil en Mairie est effectué par Michèle Letertre, soutenue par Laurence Valton et monsieur le Maire. Le CCAS s’occupe aussi de donner le dossier de demandes de logement social (58 actuellement), aide pour tout besoin d’abonnement ou d’utilisation du service de transport Lila à la demande. Il gère (avec un Notaire) un logement d’urgence (bail d’une durée limitée) et peut établir un contrat de prêt de vélo (2 actuellement).
+  
+      Tout ce qui est dit dans cette commission est strictement confidentiel.
+  
+  - question: ENFANCE, JEUNESSE, AFFAIRES SCOLAIRES
+    answer: |-
+      **Adjoint** : Florian Grimberger
+      **Agent municipal** : Laetitia Bodin
+      **Élue GC** : Marion Bernard
+    
+      Cette commission se réunira toutes les 6 à 8 semaines pour aborder des problématiques variées. On peut citer comme exemple les projets suivants :
+    
+      - Travail sur un éventuel agrandissement du périscolaire. Le périscolaire est actuellement en saturation les mardis et jeudis soirs comment y remédier?
+      - Une réflexion sur l'aménagement des espaces communs de l'école maternelle. la structure est à repenser pour adapter les espaces aux nouveaux besoins des enseignants et des agents.
+      - Travail en partenariat avec les assistantes maternelles pour la création d'une aire de jeux adaptée aux 0-3 ans, et aussi un accueil en intérieur.
+    
+      Un nouveau sujet est sur la table depuis fin juin. Les élus de gétigné Collectifs ont proposé de travailler les tarifs du restaurant scolaire afin de créer plus de tranches de quotient et donc de permettre un tarif plus social pour ce service. La refléxion sur ce point a débuté le 30 septembre dernier. Un groupe de travail, interne à Gétigné Collectif se constitue d'ailleurs sur ce thème. N'hésitez pas à nous rejoindre (cf [dossier et simulateur en ligne ici](https://portail.getigne-collectif.fr/simulateur-tarification-restaurant-scolaire-2021/)).
+  
+  - question: MOBILITES, ACCESSIBILITES, ENVIRONNEMENT
+    answer: |-
+      **Adjointe** : Karine Guilmbretière
+      **Agent municipal** : Hélène Quemat
+      **Élu GC** : Cyril Allain
+  
+      *Description à venir*
+  
+  - question: PATRIMOINE AMENAGEMENT URBANISME
+    answer: |-
+      **Adjoint** : Gilles Chabas
+      **Agent municipal** : Nathalie Morisseau
+      **Élue GC** : Céline David
+    
+      Il y est question des cessions, ventes, réparations ou réfections et aménagements de biens municipaux et patrimoniaux dans le respect du PLU (Plan Local d’Urbanisme). Par exemple : les travaux de la maison du 1 rue de l’aire bidu transformée en espace commercial, la vente de la maison Place de l’aire bidu (qui va être transformée en locations par un investisseur immobilier), le suivi des travaux de la ZAC multi-sites (où de nombreux pavillons y verront le jour)…
+  
+  - question: PATRIMOINE AMENAGEMENT URBANISME
+    answer: |-
+      Instructrice du service ADS de l’Aggloh, pour Gétigné : Laurence Bregeon
+      **Élue GC** : Céline David
+    
+      Les élus de cette commission donnent leur autorisation ou déclarent un refus sur des dossiers (instruits préalablement par Laurence Bregeon) de Permis de construire, d’aménager, Déclaration Préalable et Certificat d'urbanisme. Une visite sur les lieux est parfois organisée en cas de besoin, selon la problématique.
+    
+      Tout ce qui est dit dans cette commission est strictement confidentiel.
+    
+  - question: CULTURE, COMMUNICATION, RELATIONS PUBLIQUES
+    answer: |-
+      **Adjointe** : Carine Sartori
+      **Agent municipal** : Anne-Laure Corfmat (remplacée en cdd par Sophie Cherrier)
+      **Élue GC** : Séverine Dollet
+    
+      *Informations à venir*
+  
+  - question: ANIMATIONS LOCALES, VIE ASSOCIATIVE
+    answer: |-
+      **Adjoint** : Mickael Bodet
+      **Agent municipal** : Nathalie Girard
+      **Élu GC** : Romuald Poulnais
+    
+      La commission se réunit au moins une fois par mois. Nous discutons des projets souhaités par la mairie, sur le développement de la vie associative à Gétigné et sur la manière de dynamiser la vie social locale.
+    
+      Il est fait état déjà d'un besoin de renouer entre les élus, la municipalité et l'ensemble des associations en créant des partenariats sur des projets.
+    
+      Une réflexion est faite pour trouver un outil qui permettrait d'avoir une meilleure visibilité des salles municipales, ainsi que de leur disponibilité.
+    
+      L'avenir du complexe sportif est en réflexion également.
+    
+      La commission a de nombreux nouveaux élus, celle-ci a besoin de prendre ses marques.
+    
+      Une rencontre a eu lieu fin septembre entre les élus de la commission et l'ensemble des représentants des associations. Une synthèse de celle-ci sera bientôt disponible.
+
 - template: section_content
   bg: gray
   type: section_content
@@ -87,7 +199,6 @@ sections:
     url: "/programme"
   subtitle: Notre socle de valeurs, les 8 domaines d'ambition et les 3 grands projets dessinés lors de la campagne de 2020
   section_id: ''
-template: landing
 menus:
   main:
     title: Les élu·e·s
