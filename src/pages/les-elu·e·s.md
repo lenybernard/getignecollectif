@@ -92,20 +92,27 @@ sections:
       place de la distribution du Get Infos aux personnes isolées en demande\n* le
       transport solidaire\n* le portage à domicile en lien avec les agents de la Médiathèque."
   - question: CCAS (Centre Communal d’Action Sociale)
-    answer: |-
-      **Adjointe** : Laurence Valton
-      **Agent municipal** : Michèle Letertre
-      **Élue GC** : Céline David
-
-      Le CCAS a mission d'animer une action générale de prévention et de développement social au sein de la commune en liaison étroite avec les institutions publiques et privées (seule commission non constituée uniquement d’élus, la moitié de ses membres sont des bénévoles d’association locale dans le domaine sociale, solidaire ou de la santé).
-
-      - 70,50 % des actions concernent les aînés : le repas annuel (pour les +73 ans et leur conjoint), le colis de Noël pour les +85 ans et résidents de l’EHPAD, registre des personnes vulnérables, une aide financière aux personnes à faibles revenus pour le sport adapté
-      - 15,73 % les enfants : aide à la fréquentation du centre de loisirs, partenariat avec le centre de loisirs pour la confection des menus du repas des aînés
-      - 13,77 % les familles : soutien financier aux personnes en difficulté (bons d’achat pour les enfants +3 ans, de carburant, bons alimentaires, participations financières pour des impayés), partenariat avec une mutuelle santé
-
-      L’accueil en Mairie est effectué par Michèle Letertre, soutenue par Laurence Valton et monsieur le Maire. Le CCAS s’occupe aussi de donner le dossier de demandes de logement social (58 actuellement), aide pour tout besoin d’abonnement ou d’utilisation du service de transport Lila à la demande. Il gère (avec un Notaire) un logement d’urgence (bail d’une durée limitée) et peut établir un contrat de prêt de vélo (2 actuellement).
-
-      Tout ce qui est dit dans cette commission est strictement confidentiel.
+    answer: "**Adjointe** : Laurence Valton  \n\n**Agent municipal** : Michèle Letertre
+      \ \n\n**Élue GC** : Céline David\n\nLe CCAS a mission d'animer une action générale
+      de prévention et de développement social au sein de la commune en liaison étroite
+      avec les institutions publiques et privées (seule commission non constituée
+      uniquement d’élus, la moitié de ses membres sont des bénévoles d’association
+      locale dans le domaine sociale, solidaire ou de la santé).\n\n* 70,50 % des
+      actions concernent les aînés : le repas annuel (pour les +73 ans et leur conjoint),
+      le colis de Noël pour les +85 ans et résidents de l’EHPAD, registre des personnes
+      vulnérables, une aide financière aux personnes à faibles revenus pour le sport
+      adapté\n* 15,73 % les enfants : aide à la fréquentation du centre de loisirs,
+      partenariat avec le centre de loisirs pour la confection des menus du repas
+      des aînés\n* 13,77 % les familles : soutien financier aux personnes en difficulté
+      (bons d’achat pour les enfants +3 ans, de carburant, bons alimentaires, participations
+      financières pour des impayés), partenariat avec une mutuelle santé\n\nL’accueil
+      en Mairie est effectué par Michèle Letertre, soutenue par Laurence Valton et
+      monsieur le Maire. Le CCAS s’occupe aussi de donner le dossier de demandes de
+      logement social (58 actuellement), aide pour tout besoin d’abonnement ou d’utilisation
+      du service de transport Lila à la demande. Il gère (avec un Notaire) un logement
+      d’urgence (bail d’une durée limitée) et peut établir un contrat de prêt de vélo
+      (2 actuellement).\n\nTout ce qui est dit dans cette commission est strictement
+      confidentiel."
   - question: ENFANCE, JEUNESSE, AFFAIRES SCOLAIRES
     answer: |-
       **Adjoint** : Florian Grimberger
