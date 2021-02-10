@@ -25,7 +25,7 @@ sections:
       Commissions **Enfance jeunesse & affaires scolaires** et **Affaires sociales** "
   - title: ''
     theme: ''
-    details: "- Commissions **Mobilités, Sécurité, Accessibilité, Environnement, Urbanisme**
+    details: "- Commissions **Mobilités, Sécurité, Accessibilité, Environnement**
       et **Affaires sociales** "
     highlight: false
     actions:
@@ -34,7 +34,7 @@ sections:
     image: "/images/4-2.jpg"
   - title: ''
     theme: ''
-    details: "- Commissions **Patrimoine, Aménagement, Urbanisme** et **Affaires sociales** "
+    details: "- Commissions **Patrimoine, Aménagement, Urbanisme**, **Affaires sociales**, CCAS, ADS "
     highlight: false
     actions:
     - label: Contacter Céline David
