@@ -157,9 +157,14 @@ sections:
 
       Tout ce qui est dit dans cette commission est strictement confidentiel.
   - question: CULTURE, COMMUNICATION, RELATIONS PUBLIQUES
-    answer: "**Adjointe** : Carine Sartori  \n\n**Agent municipal** : Anne-Laure Corfmat
-      (remplacée en cdd par Sophie Cherrier)  \n\n**Élue GC** : Séverine Dollet\n\n_Informations
-      à venir_"
+    answer: |-
+      **Adjointe** : Carine Sartori
+
+      **Agent municipal** : Anne-Laure Corfmat (remplacée en cdd par Sophie Cherrier)
+
+      **Élue GC** : Séverine Dollet
+
+      _Informations à venir_
   - question: ANIMATIONS LOCALES, VIE ASSOCIATIVE
     answer: |-
       **Adjoint** : Mickael Bodet
