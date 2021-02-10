@@ -34,7 +34,8 @@ sections:
     image: "/images/4-2.jpg"
   - title: ''
     theme: ''
-    details: "- Commissions **Patrimoine, Aménagement, Urbanisme**, **Affaires sociales**, CCAS, ADS "
+    details: "- Commissions **Patrimoine, Aménagement, Urbanisme**, **Affaires sociales**,
+      CCAS, ADS "
     highlight: false
     actions:
     - label: Contacter Céline David
@@ -160,18 +161,24 @@ sections:
       (remplacée en cdd par Sophie Cherrier)  \n\n**Élue GC** : Séverine Dollet\n\n_Informations
       à venir_"
   - question: ANIMATIONS LOCALES, VIE ASSOCIATIVE
-    answer: "**Adjoint** : Mickael Bodet  \n\n**Agent municipal** : Nathalie Girard
-      \ \n\n**Élu GC** : Romuald Poulnais\n\nLa commission se réunit au moins une
-      fois par mois. Nous discutons des projets souhaités par la mairie, sur le développement
-      de la vie associative à Gétigné et sur la manière de dynamiser la vie social
-      locale.\n\nIl est fait état déjà d'un besoin de renouer entre les élus, la municipalité
-      et l'ensemble des associations en créant des partenariats sur des projets.\n\nUne
-      réflexion est faite pour trouver un outil qui permettrait d'avoir une meilleure
-      visibilité des salles municipales, ainsi que de leur disponibilité.\n\nL'avenir
-      du complexe sportif est en réflexion également.\n\nLa commission a de nombreux
-      nouveaux élus, celle-ci a besoin de prendre ses marques.\n\nUne rencontre a
-      eu lieu fin septembre entre les élus de la commission et l'ensemble des représentants
-      des associations. Une synthèse de celle-ci sera bientôt disponible."
+    answer: |-
+      **Adjoint** : Mickael Bodet
+
+      **Agent municipal** : Nathalie Girard
+
+      **Élu GC** : Romuald Poulnais
+
+      La commission se réunit au moins une fois par mois. Nous discutons des projets souhaités par la mairie, sur le développement de la vie associative à Gétigné et sur la manière de dynamiser la vie social locale.
+
+      Il est fait état déjà d'un besoin de renouer entre les élus, la municipalité et l'ensemble des associations en créant des partenariats sur des projets.
+
+      Une réflexion est faite pour trouver un outil qui permettrait d'avoir une meilleure visibilité des salles municipales, ainsi que de leur disponibilité.
+
+      L'avenir du complexe sportif est en réflexion également.
+
+      La commission a de nombreux nouveaux élus, celle-ci a besoin de prendre ses marques.
+
+      Une rencontre a eu lieu fin septembre entre les élus de la commission et l'ensemble des représentants des associations. Une synthèse de celle-ci sera bientôt disponible.
   section_id: ''
   subtitle: ''
 - template: section_content
