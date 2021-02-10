@@ -20,13 +20,14 @@ sections:
     - label: Contacter Marion Bernard
       url: marion.bernard@getigne-collectif.fr
     image: "/images/3-2.jpg"
-    details: "- Déléguée communautaire [Aggloh!](https://www.clissonsevremaine.fr/oh-decouvrir/16-communes/fiche-individuelle/annuaire/marion-bernard/)
-      - [Membre titulaire Collecte des déchets](http://environnement.clissonsevremaine.fr/)\n-
-      Commissions **Enfance jeunesse & affaires scolaires** et **Affaires sociales** "
+    details: |-
+      * Commissions **Enfance jeunesse & affaires scolaires** et **Affaires sociales**
+      * Déléguée communautaire [Aggloh!](https://www.clissonsevremaine.fr/oh-decouvrir/16-communes/fiche-individuelle/annuaire/marion-bernard/) - [Membre titulaire Collecte des déchets](http://environnement.clissonsevremaine.fr/)
   - title: ''
     theme: ''
-    details: "- Commissions **Mobilités, Sécurité, Accessibilité, Environnement**
-      et **Affaires sociales** "
+    details: |-
+      * Commissions **Mobilités, Sécurité, Accessibilité, Environnement**
+      * Commission [Aggloh!](https://www.clissonsevremaine.fr/oh-decouvrir/16-communes/fiche-individuelle/annuaire/marion-bernard/) **Établissements aquatiques**
     highlight: false
     actions:
     - label: Contacter Cyril Allain
@@ -34,8 +35,8 @@ sections:
     image: "/images/4-2.jpg"
   - title: ''
     theme: ''
-    details: "- Commissions **Patrimoine, Aménagement, Urbanisme**, **Affaires sociales**,
-      CCAS, ADS "
+    details: "* Commissions **Patrimoine, Aménagement, Urbanisme**, **Affaires sociales**,
+      CCAS, ADS"
     highlight: false
     actions:
     - label: Contacter Céline David
@@ -43,7 +44,9 @@ sections:
     image: "/images/5-2.jpg"
   - title: ''
     theme: ''
-    details: "- Commissions **Animations locales, Vie associative**"
+    details: |-
+      * Commissions **Animations locales, Vie associative**
+      * Commission [Aggloh!](https://www.clissonsevremaine.fr/oh-decouvrir/16-communes/fiche-individuelle/annuaire/marion-bernard/) **Urbanisme**
     highlight: false
     actions:
     - label: Contacter Romuald Poulnais
@@ -51,7 +54,9 @@ sections:
     image: "/images/6-2.jpg"
   - title: ''
     theme: ''
-    details: "- Commissions **Culture, communication, Relations publiques**"
+    details: |-
+      * Commissions **Culture, communication, Relations publiques**
+      * Commission [Aggloh!](https://www.clissonsevremaine.fr/oh-decouvrir/16-communes/fiche-individuelle/annuaire/marion-bernard/) **Petite enfance**
     highlight: false
     actions:
     - label: Contacter Séverine Dollet
