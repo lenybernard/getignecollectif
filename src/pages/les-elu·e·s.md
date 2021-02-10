@@ -146,9 +146,10 @@ sections:
       de la maison Place de l’aire bidu (qui va être transformée en locations par
       un investisseur immobilier), le suivi des travaux de la ZAC multi-sites (où
       de nombreux pavillons y verront le jour)…"
-  - question: PATRIMOINE AMENAGEMENT URBANISME
+  - question: A.D.S (Autorisation du Droit des Sols)
     answer: |-
-      Instructrice du service ADS de l’Aggloh, pour Gétigné : Laurence Bregeon
+      **Instructrice du service** : Laurence Bregeon
+
       **Élue GC** : Céline David
 
       Les élus de cette commission donnent leur autorisation ou déclarent un refus sur des dossiers (instruits préalablement par Laurence Bregeon) de Permis de construire, d’aménager, Déclaration Préalable et Certificat d'urbanisme. Une visite sur les lieux est parfois organisée en cas de besoin, selon la problématique.
