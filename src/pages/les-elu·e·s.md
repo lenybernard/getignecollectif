@@ -82,17 +82,15 @@ sections:
 
       En ce qui concerne les Ressources Humaines, nous travaillons actuellement sur la façon de proposer le télétravail aux agents de la mairie.
   - question: AFFAIRES SOCIALES
-    answer: |-
-      **Adjointe** : Laurence Valton
-      **Agent municipal** : Michèle Letertre
-      **Élues GC** : Marion Bernard & Céline David
-
-      Cette nouvelle commission (Les affaires sociales faisaient partie avant de la commission finances et ressources humaines) semblerait avoir été créée en écho à notre proposition de créer une commission « Solidarités » avec un adjoint de Gétigné Collectif. Cela nous avait été refusé lors du 1er conseil municipal du 25 mai.
-
-      Pour le moment, il y a peu de sujets dans cette commission. Débutent cependant :
-      - les mises en place de la distribution du Get Infos aux personnes isolées en demande
-      - le transport solidaire
-      - le portage à domicile en lien avec les agents de la Médiathèque.
+    answer: "**Adjointe** : Laurence Valton  \n\n**Agent municipal** : Michèle Letertre
+      \ \n\n**Élues GC** : Marion Bernard & Céline David\n\nCette nouvelle commission
+      (Les affaires sociales faisaient partie avant de la commission finances et ressources
+      humaines) semblerait avoir été créée en écho à notre proposition de créer une
+      commission « Solidarités » avec un adjoint de Gétigné Collectif. Cela nous avait
+      été refusé lors du 1er conseil municipal du 25 mai.\n\nPour le moment, il y
+      a peu de sujets dans cette commission. Débutent cependant :\n\n* les mises en
+      place de la distribution du Get Infos aux personnes isolées en demande\n* le
+      transport solidaire\n* le portage à domicile en lien avec les agents de la Médiathèque."
   - question: CCAS (Centre Communal d’Action Sociale)
     answer: |-
       **Adjointe** : Laurence Valton
