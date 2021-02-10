@@ -79,32 +79,6 @@ sections:
   image: "/images/undraw_calendar_dutt.svg"
   actions: []
   section_id: ''
-# - template: section_faq
-#   bg: gray
-#   type: section_faq
-#   title: Questions fréquentes ?
-#   faqitems:
-      
-#   - question: Quel est réellement leur pouvoir ?
-#     answer: |-
-
-#   - question: Comment les aider ?
-#     answer: |-
-
-#   - question: Comment les contacter ?
-#     answer: |-
-
-#   - question: Quand / ou les rencontrer ?
-#     answer: |-
-
-#   - question: Ou retrouver les comptes-rendus des réunions et conseils ?
-#     answer: |-
-
-#   - question: Pourquoi ont ils/elles été choisi·e·s par le collectif ?
-#     answer: |-
-
-#   section_id: ''
-#   subtitle: ''
 - template: section_cta
   type: section_cta
   title: Vous connaissez notre projet ?
