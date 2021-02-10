@@ -114,18 +114,22 @@ sections:
       (2 actuellement).\n\nTout ce qui est dit dans cette commission est strictement
       confidentiel."
   - question: ENFANCE, JEUNESSE, AFFAIRES SCOLAIRES
-    answer: |-
-      **Adjoint** : Florian Grimberger
-      **Agent municipal** : Laetitia Bodin
-      **Élue GC** : Marion Bernard
-
-      Cette commission se réunira toutes les 6 à 8 semaines pour aborder des problématiques variées. On peut citer comme exemple les projets suivants :
-
-      - Travail sur un éventuel agrandissement du périscolaire. Le périscolaire est actuellement en saturation les mardis et jeudis soirs comment y remédier?
-      - Une réflexion sur l'aménagement des espaces communs de l'école maternelle. la structure est à repenser pour adapter les espaces aux nouveaux besoins des enseignants et des agents.
-      - Travail en partenariat avec les assistantes maternelles pour la création d'une aire de jeux adaptée aux 0-3 ans, et aussi un accueil en intérieur.
-
-      Un nouveau sujet est sur la table depuis fin juin. Les élus de gétigné Collectifs ont proposé de travailler les tarifs du restaurant scolaire afin de créer plus de tranches de quotient et donc de permettre un tarif plus social pour ce service. La refléxion sur ce point a débuté le 30 septembre dernier. Un groupe de travail, interne à Gétigné Collectif se constitue d'ailleurs sur ce thème. N'hésitez pas à nous rejoindre (cf [dossier et simulateur en ligne ici](https://portail.getigne-collectif.fr/simulateur-tarification-restaurant-scolaire-2021/)).
+    answer: "**Adjoint** : Florian Grimberger  \n\n**Agent municipal** : Laetitia
+      Bodin  \n\n**Élue GC** : Marion Bernard\n\nCette commission se réunira toutes
+      les 6 à 8 semaines pour aborder des problématiques variées. On peut citer comme
+      exemple les projets suivants :\n\n* Travail sur un éventuel agrandissement du
+      périscolaire. Le périscolaire est actuellement en saturation les mardis et jeudis
+      soirs comment y remédier?\n\n\n* Une réflexion sur l'aménagement des espaces
+      communs de l'école maternelle. la structure est à repenser pour adapter les
+      espaces aux nouveaux besoins des enseignants et des agents.\n* Travail en partenariat
+      avec les assistantes maternelles pour la création d'une aire de jeux adaptée
+      aux 0-3 ans, et aussi un accueil en intérieur.\n\nUn nouveau sujet est sur la
+      table depuis fin juin. Les élus de gétigné Collectifs ont proposé de travailler
+      les tarifs du restaurant scolaire afin de créer plus de tranches de quotient
+      et donc de permettre un tarif plus social pour ce service. La refléxion sur
+      ce point a débuté le 30 septembre dernier. Un groupe de travail, interne à Gétigné
+      Collectif se constitue d'ailleurs sur ce thème. N'hésitez pas à nous rejoindre
+      (cf [dossier et simulateur en ligne ici](https://portail.getigne-collectif.fr/simulateur-tarification-restaurant-scolaire-2021/))."
   - question: MOBILITES, ACCESSIBILITES, ENVIRONNEMENT
     answer: |-
       **Adjointe** : Karine Guilmbretière
