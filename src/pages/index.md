@@ -13,6 +13,8 @@ sections:
   actions:
   - label: Lire l'article
     url: "/blog/ag2021"
+  - label: Adhérer
+    url: https://portail.getigne-collectif.fr/u/adhesion
 - type: section_features
   template: section_features
   section_id: ultimate-goal
