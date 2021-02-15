@@ -12,7 +12,7 @@ sections:
   image: "/images/election-du-bureau.jpg"
   actions:
   - label: Lire l'article
-    url: "/blog/ag2021"
+    url: "/posts/ag2021"
   - label: Adhérer
     url: https://portail.getigne-collectif.fr/u/adhesion
 - type: section_features
