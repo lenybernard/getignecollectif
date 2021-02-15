@@ -8,6 +8,10 @@
     "menu": {
       "actions": [
         {
+          "label": "Adhérer",
+          "url": "https://portail.getigne-collectif.fr/u/adhesion"
+        },
+        {
           "label": "Nous contacter",
           "url": "/contact"
         }
