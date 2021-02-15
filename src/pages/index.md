@@ -4,15 +4,15 @@ sections:
 - type: section_hero
   template: section_hero
   section_id: hero
-  title: Préservation du chemin de l'arsenal
-  content: Qu'on habite à Gétigné ou Cugand, on connait et on aime ce petit chemin
-    qui relie la Garenne-Lemot au pont de l'Arsenal. Aujourd'hui, ce site classé qui
-    fait partie intégrante de notre patrimoine est menacé par une décision arbitraire
-    et obscure.
-  image: "/images/chemin-arsenal.png"
+  title: Retour sur l'AG 2021
+  content: "![\U0001F38A](https://static.xx.fbcdn.net/images/emoji.php/v9/tb4/1/16/1f38a.png
+    =16x16) Ce n'était pas simple mais on a réussi à l'organiser en présentiel et
+    en sécurité. Nous avons élu le bureau, le Conseil d'administration et plusieurs
+    commissions ont été constituées et/ou renforcées."
+  image: "/images/election-du-bureau.jpg"
   actions:
-  - label: Lisez notre dossier
-    url: /chemin-de-l-arsenal-decryptage
+  - label: En savoir plus
+    url: "/ag2021"
 - type: section_features
   template: section_features
   section_id: ultimate-goal
