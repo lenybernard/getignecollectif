@@ -6,9 +6,10 @@ sections:
   section_id: hero
   title: Retour sur l'AG 2021
   content: "![\U0001F38A](https://static.xx.fbcdn.net/images/emoji.php/v9/tb4/1/16/1f38a.png
-    =16x16) Ce n'était pas simple mais on a réussi à l'organiser en présentiel et
-    en sécurité. Nous avons élu le bureau, le Conseil d'administration et plusieurs
-    commissions ont été constituées et/ou renforcées."
+    =16x16) Samedi 13 Février se tenait notre première Assemblée Générale. Ce n'était
+    pas simple mais nous avons réussi à l'organiser en présentiel et en sécurité.
+    L'occasion de revenir sur l'année écoulée, d'élir le bureau & le Conseil d'administration
+    et de constituer ou renforcer plusieurs commissions."
   image: "/images/election-du-bureau.jpg"
   actions:
   - label: En savoir plus
