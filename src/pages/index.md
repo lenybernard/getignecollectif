@@ -11,8 +11,8 @@ sections:
     et de constituer ou renforcer plusieurs commissions.
   image: "/images/election-du-bureau.jpg"
   actions:
-  - label: En savoir plus
-    url: "/ag2021"
+  - label: Lire l'article
+    url: "/blog/ag2021"
 - type: section_features
   template: section_features
   section_id: ultimate-goal
