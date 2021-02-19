@@ -206,6 +206,32 @@ sections:
   image: "/images/undraw_calendar_dutt.svg"
   actions: []
   section_id: ''
+- template: section_content
+  bg: gray
+  type: section_content
+  actions:
+  - url: mailto:elus@getigne-collectif.fr
+    label: Proposer mon aide sur une des thématiques recherchées
+  content: |-
+    Nos élu·e·s sont bénévoles et comptent sur chacun·e de nous pour les soutenir autant qu'on le peut. Nous avons tous des compétences qui peuvent être mis à profit aussi il ne faut pas hésiter à proposer votre aide à fortiori dans les domaines évidents comme la :
+
+    * finances publiques
+    * affaires sociales
+    * patrimoine
+    * environnement
+    * sécurité
+    * culture
+    * sport
+    * communication
+    * urbanisme
+    * enfance / jeunnesse
+    * énergie
+    * alimentation
+    * économie
+    * éducation...
+  title: Ils ont besoin de nous !
+  section_id: ''
+  image: ''
 - template: section_cta
   type: section_cta
   title: Vous connaissez notre projet ?
