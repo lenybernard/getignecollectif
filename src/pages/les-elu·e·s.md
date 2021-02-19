@@ -244,9 +244,9 @@ sections:
 menus:
   main:
     title: Les élu·e·s
-    weight: 2
+    weight: 3
   secondary:
     title: Les élu·e·s
-    weight: 4
+    weight: 5
 
 ---
