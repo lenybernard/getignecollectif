@@ -6,7 +6,8 @@ sections:
   type: section_hero
   section_id: ''
   title: Découvrez nos élu·e·s au conseil municipal
-  content: "## 6 personnes fortement engagées, <br/>en tandem avec un collectif citoyen"
+  content: "## 6 bénévoles, élu·e·s & engagé·e·s, <br/>en tandem avec un collectif
+    citoyen"
   image: "/images/WhatsApp Image 2020-03-15 at 19.54.32.jpeg"
   actions:
   - label: Les contacter
