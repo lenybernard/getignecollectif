@@ -38,6 +38,7 @@ fields:
     required: true
 pages:
 - src/pages/posts/ag2021.md
+- src/pages/posts/agoriums.md
 - src/pages/posts/appel-à-engagement.md
 - src/pages/posts/association-creee-et-ag-d-octobre.md
 - src/pages/posts/c-est-maintenant-que-tout-commence.md
