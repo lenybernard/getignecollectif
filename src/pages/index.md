@@ -4,17 +4,16 @@ sections:
 - type: section_hero
   template: section_hero
   section_id: hero
-  title: Retour sur l'AG 2021
-  content: Samedi 13 Février se tenait notre première Assemblée Générale. Ce n'était
-    pas simple mais nous avons réussi à l'organiser en présentiel et en sécurité.
-    L'occasion de revenir sur l'année écoulée, d'élir le bureau & le Conseil d'administration
-    et de constituer ou renforcer plusieurs commissions.
-  image: "/images/election-du-bureau.jpg"
+  title: Réhabiliter le débat
+  content: Depuis quelques mois maintenant, nous organisons des Agoriums afin de créer
+    des espaces de discussions entre citoyen⋅ne⋅s est l'objet-même de notre association
+    et cela passe forcément par des moments de rencontre pour décrypter les sujets
+    flous, comprendre les enjeux des choix politiques, tenter d'y prendre part ensemble...
+    bref donner une dimension plus importante à notre citoyenneté.
+  image: "/images/agorium-vignette-1.jpg"
   actions:
   - label: Lire l'article
-    url: "/posts/ag2021"
-  - label: Adhérer
-    url: https://portail.getigne-collectif.fr/u/adhesion
+    url: "/posts/agoriums"
 - type: section_features
   template: section_features
   section_id: ultimate-goal
