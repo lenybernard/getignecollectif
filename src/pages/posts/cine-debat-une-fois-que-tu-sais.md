@@ -3,8 +3,8 @@ template: post
 title: Ciné Débat - Une fois que tu sais
 subtitle: Séance spéciale au connétable
 date: 2021-11-08T23:00:00Z
-thumb_img_path: "/images/final_20211104_slides-holascrum-pour-l-agile-tour-nantes.pptx"
-img_path: "/images/film.webp"
+thumb_img_path: "/images/film.webp"
+img_path: "/images/7de526f9-006d-8261-6715-f3c4e4c9bc36.jpg"
 excerpt: ''
 
 ---
