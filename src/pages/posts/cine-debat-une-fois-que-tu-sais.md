@@ -32,10 +32,6 @@ Tous appellent à une action collective et solidaire pour préparer une transiti
 Date et heure : lundi 15 novembre à 20h00  
 Au cinéma Le Connétable à Clisson
 
-@fnepaysdelaloire  
-@associationnapce  
-@XRNantes   
-@CinemaConnetable@fnepaysdelaloire  
-@associationnapce  
-@XRNantes   
-@CinemaConnetableRéservation conseillée / Tarif habituel du cinéma
+Réservation conseillée / Tarif habituel du cinéma
+
+[https://www.ticketingcine.fr/?nc=0321&lang=fr&ids=10114&ps=erakys](https://www.ticketingcine.fr/?nc=0321&lang=fr&ids=10114&ps=erakys "https://www.ticketingcine.fr/?nc=0321&lang=fr&ids=10114&ps=erakys")
