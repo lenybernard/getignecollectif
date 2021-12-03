@@ -1,7 +1,7 @@
 ---
 template: post
-title: "Changement chez les élu·e·s \U0001F504 Thibaud Toullier remplace Céline David"
-subtitle: ''
+title: Changement chez les élu·e·s
+subtitle: "\U0001F504 Thibaud Toullier remplace Céline David"
 date: 2021-12-03T23:00:00Z
 thumb_img_path: "/images/celine-david-thivaud-toullier.png"
 img_path: "/images/celine-david-thivaud-toullier.png"
