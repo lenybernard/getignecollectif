@@ -1,6 +1,11 @@
 {
   "links": [
     {
+      "type": "internal",
+      "title": "Dossier chemin de l'arsenal",
+      "url": "https://getigne-collectif.fr/chemin-de-l-arsenal-decryptage/"
+    },
+    {
       "type": "instagram",
       "title": "Facebook",
       "url": "https://www.facebook.com/getigne"
