@@ -4,16 +4,13 @@ sections:
 - type: section_hero
   template: section_hero
   section_id: hero
-  title: Réhabiliter le débat
-  content: Depuis quelques mois maintenant, nous organisons des Agoriums afin de créer
-    des espaces de discussions entre citoyen⋅ne⋅s est l'objet-même de notre association
-    et cela passe forcément par des moments de rencontre pour décrypter les sujets
-    flous, comprendre les enjeux des choix politiques, tenter d'y prendre part ensemble...
-    bref donner une dimension plus importante à notre citoyenneté.
-  image: "/images/agorium-vignette-1.jpg"
+  title: On fait le bilan
+  content: " En ce début d'année 2022, on vous propose un petit bilan afin de revenir
+    sur 2021 et envisager ensemble notre nouvelle année."
+  image: "/images/onfaitlebilan.png"
   actions:
   - label: Lire l'article
-    url: "/posts/agoriums"
+    url: "/posts/bilan-2022/"
 - type: section_features
   template: section_features
   section_id: ultimate-goal
