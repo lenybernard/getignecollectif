@@ -7,7 +7,7 @@ sections:
   title: On fait le bilan
   content: " En ce début d'année 2022, on vous propose un petit bilan afin de revenir
     sur 2021 et envisager ensemble notre nouvelle année."
-  image: "/images/onfaitlebilan.png"
+  image: "/images/onfaitlebilan-white.png"
   actions:
   - label: Lire l'article
     url: "/posts/bilan-2022/"
