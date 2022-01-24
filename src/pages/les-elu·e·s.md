@@ -59,13 +59,17 @@ sections:
     theme: ''
     details: Commission **Mobilité, accessibilité, environnement**
     highlight: false
-    actions: []
+    actions:
+    - label: Contacter Gwenola Corre
+      url: mailto:gwenola.corre@getigne-collectif.fr
     image: "/images/11.png"
   - title: ''
     theme: ''
     details: Commission **Urbanisme**
     highlight: false
-    actions: []
+    actions:
+    - label: Contacte Thibaud Toullier
+      url: mailto:thibaud.toullier@getigne-collectif.fr
     image: "/images/12.png"
   title: ''
   subtitle: ''
