@@ -4,8 +4,14 @@ title: Assemblée générale 2022
 subtitle: Samedi c'est notre AG !
 date: 2022-02-25T23:00:00Z
 thumb_img_path: "/images/gc-ag-cover-event-fb.jpg"
-img_path: ''
-excerpt: ''
+img_path: "/images/gc-ag-cover-event-fb.jpg"
+excerpt: Lors de ce moment (ouvert à toutes et tous), les élu·e·s et les membres du
+  bureaux présenteront une retrospective sur l'année passée et feront un état de l'avancée
+  du projet associatif. Ce sera aussi l'occasion de présenter en exclusivité les projets
+  et partenariats en cours et d'accueillir les nouvelles personnes intéressées par
+  le collectif et souhaitant s'y investir. Un temps d'échange et de travail sur l'avenir
+  de l'association est aussi prévu et nous comptons sur la présence du plus grand
+  nombre d'entre vous !
 
 ---
 Lors de ce moment (ouvert à toutes et tous), les élu·e·s et les membres du bureaux présenteront une retrospective sur l'année passée et feront un état de l'avancée du projet associatif. Ce sera aussi l'occasion de présenter en exclusivité les projets et partenariats en cours et d'accueillir les nouvelles personnes intéressées par le collectif et souhaitant s'y investir. Un temps d'échange et de travail sur l'avenir de l'association est aussi prévu et nous comptons sur la présence du plus grand nombre d'entre vous !
