@@ -14,6 +14,8 @@ Lors de ce moment (ouvert à toutes et tous), les élu·e·s et les membres du b
 
 Enfin, un temps convivial sera prévu à la fin de l'AG et si vous le pouvez, amenez un petit quelque chose à partager !
 
+![](/images/appel-aux-dons-green(1).jpg)
+
 Et si vous n'avez pas encore adhéré, vous pouvez le faire en quelques minutes maintenant sur [https://portail.getigne-collectif.fr/u/adhesion2022](https://portail.getigne-collectif.fr/u/adhesion2022 "https://portail.getigne-collectif.fr/u/adhesion2022") ou directement samedi, en ramenant chéquier ou espèce à l'AG.
 
 À samedi !
