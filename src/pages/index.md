@@ -4,13 +4,13 @@ sections:
 - type: section_hero
   template: section_hero
   section_id: hero
-  title: On fait le bilan
-  content: " En ce début d'année 2022, on vous propose un petit bilan afin de revenir
-    sur 2021 et envisager ensemble notre nouvelle année."
-  image: "/images/onfaitlebilan-white.png"
+  title: Les actus
+  content: Vous n'avez pas lu la dernière lettre d'information ? Rattrapez le retard
+    !
+  image: "/images/atom.svg"
   actions:
-  - label: Lire l'article
-    url: "/posts/bilan-2022/"
+  - label: Lire
+    url: https://mailchi.mp/2e26a2009417/getigne-collectif-newsletter-8665517?e=b9d7b6fa7c
 - type: section_features
   template: section_features
   section_id: ultimate-goal
