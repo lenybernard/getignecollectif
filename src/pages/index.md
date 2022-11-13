@@ -10,7 +10,7 @@ sections:
   image: "/images/atom.svg"
   actions:
   - label: Lire
-    url: https://mailchi.mp/2e26a2009417/getigne-collectif-newsletter-8665517?e=b9d7b6fa7c
+    url: https://mailchi.mp/227d11a4a5e4/getigne-collectif-newsletter-8689789?e=[UNIQID]
 - type: section_features
   template: section_features
   section_id: ultimate-goal
