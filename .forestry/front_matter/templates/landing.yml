@@ -32,7 +32,7 @@ fields:
 pages:
 - src/pages/bio/cecile-chevalier.md
 - src/pages/bio/matthieu-covez.md
-- src/pages/chemin-de-l-arsenal-decryptage.md
+- src/pages/chemin-arsenal.md
 - src/pages/contact.md
 - src/pages/index.md
 - src/pages/les-elu·e·s.md
